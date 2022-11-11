@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = loigerian
+religion = catholic
+capital = 5023
+
+
+1440.1.1 = {
+	monarch = {
+		name = "Dioniso"
+		dynasty = "dé Vindastu"
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+}

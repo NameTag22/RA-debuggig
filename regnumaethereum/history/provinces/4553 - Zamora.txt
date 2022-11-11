@@ -1,0 +1,16 @@
+﻿capital = "Zamora"
+owner = ATU
+controller = ATU
+add_core = ATU
+culture = castrox
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = livestock
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

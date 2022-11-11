@@ -1,0 +1,16 @@
+capital = "Girgenti"
+owner = SIC
+controller = SIC
+add_core = SIC
+culture = sicilian
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = grain
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

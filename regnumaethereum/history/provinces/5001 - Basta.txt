@@ -1,0 +1,17 @@
+﻿capital = "Basta"
+owner = VLE
+controller = VLE
+add_core = BAE
+add_core = VLE
+culture = turdetan
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 2
+base_manpower = 4
+trade_goods = salt
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = katastasi
+government_rank = 1
+primary_culture = mesissian
+add_accepted_culture = makedonian
+religion = orthodox
+technology_group = ottoman
+capital = 1853	#Athens
+fixed_capital = 1853 # Cannot move capital away from this province & no power cost to move to it
+
+1440.1.1 = {
+	monarch = {
+		name = "Christophoros" #Name taken from a ruler known to have been ousted from this general area by one of his relatives in 1398.
+		dynasty = "Prasomales" #Dynasty is really unclear, could've been this.
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+}

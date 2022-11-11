@@ -1,0 +1,24 @@
+﻿l_english:
+ #tech
+ ra_byzantine:0 "Hellenic"
+ 
+ #unit names and desc
+ ra_byzantine_spearmen:0 "Akontistís Infantry"
+ ra_byzantine_gennaios:0 "Gennaios Cavalry"
+ ra_byzantine_knight:0 "Moiraios Knights"
+ ra_byzantine_cavalry:0 "Mavros Cavalry"
+ ra_byzantine_anthanaton:0 "Anthanaton Infantry"
+ ra_byzantine_ippiko:0 "Ippiko Cavalry"
+ ra_byzantine_empristikos:0 "Empristikos Infantry"
+ ra_byzantine_reformed_ippiko:0 "Reformed Ippiko Cavalry"
+ ra_byzantine_toufeki_knights:0 "Toufeki Knights"
+ ra_byzantine_theiko_ippiko:0 "Theiko Ippiko Cavalry"
+ ra_byzantine_patrida_froura:0 "Patrida Froura Infantry"
+ ra_byzantine_heavenly_ippeas:0 "Heavenly Ippeas Dragoon"
+ ra_byzantine_lightning_ippeas:0 "Lightning Ippeas Dragoon"
+ ra_byzantine_reformed_knight:0 "Reformed Adamastos Infantry"
+ ra_byzantine_adamanos:0 "Adamastos Infantry"
+ ra_byzantine_divine_ippeas:0 "Divine Ippeas Dragoon"
+ 
+ #sprite packs
+ ra_byzantine_sprite_pack:0 "Byzantine (RA) Sprite Pack"

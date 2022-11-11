@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = katastasi
+government_rank = 1
+technology_group = ottoman
+primary_culture = mesissian
+religion = orthodox
+capital = 142	# Heraklion
+fixed_capital = 142 
+
+1440.1.1 = {
+	monarch = {
+		name = "Hierotheos" #Name taken from a ruler known to have been ousted from this general area by one of his relatives in 1398.
+		dynasty = "Strabomytes" #Dynasty is really unclear, could've been this.
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}

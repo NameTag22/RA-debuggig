@@ -1,0 +1,17 @@
+﻿capital = "Montgomery"
+owner = CYU
+controller = CYU
+add_core = CYU
+culture = cyumrish
+religion = catholic
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 2
+trade_goods = iron
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+fort_15th = yes
+is_city = yes

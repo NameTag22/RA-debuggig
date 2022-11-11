@@ -1,0 +1,10 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 3
+technology_group = western
+primary_culture = loigerian
+add_accepted_culture = santonestic
+add_accepted_culture = narbonentic
+add_accepted_culture = belgican
+religion = catholic
+capital = 183

@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = ra_gael
+religion = norse_pagan_reformed
+technology_group = eastern
+capital = 4365 # Mann
+
+1443.9.18 = {
+	monarch = {
+		name = "O' Fergail"
+		dynasty = "Rothach"
+		culture = manx
+		birth_date = 1399.9.18
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}

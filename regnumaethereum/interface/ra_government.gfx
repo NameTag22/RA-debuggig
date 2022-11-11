@@ -1,0 +1,25 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "government_reform_theosskia"
+		texturefile = "gfx//interface//government_reform_icons//theosskia.dds"
+	}
+
+spriteType = {
+		name = "government_reform_katastasi"
+		texturefile = "gfx//interface//government_reform_icons//katastasi.dds"
+	}
+
+spriteType = {
+		name = "government_reform_doukato"
+		texturefile = "gfx//interface//government_reform_icons//doukato.dds"
+	}
+spriteType = {
+		name = "government_reform_megali_katastasi"
+		texturefile = "gfx//interface//government_reform_icons//megali_katastasi.dds"
+	}
+
+
+
+  }
+	

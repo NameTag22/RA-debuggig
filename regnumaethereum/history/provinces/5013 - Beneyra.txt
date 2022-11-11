@@ -1,0 +1,11 @@
+﻿capital = "Channel Islands"
+owner = BEY
+controller = BEY
+add_core = BEY
+culture = ra_gael
+religion = norse_pagan_reformed
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 4
+trade_goods = fish

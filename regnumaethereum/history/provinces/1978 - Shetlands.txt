@@ -1,0 +1,16 @@
+﻿capital = "Lerwick"
+owner = HJR
+controller = HJR
+add_core = HJR
+culture = ra_gael
+religion = norse_pagan_reformed
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = fish
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

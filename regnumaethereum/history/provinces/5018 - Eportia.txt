@@ -1,0 +1,10 @@
+﻿capital = "Remis1"
+owner = EPR
+controller = EPR
+add_core = EPR
+culture = treverian
+religion = catholic
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1

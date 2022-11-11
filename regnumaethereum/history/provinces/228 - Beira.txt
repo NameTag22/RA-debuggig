@@ -1,0 +1,16 @@
+﻿capital = "Viseu"
+owner = BRD
+controller = BRD
+add_core = BRD
+culture = lusitan
+religion = catholic
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+trade_goods = wine
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

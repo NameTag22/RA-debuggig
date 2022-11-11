@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = re_tremarian
+capital = 1933
+
+1444.1.1 = {
+	monarch = { 
+		name = "Falx"
+		dynasty = "de Valois"
+		birth_date = 1422.7.1
+		adm = 6
+		dip = 4
+		mil = 2
+	}
+}

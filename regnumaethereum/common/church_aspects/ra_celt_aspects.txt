@@ -1,0 +1,231 @@
+celt1ra = {
+	cost = 100
+	modifier = {
+			gold_depletion_chance_modifier = -0.15
+			inflation_reduction = 0.1
+
+	}
+	ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 1
+			is_at_war = no
+		}
+	}
+}
+
+celt2ra = {
+	cost = 100
+	modifier = {
+		ae_impact = -0.1
+	}
+	ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 2
+			NOT = { religious_unity = 0.8 }
+		}
+		modifier = {
+			factor = 2
+			unrest = 4
+			NOT = { stability = 0 }
+		}
+	}
+}
+
+celt3ra = {
+	cost = 100
+	modifier = { 
+		missionaries = 1
+		missionary_maintenance_cost = 0.25
+	}
+	ai_will_do = {
+		factor = 12
+		modifier = {
+			factor = 2
+			NOT = { religious_unity = 0.8 }
+		}
+		modifier = {
+			factor = 0
+			NOT = {
+				any_owned_province = {
+					has_owner_religion = no
+				}
+			}
+		}
+	}
+}
+
+celt4ra = {
+	cost = 100
+	modifier = { 
+		infantry_power = 0.10
+	}
+	ai_will_do = {
+		factor = 12
+		modifier = {
+			factor = 2
+			is_at_war = yes
+		}
+	}
+}
+
+celt5ra = {
+	cost = 100
+	modifier = { 
+		ship_durability = 0.1
+		naval_morale = 0.05
+	}
+	ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 2
+			is_at_war = yes
+		}
+	}
+}
+
+celt6ra = {
+	cost = 100
+	modifier = { 
+		prestige = 0.5
+	}
+	ai_will_do = {
+		factor = 12
+		modifier = {
+			factor = 2
+			NOT = { prestige = -40 }
+		}
+	}
+}
+
+celt7ra = {
+	cost = 100
+	modifier = {
+		navy_tradition = 1
+		navy_tradition_decay = -0.005
+	}
+	ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 2
+			is_at_war = yes
+		}
+	}
+}
+
+celt8ra = {
+	cost = 100
+	modifier = {
+		colonists = 1
+		global_colonial_growth = -10
+	}
+	ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 2
+			num_of_colonies = 1
+		}
+		modifier = {
+			factor = 2
+			num_of_colonists = 2
+		}
+	}
+}
+
+celt9ra = {
+	cost = 100
+	modifier = {
+		manpower_in_true_faith_provinces= 0.15
+	}
+	ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 2
+			is_at_war = yes
+			NOT = { manpower_percentage = 0.9 }
+		}
+		modifier = {
+			factor = 2
+			NOT = { manpower_percentage = 0.5 }
+		}
+	}
+}
+
+celt10ra = {
+	cost = 100
+	modifier = { 
+		institution_spread_from_true_faith = 0.33
+	}
+	ai_will_do = {
+		factor = 15
+	}
+}
+
+celt11ra = {
+	cost = 100
+	modifier = { 
+		merchants = 1
+		placed_merchant_power = -1
+	}
+	ai_will_do = {
+		factor = 17
+		modifier = {
+			factor = 0.5
+			treasury = 500
+		}
+		modifier = {
+			factor = 0
+			treasury = 2500
+		}
+	}
+}
+
+celt12ra = {
+	cost = 100
+	modifier = {
+		global_unrest = -2
+	}
+	ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 2
+			unrest = 2
+		}
+		modifier = {
+			factor = 2
+			num_of_rebel_controlled_provinces = 1
+		}	
+	}
+}
+
+celt13ra = {
+	cost = 100
+	modifier = {
+			siege_ability = 0.05
+			defensiveness = 0.10
+			
+	}
+	ai_will_do = {
+		factor = 15
+		modifier = {
+			factor = 1
+			is_at_war = no
+		}
+	}
+}
+
+celt14ra = {
+	cost = 100
+	modifier = {
+			diplomats = 1
+			improve_relation_modifier = -0.1
+	}
+	ai_will_do = {
+		factor = 15
+		modifier = {
+			factor = 1
+			is_at_war = no
+		}
+	}
+}

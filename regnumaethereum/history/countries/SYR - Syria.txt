@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = aramaic
+religion = nestorian
+technology_group = eastern
+capital = 377
+
+1440.1.1 = {
+	monarch = {
+		name = "Rhima"
+		dynasty = "Erishumid"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}

@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = katastasi
+government_rank = 1
+technology_group = ottoman
+primary_culture = tanatolian
+religion = orthodox
+capital = 2300	# Nafplio
+fixed_capital = 2300 # Cannot move capital away from this province & no power cost to move to it
+
+# Despots of Morea #
+
+1440.1.1 = {
+	monarch = {
+		name = "Antonia" #Name taken from a ruler known to have been ousted from this general area by one of his relatives in 1398.
+		dynasty = "Thrakesios" #Dynasty is really unclear, could've been this.
+		female = yes
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+}

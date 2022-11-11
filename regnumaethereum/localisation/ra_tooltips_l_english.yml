@@ -1,0 +1,5 @@
+﻿l_english:
+ #religion
+ heir_ed_tooltip:0 "Grants §Y[Root.Heir.GetName]§! a random §Tmonarch point§." 
+ prod_aspect_val_tt:0 "A Province gets §T1 Production§!." 
+ income_aspect_val_tt:0 "Take a §YLoan§! with §G2§! Interest Rate."

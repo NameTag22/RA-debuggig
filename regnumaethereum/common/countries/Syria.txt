@@ -1,0 +1,71 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 110 29 225 }
+revolutionary_colors = { 10  0  1 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+Ma'nu Abgar Bakru Sanatruk Parthamaspates Paqor Aryu Abdu Fradhasht Wa'il Ezad Sumaqa Saphul Piqa Gebar'u Maz'ur
+			Izates Bazeus Monobaz Meharaspes Narsai Shahrat Aphraates Sargon Ashur Aphrahat Pkidha Ninos Noh Habel 
+			Abedhmiha Hiran Saloupha Ahadabuhi Soubaliso Rhima Abbousta Erishum Ikunum Asinum Lullaya Bazaya Adad-Nirari
+			Essarhaddon Sennacherib Ashurbanipal Tiglath-Pileser Tukulti-Ninurta Shalmaneser Adad-Nirari Shu-Ninua
+	"Ma'nu #2" = 20
+	"Abgar #2" = 20
+	"Bakru #2" = 20
+	"Sanatruk #2" = 20
+	"Parthamaspates #1" = 20
+	"Paqor #1" = 20
+	"Aryu #1" = 15
+	"Fradhasht #2" = 10
+	"Abdu #1" = 10
+	"Wa'il #1" = 10
+	"Ezad #1" = 10
+	"Sumaqa #1" = 10
+	"Saphul #1" = 10
+	"Piqa #0" = 0
+	"Gebar'u #0" = 0
+	"Maz'ur #0" = -1
+}
+
+leader_names = {
+	Erishum
+	Ahadabuhi
+	Hiran
+	Abedhmiha
+	Ashur
+	Lullaya
+	Adad-Nirari
+	Sennacherib
+	Essarhaddon
+	Izates
+	Shu-Ninua
+	Bazeus
+}
+
+

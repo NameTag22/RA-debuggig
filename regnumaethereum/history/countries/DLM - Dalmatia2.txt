@@ -1,0 +1,19 @@
+government = republic
+add_government_reform = merchants_reform
+mercantilism = 25
+primary_culture = dalmatian
+religion = catholic
+technology_group = western
+capital = 136 # Split
+add_army_professionalism = 0.05
+government_rank = 2
+
+1443.4.5 = {
+	monarch = {
+		name = "Dalmat Hekuri"
+		birth_date = 1422.7.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}

@@ -1,0 +1,121 @@
+estate_afrokrema = {
+	icon = 8
+	
+
+	
+	# If true, country will get estate
+	trigger = {
+	has_reform = { theosskia }
+	}
+
+	# These scale with loyalty & power
+	country_modifier_happy = {
+		reduced_liberty_desire = 5
+		global_tax_modifier = 0.05
+	}
+	country_modifier_neutral = {
+		global_tax_modifier = 0.05
+	}	
+	country_modifier_angry = {
+		reduced_liberty_desire = -10
+		global_tax_modifier = -0.05
+		global_unrest = 2
+	}
+	land_ownership_modifier = {
+		afrokrema_loyalty_modifier = 0.2
+	}
+	province_independence_weight = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			culture_group = owner
+			religion_group = owner
+		}
+		modifier = {
+			factor = 1.5
+			base_manpower = 5
+		}
+		modifier = {
+			factor = 0.75
+			development = 20
+		}
+		modifier = {
+			factor = 0.5
+			NOT = { is_state_core = owner }
+		}
+	}
+
+
+	# Influence modifiers
+	base_influence = 0
+	influence_modifier = {
+		desc = EST_VAL_KATASTASI_1
+		trigger = {
+			has_subject_of_type = katastasi
+			has_subject_of_type = megali_katastasi
+			}
+		}
+		influence = 10		
+	}
+	}
+	influence_modifier = {
+		desc = EST_VAL_OTHER_ESTATE_IN_POWER
+		trigger = {
+			OR = {
+				has_disaster = estate_nobility_disaster
+				has_disaster = estate_church_disaster
+				has_disaster = estate_burghers_disaster
+				has_disaster = estate_brahmins_disaster
+				has_disaster = estate_vaisyas_disaster
+				has_disaster = estate_jains_disaster
+			}
+		}
+		influence = -40
+	}
+
+	influence_from_dev_modifier = 0.5
+	
+	#Loyalty Modifiers
+	loyalty_modifier = {
+		desc = EST_VAL_OTHER_ESTATE_IN_POWER_LOY
+		trigger = {
+			OR = {
+				has_disaster = estate_nobility_disaster
+				has_disaster = estate_church_disaster
+				has_disaster = estate_burghers_disaster
+				has_disaster = estate_brahmins_disaster
+				has_disaster = estate_vaisyas_disaster
+				has_disaster = estate_jains_disaster
+			}
+		}
+		loyalty = -20
+	}
+	loyalty_modifier = {
+		desc = EST_VAL_HEATHEN_PEACE_LOYALTY
+		trigger = {
+			NOT = {
+				any_known_country = {
+					war_with = ROOT
+					NOT = { religion = ROOT }
+				}
+			}
+		}
+		loyalty = 10
+	}
+	
+	privileges = {
+		estate_dhimmi_land_rights
+		estate_dhimmi_lighter_dhimmi_taxes
+		estate_dhimmi_guaranteed_autonomy
+		estate_dhimmi_dhimmi_nobles
+		estate_dhimmi_manpower
+		estate_dhimmi_tolerance
+		estate_dhimmi_guarantee_of_traditions
+		estate_dhimmi_grant_liberties
+	}
+
+	agendas = {
+	}
+
+	influence_from_dev_modifier = 1.0
+}

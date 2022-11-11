@@ -1,0 +1,16 @@
+﻿capital = "Cremona"
+owner = MLO
+controller = MLO
+add_core = MLO
+culture = raetian
+religion = catholic
+hre = yes
+base_tax = 6
+base_production = 5
+base_manpower = 4
+trade_goods = grain
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

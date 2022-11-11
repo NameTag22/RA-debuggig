@@ -1,0 +1,16 @@
+capital = "Bologna"
+owner = BLG
+controller = BLG
+add_core = BLG
+culture = umbrian
+religion = catholic
+hre = yes
+base_tax = 5
+base_production = 4
+base_manpower = 3
+trade_goods = cloth
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

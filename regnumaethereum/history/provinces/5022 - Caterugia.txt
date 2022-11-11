@@ -1,0 +1,10 @@
+﻿capital = "Valence"
+owner = CTG
+controller = CTG
+add_core = CTG
+culture = provencian
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1

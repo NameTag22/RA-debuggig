@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = western
+primary_culture = loigerian
+add_accepted_culture = sequani
+add_accepted_culture = aremorican
+religion = catholic
+capital = 183
+
+
+1440.1.1 = {
+	monarch = {
+		name = "Giacinto II"
+		dynasty = "dé Marugabro"
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+}

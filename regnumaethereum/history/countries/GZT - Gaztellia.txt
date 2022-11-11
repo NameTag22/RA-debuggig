@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = basque
+religion = catholic
+capital = 176
+
+
+1440.1.1 = {
+	monarch = {
+		name = "Esteban"
+		dynasty = "Zenbatu"
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}

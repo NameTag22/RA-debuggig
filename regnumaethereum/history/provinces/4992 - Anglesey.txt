@@ -1,0 +1,16 @@
+﻿capital = "Caernarvon"
+owner = CYU
+controller = CYU
+add_core = CYU
+culture = cyumrish
+religion = catholic
+hre = no
+base_tax = 2
+base_production = 1
+base_manpower = 1
+trade_goods = livestock
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = western
+religion = catholic
+government_rank = 1
+primary_culture = re_tremarian
+capital = 121
+
+1444.1.1 = {
+	monarch = { 
+		name = "Gracchus"
+		dynasty = "Ghisi"
+		birth_date = 1422.7.1
+		adm = 2
+		dip = 6
+		mil = 5
+	}
+}

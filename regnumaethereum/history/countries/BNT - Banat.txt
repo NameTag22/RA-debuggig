@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+primary_culture = visasian
+add_accepted_culture = moesian
+religion = orthodox
+technology_group = eastern
+capital = 268
+
+# The League of Lezhe
+1443.3.4 = {
+	monarch = {
+		name = "Murco"
+		dynasty = "Akmonper"	
+		culture = moesian
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}

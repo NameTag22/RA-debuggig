@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = briton
+religion = catholic
+capital = 235
+1443.3.4 = {
+	monarch = {
+		name = "Tasciovanus"
+		dynasty = "Dobunni"	
+		
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}

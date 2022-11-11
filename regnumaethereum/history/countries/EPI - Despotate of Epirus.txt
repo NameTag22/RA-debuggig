@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = katastasi
+government_rank = 1
+primary_culture = mesissian
+religion = orthodox
+technology_group = ottoman
+capital = 4699	#Athens
+fixed_capital = 4699 # Cannot move capital away from this province & no power cost to move to it
+
+1440.1.1 = {
+	monarch = {
+		name = "Andreas" #Name taken from a ruler known to have been ousted from this general area by one of his relatives in 1398.
+		dynasty = "Theosyios" #Dynasty is really unclear, could've been this.
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+}

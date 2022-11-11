@@ -1,0 +1,64 @@
+country_decisions = {
+
+	form_miapatrida = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			NOT = { has_country_flag = formed_miapatrida_flag }
+			NOT = { exists = MIP }
+			NOT = { tag = BYZ }
+			OR = {
+			tag = HLL
+			tag = MEA
+			}
+			OR = {
+			primary_culture = mesogeakian
+			primary_culture = tanatolian
+			primary_culture = pontic_hellenic
+			primary_culture = mesissian
+			primary_culture = makedonian
+			primary_culture = ageanic
+			primary_culture = propontissian
+			primary_culture = peloponnesian
+			}
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		allow = {
+		
+			AND = {
+			owns_all_provinces = { culture = mesogeakian}
+			owns_all_provinces = { culture = tanatolian}
+			owns_all_provinces = { culture = pontic_hellenic}
+			owns_all_provinces = { culture = mesissian}
+			owns_all_provinces = { culture = makedonian}
+			owns_all_provinces = { culture = ageanic}
+			owns_all_provinces = { culture = propontissian}
+			owns_all_provinces = { culture = peloponnesian}
+			}
+			
+			is_at_war = no
+		}
+		effect = {
+			add_prestige = 50
+			add_government_reform = megali_katastasi
+			change_tag = MIP
+			set_country_flag = formed_miapatrida_flag
+			if = {
+				limit = {
+					NOT = { government_rank = 3 }
+				}
+				set_government_rank = 3
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

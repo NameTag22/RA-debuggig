@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = katastasi
+government_rank = 1
+technology_group = ottoman
+primary_culture = tanatolian
+religion = orthodox
+capital = 329	# Nafplio
+fixed_capital = 329 # Cannot move capital away from this province & no power cost to move to it
+
+# Despots of Morea #
+
+1440.1.1 = {
+	monarch = {
+		name = "Belisarios" #Name taken from a ruler known to have been ousted from this general area by one of his relatives in 1398.
+		dynasty = "Aulepates" #Dynasty is really unclear, could've been this.
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}

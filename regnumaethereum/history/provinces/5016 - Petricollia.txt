@@ -1,0 +1,10 @@
+﻿capital = "Orleanes1"
+owner = PTR
+controller = PTR
+add_core = PTR
+culture = loigerian
+religion = catholic
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1

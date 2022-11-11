@@ -1,0 +1,23 @@
+﻿l_english:
+ theosskia:0 "Byzantine Theosskia"
+ theosskia_desc:0 " "
+ katastasi:0 "Katastasi State"
+ katastasi_desc:0 " "
+ doukato:0 "Doukato"
+ doukato_desc:0 " "
+ megali_katastasi:0 "Megali Katastasi State"
+ megali_katastasi_desc:0 " "
+ 
+ #royal titles
+ KATASTASI:0 "Katastasi"
+ MEGALI_KATASTASI:0 "Megali Katastasi"
+ DOUKATO:0 "Doukato"
+ REGAS:0 "Regas"
+ VASALISSA:0 "Vasalissa"
+ VASILOPOULA:0 "Vasılopoula"
+ BASILEIA:0 "Basileia"
+ BASILEUS:0 "Basileus"
+ 
+ #subject type
+ katastasi_vassal_title:0 "Katastasi"
+ katastasi_vassal_title_plural:0 "Katastasis"

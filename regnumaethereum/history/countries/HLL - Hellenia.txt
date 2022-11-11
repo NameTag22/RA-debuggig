@@ -1,0 +1,9 @@
+government = monarchy
+add_government_reform = megali_katastasi
+government_rank = 1
+primary_culture = messian
+add_accepted_culture = peloponnesian
+add_accepted_culture = makedonian
+religion = orthodox
+technology_group = ottoman
+

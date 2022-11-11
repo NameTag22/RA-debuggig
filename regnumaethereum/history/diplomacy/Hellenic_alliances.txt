@@ -1,0 +1,337 @@
+
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = EPI
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = ACY
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = AEL
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = AKR
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = AME
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = ATH
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = ATL
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = CAP
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = CIO
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = CPH
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = CRF
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = CRT
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = CYP
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = DOR
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = EOD
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = EUB
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = GAN
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = HIE
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = ION
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = JUS
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = KOO
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = KRS
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = KST
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = LES
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = LRD
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = MOB
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = NAX
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = PEL
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = PLA
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = RHO
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = SAP
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = SMY
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = SRE
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = THE
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = TMN
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = TRL
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = TPZ
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = ICO
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = CER
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = KAI
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = EKL
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = SIV
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = HON
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = PLY
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = MGN
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = SIN
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = NAX
+	start_date = 1440.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = COT
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}

@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = western
+primary_culture = santonestic
+add_accepted_culture = vennetic
+add_accepted_culture = aremorican
+religion = catholic
+capital = 178
+
+
+1440.1.1 = {
+	monarch = {
+		name = "Pasquale"
+		dynasty = "dé Marugabro"
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+}

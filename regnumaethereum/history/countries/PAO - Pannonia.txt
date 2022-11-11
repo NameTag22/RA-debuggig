@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+primary_culture = pannonian
+religion = catholic
+technology_group = western
+capital = 131
+
+# The League of Lezhe
+1443.3.4 = {
+	monarch = {
+		name = "Rrok"
+		dynasty = "Losha"	
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}

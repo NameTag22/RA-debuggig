@@ -1,0 +1,16 @@
+﻿capital = "Perugia"
+owner = PAP
+controller = PAP
+add_core = PAP
+culture = umbrian
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 4
+base_manpower = 1
+trade_goods = wine
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

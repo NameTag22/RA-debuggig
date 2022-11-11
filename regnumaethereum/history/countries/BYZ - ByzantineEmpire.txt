@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = theosskia
+government_rank = 3
+primary_culture = propontissian
+religion = orthodox
+technology_group = ottoman
+historical_rival = TUR
+capital = 151 # Constantinople
+fixed_capital = 151 # Cannot move capital away from this province & no power cost to move to it
+
+1440.1.1 = {
+	monarch = {
+		name = "Alexander" #Name taken from a ruler known to have been ousted from this general area by one of his relatives in 1398.
+		dynasty = "Theosyios" #Dynasty is really unclear, could've been this.
+		adm = 5
+		dip = 6
+		mil = 3
+	}
+}

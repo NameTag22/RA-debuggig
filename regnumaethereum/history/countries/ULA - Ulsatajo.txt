@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = turdetan
+religion = catholic
+technology_group = western
+capital = 5000 #Asturias
+
+1443.3.4 = {
+	monarch = {
+		name = "Alphonse"
+		dynasty = "Vilafermosa"	
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}

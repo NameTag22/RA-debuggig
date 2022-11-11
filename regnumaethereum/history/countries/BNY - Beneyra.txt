@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = ra_gael
+religion = norse_pagan_reformed
+capital = 5013
+
+
+1440.1.1 = {
+	monarch = {
+		name = "Iona"
+		dynasty = "Ncill"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}

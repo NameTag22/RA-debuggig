@@ -1,0 +1,17 @@
+﻿capital = "Canterbury"
+owner = DOW
+controller = DOW
+add_core = DOW
+culture = briton
+religion = catholic
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+trade_goods = cloth
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes
+fort_15th = yes

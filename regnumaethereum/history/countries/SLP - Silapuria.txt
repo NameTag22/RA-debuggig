@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = celtiberian
+religion = catholic
+technology_group = western
+capital = 219	# Galicia
+
+1443.3.4 = {
+	monarch = {
+		name = "Baltasar"
+		dynasty = "de Silva"
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+}

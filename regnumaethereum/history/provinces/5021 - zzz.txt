@@ -1,0 +1,10 @@
+﻿capital = "Central1"
+owner = SEQ
+controller = SEQ
+add_core = SEQ
+culture = sequani
+religion = catholic
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1

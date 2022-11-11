@@ -1,0 +1,16 @@
+﻿capital = "Bragan�a"
+owner = GLLL
+controller = GLL
+add_core = GLL
+culture = castrox
+religion = catholic
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 2
+trade_goods = wine
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

@@ -1,0 +1,19 @@
+government = monarchy
+
+add_government_reform = feudalism_reform
+
+religion = catholic
+primary_culture = ra_valentian
+add_accepted_culture = ra_catelan
+technology_group = western
+capital = 220	# Valencia
+
+1443.3.4 = {
+	monarch = {
+		name = "Valentine IV"
+		dynasty = "de Valentia"	
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}

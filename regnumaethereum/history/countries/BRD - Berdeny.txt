@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = lusitan
+religion = catholic
+technology_group = western
+capital = 227	# Galicia
+
+1443.3.4 = {
+	monarch = {
+		name = "Sancho"
+		dynasty = "Osorio"	
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}

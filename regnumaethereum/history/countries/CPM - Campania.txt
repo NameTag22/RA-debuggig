@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = western
+government_rank = 1
+religion = catholic
+primary_culture = re_tremarian
+capital = 2983
+
+1444.1.1 = {
+	monarch = { 
+		name = "Romulus"
+		dynasty = "Atia"
+		birth_date = 1422.7.1
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+}

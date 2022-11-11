@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = ra_gael
+religion = norse_pagan_reformed
+technology_group = eastern
+capital = 251 
+
+1443.9.18 = {
+	monarch = {
+		name = "Diarmid"
+		dynasty = "Rothach"
+		birth_date = 1403.9.18
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}

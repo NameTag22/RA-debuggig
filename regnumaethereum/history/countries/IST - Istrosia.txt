@@ -1,0 +1,41 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+primary_culture = thracian
+religion = orthodox
+technology_group = eastern
+capital = 2750
+
+# The League of Lezhe
+1385.3.4 = {
+	monarch = {
+		name = "Istros"
+		dynasty = "Thraxan"
+				
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1404.3.4 = {
+	monarch = {
+		name = "Zalmoxis"
+		dynasty = "Thraxan"
+				
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1443.3.4 = {
+	monarch = {
+		name = "Istros II"
+		dynasty = "Thraxan"
+		birth_date = 1409.1.1		
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}

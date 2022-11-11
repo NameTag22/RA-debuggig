@@ -1,0 +1,24 @@
+capital = "Vannes"
+owner = VNT
+controller = VNT
+add_core = VNT
+culture = vennetic
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+trade_goods = fish
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes
+vered_by = ottoman
+
+
+1453.1.1 = { add_core = FRA }
+1532.8.4 = { owner = FRA controller = FRA } # Union Treaty
+1588.12.1 = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
+1594.1.1 = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to Catholicism
+1650.1.1 = { capital = "Lorient" }

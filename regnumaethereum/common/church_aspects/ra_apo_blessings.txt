@@ -1,0 +1,96 @@
+ra_scholars_all_around_world = {
+	is_blessing = yes
+
+	modifier = {
+		idea_cost = -0.05
+	}
+	ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 3
+			NOT = {
+				OR = {
+					legitimacy = 70
+					republican_tradition = 70
+					devotion = 70
+				}
+			}
+		}
+	}
+}
+
+ra_warriors_of_the_faith = {
+	is_blessing = yes
+
+	modifier = {
+		land_morale = 0.05
+	}
+	ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 3
+			NOT = {
+				manpower = 4
+			}
+		}
+	}
+}
+
+ra_believer_advisors = {
+	is_blessing = yes
+
+	modifier = {
+		advisor_cost = -0.1
+	}
+	ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 2
+			NOT = {
+				religious_unity = 0.9
+			}
+		}
+		modifier = {
+			factor = 2
+			NOT = {
+				religious_unity = 0.7
+			}
+		}
+		modifier = {
+			factor = 2
+			NOT = {
+				religious_unity = 0.5
+			}
+		}
+	}
+}
+
+ra_conquest_for_our_fathers = {
+	is_blessing = yes
+
+	modifier = {
+		warscore_cost_vs_other_religion = -0.1
+	}
+	ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 2
+			overextension_percentage = 0.7
+		}
+		modifier = {
+			factor = 3
+			overextension_percentage = 0.5
+		}
+	}
+}
+
+ra_sparks_of_fire = {
+	is_blessing = yes
+
+	modifier = {
+		siege_ability = 0.05
+	}
+	ai_will_do = {
+		factor = 15
+	}
+}

@@ -1,0 +1,19 @@
+government = monarchy
+
+add_government_reform = feudalism_reform
+
+religion = catholic
+primary_culture = balearic
+technology_group = western
+capital = 4560	# Valencia
+
+1443.3.4 = {
+	monarch = {
+		name = "Teodor"
+		dynasty = "de Ibossa"	
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+

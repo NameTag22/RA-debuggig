@@ -1,0 +1,16 @@
+﻿capital = "Pesaro"
+owner = ANC
+controller = ANC
+add_core = ANC
+culture = umbrian
+religion = catholic
+hre = yes
+base_tax = 5
+base_production = 5
+base_manpower = 4
+trade_goods = paper
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

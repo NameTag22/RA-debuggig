@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = ra_gael
+religion = norse_pagan_reformed
+technology_group = eastern
+capital = 253
+
+1443.9.18 = {
+	monarch = {
+		name = "Faolan"
+		dynasty = "Rothach"
+		birth_date = 1499.9.18
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}

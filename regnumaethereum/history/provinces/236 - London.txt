@@ -1,0 +1,28 @@
+#236 - London
+#Middlesex+Hertfordshire+Surrey+parts of Kent and Essex
+
+owner = DOW
+controller = DOW
+culture = briton
+religion = catholic
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = cloth
+base_manpower = 4
+capital = "London"
+is_city = yes
+add_core = DOW
+
+
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+extra_cost = 26
+center_of_trade = 2
+
+add_permanent_province_modifier = {
+	name = thames_estuary_modifier
+	duration = -1
+}

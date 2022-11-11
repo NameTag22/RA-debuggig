@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+primary_culture = visasian
+religion = orthodox
+technology_group = eastern
+capital = 153
+
+# The League of Lezhe
+1443.3.4 = {
+	monarch = {
+		name = "Dicomes"
+		dynasty = "Dapyxper"	
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}

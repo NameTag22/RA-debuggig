@@ -1,0 +1,268 @@
+#Albania
+
+graphical_culture = easterngfx
+
+color = { 237 213 33 }
+
+revolutionary_colors = { 4 1 4 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+monarch_names = {
+	"Gjergj #0" = 20
+	"Lekë #0" = 20
+	"Gjon #0" = 10
+	"Kostandin #0" = 10
+	"Lulëzim #0" = 10
+	"Pal #0" = 0
+	"Tanush #1" = 10
+	"Aleksandër #0" = 10
+	"Karolus #2" = 1
+	"Filippo #1" = 1
+	"Adnan #0" = 1
+	"Agim #0" = 1
+	"Bashkim #0" = 1
+	"Besnik #0" = 1
+	"Bujar #0" = 1
+	"Dardan #0" = 1
+	"Dhurim #0" = 1
+	"Dritëro #0" = 1
+	"Elidon #0" = 1
+	"Erjon #0" = 1
+	"Fatmir #0" = 1
+	"Flamur #0" = 1
+	"Florin #0" = 1
+	"Hekuran #0" = 1
+	"Ilir #0" = 1
+	"Ismail #0" = 5
+	"Klodian #0" = 1
+	"Luigj #0" = 1
+	"Milaim #0" = 1
+	"Nikolla #0" = 1
+	"Pashko #0" = 1
+	"Pëllumb #1" = 5
+	"Përparim #0" = 1
+	"Pjetër #0" = 5
+	"Rrok #0" = 1
+	"Shpëtim #0" = 1
+	"Tahir #0" = 1
+	"Viktor #0" = 1
+	"Xhevat #0" = 1
+	"Ylli #0" = 1
+	"Zenel #0" = 1
+	"Halil #0" = 1
+	"Ali #0" = 10
+	"Mustafa #0" = 10
+	"Qemal #0" = 1
+	"Enver #0" = 1
+	"Mehmet #0" = 1
+	"Ramiz #0" = 1
+	"Edi #0" = 1
+	"Demaci #0" = 1
+	"Edon #0" = 1
+	"Dukagjin #0" = 10
+	"Haxhi #0" = 10
+	"Lishëndri #0" = 1
+	"Mensur #0" = 1
+	"Kreshnik #0" = 1
+	"Rahman #0" = 1
+	"Nxhiku #0" = 1
+	"Riza #0" = 1
+	"Rexhep #0" = 1
+	"Ramadan #0" = 1
+	"Sulejman #0" = 10
+	"Selim #0" = 1
+	"Sadik #0" = 1
+	
+	"Gjylo #0" = -1
+	"Blerta #0" = -1
+	"Fatmire #0" = -1
+	
+	"Kreshimir #0" = 80
+	"Stjepan #0" = 40
+	"Almosh #0" = 20
+	"Dimitrije Zvonimir #0" = 20
+	"Trpimir #0" = 15
+	"Goislav #0" = 15
+	"Slavic #0" = 15
+	"Svetoslav #0" = 15
+	"Miroslav #0" = 10
+	"Mutimir #0" = 10
+	"Tomislav #0" = 10
+	"Gashpar #0" = 5
+	"Ladislav #0" = 5
+	"Karlo #0" = 5
+	"Andrija #0" = 5
+	"Ludovik #0" = 5
+	"Petar #0" = 5
+	"Vladislav #0" = 5
+	"Vjenceslav #0" = 5
+	"Antonio #0" = 20
+	"Michele #0" = 20
+	"Tomasso #0" = 20
+	"Mosé #0" = 40
+	"Niccolò #0" = 40
+	"Domenico #0" = 20
+	"Francesco #0" = 20
+	"Giovanni #0" = 20
+	"Marco #0" = 20
+	"Vittore #0" = 20
+	"Agostino #0" = 0
+	"Alfredo #0" = 0
+	"Alvise #0" = 0
+	"Andrea #0" = 0
+	"Anselmo #0" = 0
+	"Bertucci #0" = 0
+	"Bruno #0" = 0
+	"Carlo #0" = 0
+	"Constanzo #0" = 0
+	"Cristoforo #0" = 0
+	"Enzo #0" = 0
+	"Fabrizio #0" = 0
+	"Gianpiero #0" = 0
+	"Girolamo #0" = 0
+	"Giuseppe #0" = 0
+	"Jacopo #0" = 0
+	"Leonardo #0" = 0
+	"Lorenzo #0" = 0
+	"Ludovico #0" = 0
+	"Luigi #0" = 0
+	"Marco Antonio #0" = 0
+	"Marino #0" = 0
+	"Mario #0" = 0
+	"Ottavio #0" = 0
+	"Pasquale #0" = 0
+	"Pietro #0" = 0
+	"Sebastiano #0" = 0
+	"Silvestro #0" = 0
+	"Simone #0" = 0
+	"Teodoro #0" = 0
+	"Urbano #0" = 0
+	"Vitale #0" = 0
+	
+	"Jelena #1" = -15
+	"Marija #0" = -1
+	"Petra #0" = -1
+	"Pierina #0" = -1
+	"Santuzza #0" = -1
+	"Eulalia #0" = -1
+}
+
+leader_names = {
+	Arianit
+	Badera Balsha Bua
+	Cervota Comneniates
+	Dukagjini
+	Faqemiri
+	Gojcin Golemi
+	Kastrioti
+	Losha
+	Musaki
+	Sguros Shpata Spani
+	Thopia
+	Toptani
+	Vishanj
+	Zenevisi Zogu
+	Hoxha
+	Çarçani
+	Chani
+	Dosti
+	Elezi
+	Duka
+	Fakaj
+	Corbajram
+	Halili
+	Hamza
+	Gecaj
+	Hajdaraga
+	Gjokaj
+	Gjika
+	Shehu
+	Alia
+	Vata
+	Veseli
+	Xhumba
+	Xhaferi
+	Ziberi
+	Useni
+	Ymeri
+	Alapic
+	Babonic Blagaj
+	Cesnegic Crnkovic
+	Drashkovic
+	Frankapan
+	Gorjanski
+	Horvat Hrvatinic
+	Ilocki
+	Jelacic
+	Kacic Kaniski Keglevic Knezevic Krbavski Kruzic Kurjakovic
+	Lackovic
+	Mihalovic
+	Nelipcic
+	Ozegovic
+	Pejacevic
+	Radic Rukavina
+	Subic
+	Talovac
+	Vrancic
+	Zrinski
+	"d'Alviano" Alvise
+	Barbarigo Bembo Barilla Bassano Bardolino
+	Cornaro Contarini Cassandro Casanova Commachio Chiogga
+	Donato Dolfin "de Blazio"
+	Emo Erizzo Ermelli
+	Foscolo Flangini Foscarini
+	Grimani Giustinani Gritti Garda
+	Loredan Labia Lomellini Lando
+	Moceningo Marcello Morosini Molin Moro Memmo Magno Mestre Modigliano
+	Quirini
+	Polani Priuli Pisani Pesaro Pezzini Pordenone
+	Riva Ruzzini Rovigo Rovereto
+	"San Paulo" Schio Sugaina
+	Trevisano Toscani
+	Veniero Valieri Vittorio
+	Zeno Zustiniani
+}
+
+ship_names = {
+	"Bishti i Palles"
+	"Gjiri i Drinit" "Gjiri i Rondonit"
+	Jube
+	"Kalaja e Turres" "Kepi i Rodonit" Kyrekuq
+	Shengjin Shetaj
+	Velipoje
+	Cres
+	"Dugi Otok"
+	Goli
+	Krl
+	Pag Plavnik
+	Susak "Sveti Grgur"
+	Tijat
+	Unije
+	"Vele Srankane"
+	Zlarin Zmajan
+}

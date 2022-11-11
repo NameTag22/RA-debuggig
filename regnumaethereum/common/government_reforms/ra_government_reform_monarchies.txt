@@ -1,0 +1,154 @@
+theosskia = {
+	icon = "theosskia"
+	allow_normal_conversion = yes
+	potential = {
+		OR = {
+			AND = {
+				capital_scope = {
+					province_id = 151
+				}
+				culture_group = hellenic
+				
+			}
+			AND = {
+				is_playing_custom_nation = yes
+				have_had_reform = theosskia
+			}
+		}
+	}
+	valid_for_nation_designer = no
+	nation_designer_cost = 50
+	nation_designer_trigger = {
+		culture_group = japanese_g
+		technology_group = chinese
+		capital_scope = { region = japan_region }
+		owns = 1020
+	}
+	legacy_equivalent = theosskia_legacy
+	fixed_rank = 3
+	has_parliament = yes
+	maintain_dynasty = yes
+	allow_vassal_war = no
+	allow_vassal_alliance = yes
+	lock_level_when_selected = yes
+	can_change_primary_culture = no
+
+	modifiers = {
+		diplomats = 1
+		envoy_travel_time = -0.25
+		vassal_forcelimit_bonus = -1
+		governing_capacity = -150
+		max_absolutism = 5
+	}
+
+	custom_attributes = {
+		locked_government_type = yes
+	}
+}
+
+katastasi = {
+	icon = "katastasi"
+	allow_normal_conversion = no
+	potential = {
+		NOT = { has_country_flag = formed_japan_flag }
+		overlord = { has_reform = theosskia }
+		NOT = { tag = BYZ }
+	}
+	replacement_on_independence_war = doukato
+	legacy_equivalent = katastasi_legacy
+	fixed_rank = 1
+	maintain_dynasty = yes
+	valid_for_nation_designer = no
+	nation_designer_cost = 0
+	lock_level_when_selected = yes
+	nation_designer_trigger = {
+		culture_group = japanese_g
+		technology_group = chinese
+		capital_scope = { region = anatolia_region }
+				capital_scope = { region = balkan_region }
+	}
+	modifiers = {
+		global_regiment_recruit_speed = -0.20
+		global_regiment_cost = -0.10
+		siege_ability = 0.10
+		
+	}
+	custom_attributes = {
+		locked_government_type = yes
+	}
+}
+
+doukato = {
+	icon = "doukato"
+	allow_normal_conversion = no
+	potential = {
+			NOT = { tag = BYZ }
+		OR = {
+			AND = {
+				OR = {
+					#overlord = { NOT = { has_reform = shogunate } }
+					is_subject = no
+					is_subject_of_type = tributary_state
+				}
+				OR = {
+				capital_scope = { region = anatolia_region }
+				capital_scope = { region = balkan_region }
+				}
+				culture_group = hellenic
+			}
+			AND = {
+				is_playing_custom_nation = yes
+				have_had_reform = doukato
+			}
+		}
+	}
+	valid_for_nation_designer = no
+	nation_designer_cost = 0
+	nation_designer_trigger = {
+	}
+	fixed_rank = 1
+	legacy_equivalent = doukato_legacy
+	maintain_dynasty = yes
+
+	modifiers = {
+		recover_army_morale_speed = 0.10
+		infantry_power = 0.1
+		governing_capacity = -100
+	}
+	custom_attributes = {
+		locked_government_type = yes
+	}
+}
+
+megali_katastasi = {
+	icon = "megali_katastasi"
+	allow_normal_conversion = no
+	potential = {
+		NOT = { has_country_flag = formed_japan_flag }
+		overlord = { has_reform = theosskia }
+		NOT = { tag = BYZ }
+	}
+	replacement_on_independence_war = doukato
+	legacy_equivalent = megali_katastasi_legacy
+	fixed_rank = 1
+	maintain_dynasty = yes
+	valid_for_nation_designer = no
+	nation_designer_cost = 0
+	lock_level_when_selected = yes
+	nation_designer_trigger = {
+		culture_group = japanese_g
+		technology_group = chinese
+		capital_scope = { region = anatolia_region }
+				capital_scope = { region = balkan_region }
+	}
+	modifiers = {
+		global_regiment_recruit_speed = -0.25
+		siege_ability = 0.10
+		global_tax_modifier = 0.05
+		prestige_from_land = 0.15
+		
+	}
+	custom_attributes = {
+		locked_government_type = yes
+	}
+}

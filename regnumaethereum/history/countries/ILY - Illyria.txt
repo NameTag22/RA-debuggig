@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+primary_culture = illyrian
+add_accepted_culture = moesian
+religion = orthodox
+technology_group = eastern
+capital = 139
+add_army_professionalism = 0.05
+# The League of Lezhe
+1443.3.4 = {
+	monarch = {
+		name = "Illyrius"
+		dynasty = "Progon"
+		birth_date = 1415.1.1		
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}

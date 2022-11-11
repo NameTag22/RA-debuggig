@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = sequani
+religion = catholic
+capital = 203
+
+
+1440.1.1 = {
+	monarch = {
+		name = "Ellair"
+		dynasty = "Dattimans"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}

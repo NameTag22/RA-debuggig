@@ -1,0 +1,42 @@
+country_decisions = {
+
+	form_mesissia = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			NOT = { has_country_flag = formed_mesissia_flag }
+			NOT = { exists = MES }
+			NOT = { tag = BYZ }
+			primary_culture = mesissian
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		allow = {
+			
+			owns_all_provinces = { culture = mesissian}
+		
+			is_at_war = no
+		}
+		effect = {
+			add_prestige = 25
+			add_government_reform = megali_katastasi
+			change_tag = MES
+			set_country_flag = formed_mesissia_flag
+			if = {
+				limit = {
+					NOT = { government_rank = 1 }
+				}
+				set_government_rank = 1
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

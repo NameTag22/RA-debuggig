@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = ra_gael
+religion = norse_pagan_reformed
+technology_group = eastern
+capital = 4367
+
+1443.9.18 = {
+	monarch = {
+		name = "Bhaltair"
+		dynasty = "Rothach"
+		birth_date = 1400.9.18
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+}

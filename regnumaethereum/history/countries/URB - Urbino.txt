@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = umbrian
+religion = catholic
+technology_group = western
+capital = 2977
+
+1444.1.1 = {
+	monarch = { 
+		name = "Drusus"
+		dynasty = "Aufidia"
+		birth_date = 1422.7.1
+		adm = 5
+		dip = 1
+		mil = 6
+	}
+}

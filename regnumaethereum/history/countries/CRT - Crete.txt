@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = katastasi
+government_rank = 1
+technology_group = ottoman
+primary_culture = ageanic
+add_accepted_culture = lombard
+religion = orthodox
+capital = 4966	# Heraklion
+fixed_capital = 4966 # Cannot move capital away from this province & no power cost to move to it
+
+1440.1.1 = {
+	monarch = {
+		name = "Konstantinos" #Name taken from a ruler known to have been ousted from this general area by one of his relatives in 1398.
+		dynasty = "Mamonas" #Dynasty is really unclear, could've been this.
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}

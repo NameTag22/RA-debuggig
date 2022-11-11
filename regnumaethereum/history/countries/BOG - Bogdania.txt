@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+primary_culture = dacian
+religion = orthodox
+technology_group = eastern
+capital = 268
+
+# The League of Lezhe
+1443.3.4 = {
+	monarch = {
+		name = "Bogdan"
+		dynasty = "Golescu"	
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+}

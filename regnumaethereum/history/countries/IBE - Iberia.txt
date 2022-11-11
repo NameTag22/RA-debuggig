@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = ra_valentian
+add_accepted_culture = turdetan
+add_accepted_culture = lusitan
+add_accepted_culture = castrox
+add_accepted_culture = celtiberian
+add_accepted_culture = balearic
+religion = catholic
+technology_group = western
+capital = 220 # Toledo

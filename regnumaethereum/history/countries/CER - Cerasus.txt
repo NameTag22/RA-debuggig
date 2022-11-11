@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = katastasi
+government_rank = 1
+technology_group = ottoman
+primary_culture = pontic_hellenic
+religion = orthodox
+capital = 4954	# Nafplio
+fixed_capital = 4954 # Cannot move capital away from this province & no power cost to move to it
+
+# Despots of Morea #
+
+1440.1.1 = {
+	monarch = {
+		name = "Nikomedes" #Name taken from a ruler known to have been ousted from this general area by one of his relatives in 1398.
+		dynasty = "Hexakionites" #Dynasty is really unclear, could've been this.
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}

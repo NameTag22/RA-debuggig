@@ -1,0 +1,16 @@
+﻿capital = "Boyle"
+owner = IRE
+controller = IRE
+add_core = IRE
+culture = ra_irish
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = naval_supplies
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

@@ -1,0 +1,16 @@
+﻿capital = "Norwich"
+owner = GWT
+controller = GWT
+add_core = GWT
+culture = briton
+religion = catholic
+hre = no
+base_tax = 5
+base_production = 4
+base_manpower = 3
+trade_goods = iron
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

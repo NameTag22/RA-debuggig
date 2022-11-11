@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+primary_culture = visasian
+religion = orthodox
+technology_group = eastern
+capital = 158
+
+# The League of Lezhe
+1443.3.4 = {
+	monarch = {
+		name = "Ecatarina"
+		dynasty = "Carpi"	
+		female = yes 
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}

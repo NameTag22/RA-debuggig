@@ -1,0 +1,99 @@
+﻿l_english:
+ #hellenic
+ hellenic:0 "Hellenic"
+ makedonian:0 "Makedonian"
+ pontic_hellenic:0 "Pontic"
+ ageanic:0 "Aegeanic"
+ peloponnesian:0 "Peloponnesian"
+ mesissian:0 "Mesissian"
+ propontissian:0 "Propontissian"
+ tanatolian:0 "Anatolian"
+ mesogeakian:0 "Mesogeakian"
+ hellen:0 "Greek"
+ 
+ #caucasian
+ anatoliakan:0 "Anatoliakan"
+ 
+ #mesopotamian
+ mesopotamian:0 "Mesopotamian"
+ assyrian:0 "Assyrian"
+ aramaic:0 "Aramaic"
+ 
+ #east balkanic
+ eastern_balkanic:0 "Getae-Balkanic"
+ dacian:0 "Daecian"
+ thracian:0 "Thracean"
+ visasian:0 "Vissasean"
+ gb_albanian:0 "Albonean"
+ gb_moesian:0 "Mosean"
+ gb_illyrian:0 "Ellyrean"
+ gb_pannonian:0 "Pannonean"
+ gb_dalmatian:0 "Dalmatinean"
+ 
+ #west balkanic
+ western_balkanic:0 "Latino-Balkanic"
+ pannonian:0 "Pannonian"
+ dalmatian:0 "Dalmatian"
+ lb_albanian:0 "Albonian"
+ lb_illyrian:0 "Illyrian"
+ lb_moesian:0 "Moesian"
+ lb_dacian:0 "Dacian"
+ lb_thracian:0 "Thracian"
+ lb_visasian:0 "Visasian"
+ 
+ #south balkanic
+ southern_balkanic:0 "Dardan-Balkanic"
+ ra_albanian:0 "Shqiptari"
+ moesian:0 "Moesi"
+ illyrian:0 "Illyri"
+ pb_pannonian:0 "Pannoni"
+ pb_dalmatian:0 "Dalmati"
+ pb_dacian:0 "Daci"
+ pb_thracian:0 "Thraci"
+ pb_visasian:0 "Visassi"
+ 
+ 
+ #britannia
+ celtic:0 "Celtic"
+ cyumrish:0 "Cyumrish"
+ kernowish:0 "Kernowish"
+ cumbric:0 "Cumbric"
+ briton:0 "Brittonic"
+ ra_irish:0 "Irish"
+ pictish:0 "Pictish"
+ ra_gael:0 "Norse-Gealic"
+ goedelic:0 "Goedelic"
+ manx:0 "Manx"
+ 
+ #iberian
+ ra_iberian:0 "Iberian"
+ celtiberian:0 "Celtiberian"
+ lusitan:0 "Lusitan"
+ turdetan:0 "Turdetan"
+ ra_catelan:0 "Catelan"
+ ra_valentian:0 "Valentian"
+ balearic:0 "Balearic"
+ castrox:0 "Castrox"
+ 
+ #basque
+ ra_basque:0 "Basque"
+ 
+ #latin
+ ita_dalmatian:0 "Dalmatan"
+ raetian:0 "Raetian"
+ ra_ligurian:0 "Ligurian"
+ ra_tremarian:0 "Tremarian"
+ ra_provencian:0 "Provencian"
+ 
+ #gaullish
+ gaullish:0 "Gaullish"
+ belgican:0 "Belgican"
+ helvetian:0 "Helvetian"
+ vennetic:0 "Vennetic"
+ santonestic:0 "Santonestic"
+ loigerian:0 "Loigerian"
+ sequani:0 "Sequani"
+ aremorican:0 "Aremorican"
+ treverian:0 "Treverian"
+ narbonentic:0 "Narbonentic"
+ 

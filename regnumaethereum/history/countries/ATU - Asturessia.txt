@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = castrox
+religion = catholic
+technology_group = western
+capital = 207 #Asturias
+
+1443.3.4 = {
+	monarch = {
+		name = "García"
+		dynasty = "Carpetani"	
+		adm = 6
+		dip = 4
+		mil = 2
+	}
+}

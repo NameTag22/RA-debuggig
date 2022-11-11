@@ -1,0 +1,16 @@
+﻿capital = "Sig�enza"
+owner = SLP
+controller = SLP
+add_core = SLP
+culture = celtiberian
+religion = catholic
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = wool
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

@@ -1,0 +1,16 @@
+capital = "Mdina"
+owner = MLT
+controller = MLT
+add_core = MLT
+culture = maltese
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = fish
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

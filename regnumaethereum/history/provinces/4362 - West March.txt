@@ -1,0 +1,17 @@
+capital = "Dumfries"
+owner = GAY
+controller = GAY
+add_core = GAY
+culture = cumbric
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = wool
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+fort_15th = yes
+is_city = yes

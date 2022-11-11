@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = venetian
+religion = catholic
+technology_group = western
+capital = 108
+
+1444.1.1 = {
+	monarch = { 
+		name = "Falx"
+		dynasty = "Dandolo"
+		birth_date = 1422.7.1
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+}

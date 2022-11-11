@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = briton
+religion = catholic
+capital = 1860 # Gwynedd
+1443.3.4 = {
+	monarch = {
+		name = "Erbin"
+		dynasty = "Regnense"	
+		
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}

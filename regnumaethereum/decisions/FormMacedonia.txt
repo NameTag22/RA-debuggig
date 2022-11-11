@@ -1,0 +1,55 @@
+country_decisions = {
+
+	form_macedonia = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			NOT = { has_country_flag = formed_macedonia_flag }
+			NOT = { exists = MAC }
+			NOT = { tag = BYZ }
+			primary_culture = makedonian
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		allow = {
+			is_at_war = no
+			num_of_owned_provinces_with = {
+			value = 3
+			culture = makedonian
+        }
+		OR = {
+			AND ={
+			NOT = { exists = SRE }
+			NOT = { exists = KST } }
+			AND ={
+			NOT = {exists = SRE }
+			NOT = {exists = PLA } }
+			AND ={
+			NOT = {exists = KST }
+			NOT = {exists = PLA } }
+			}
+		}
+		effect = {
+			add_prestige = 25
+			add_government_reform = megali_katastasi
+			change_tag = MAC
+			set_country_flag = formed_macedonia_flag
+			if = {
+				limit = {
+					NOT = { government_rank = 1 }
+				}
+				set_government_rank = 1
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
+}

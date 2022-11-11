@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = katastasi
+government_rank = 1
+technology_group = ottoman
+primary_culture = mesogeakian
+religion = orthodox
+capital = 319	# Nafplio
+fixed_capital = 319 # Cannot move capital away from this province & no power cost to move to it
+
+# Despots of Morea #
+
+1440.1.1 = {
+	monarch = {
+		name = "Skantarios" #Name taken from a ruler known to have been ousted from this general area by one of his relatives in 1398.
+		dynasty = "Mamonas" #Dynasty is really unclear, could've been this.
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}

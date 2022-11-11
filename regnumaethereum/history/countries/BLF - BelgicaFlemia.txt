@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = western
+primary_culture = belgican
+add_accepted_culture = flemish
+religion = catholic
+capital = 90
+
+
+1440.1.1 = {
+	monarch = {
+		name = "Beitiris"
+		female = yes
+		dynasty = "dé Marugabro"
+		adm = 4
+		dip = 6
+		mil = 2
+	}
+}

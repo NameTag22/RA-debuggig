@@ -1,0 +1,16 @@
+﻿capital = "Saluzzo"
+owner = SZZ
+controller = SZZ
+add_core = SZZ
+culture = raetian
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 4
+base_manpower = 4
+trade_goods = iron
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

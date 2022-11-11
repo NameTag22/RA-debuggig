@@ -1,0 +1,59 @@
+country_decisions = {
+
+	form_hellenia = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			NOT = { has_country_flag = formed_hellenia_flag }
+			NOT = { exists = HLL }
+			NOT = { tag = BYZ }
+			OR = {
+			tag = MES
+			tag = MAC
+			tag = PEL
+			tag = TRK
+			tag = NIS
+			}
+			OR = {
+			primary_culture = makedonian
+			primary_culture = mesissian
+			primary_culture = peloponnesian
+			primary_culture = ageanic
+			primary_culture = propontissian
+			}
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		allow = {
+			
+			AND = {
+			owns_all_provinces = { culture = makedonian}
+			owns_all_provinces = { culture = mesissian}
+			owns_all_provinces = { culture = peloponnesian}
+			}
+			
+			is_at_war = no
+		}
+		effect = {
+			add_prestige = 25
+			add_government_reform = megali_katastasi
+			change_tag = HLL
+			set_country_flag = formed_hellenia_flag
+			if = {
+				limit = {
+					NOT = { government_rank = 1 }
+				}
+				set_government_rank = 1
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

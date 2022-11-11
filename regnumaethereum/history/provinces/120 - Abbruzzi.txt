@@ -1,0 +1,16 @@
+﻿capital = "L'Aquila"
+owner = PAP
+controller = PAP
+add_core = PAP
+culture = ra_tremarian
+religion = catholic
+hre = yes
+base_tax = 5
+base_production = 5
+base_manpower = 3
+trade_goods = wine
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

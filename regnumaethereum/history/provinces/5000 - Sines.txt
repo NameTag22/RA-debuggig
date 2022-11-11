@@ -1,0 +1,16 @@
+﻿capital = "Sines"
+owner = ULA
+controller = ULA
+add_core = ULA
+culture = turdetan
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+trade_goods = fish
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

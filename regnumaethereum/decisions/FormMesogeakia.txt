@@ -1,0 +1,42 @@
+country_decisions = {
+
+	form_mesogeakia = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			NOT = { has_country_flag = formed_mesogeakia_flag }
+			NOT = { exists = MGS }
+			NOT = { tag = BYZ }
+			primary_culture = mesogeakian
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		allow = {
+			
+			owns_all_provinces = { culture = mesogeakian}
+		
+			is_at_war = no
+		}
+		effect = {
+			add_prestige = 25
+			add_government_reform = megali_katastasi
+			change_tag = MGS
+			set_country_flag = formed_mesogeakia_flag
+			if = {
+				limit = {
+					NOT = { government_rank = 1 }
+				}
+				set_government_rank = 1
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

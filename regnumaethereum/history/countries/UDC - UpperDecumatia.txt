@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = treverian
+religion = catholic
+capital = 1413
+
+
+1440.1.1 = {
+	monarch = {
+		name = "Benvenuto"
+		dynasty = "Dordonia"
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}

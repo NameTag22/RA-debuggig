@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+primary_culture = dacian
+religion = orthodox
+technology_group = eastern
+capital = 160
+
+# The League of Lezhe
+1444.3.4 = {
+	monarch = {
+		name = "Lucian"
+		dynasty = "Thraxan"
+		culture = thracian		
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}

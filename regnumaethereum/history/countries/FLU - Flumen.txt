@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = dalmatian
+religion = catholic
+technology_group = western
+capital = 4752 
+government_rank = 1
+
+
+1595.4.5 = {
+	monarch = {
+		name = "Ledrus"
+		dynasty = "Shpatar"
+		birth_date = 1419.7.1
+		adm = 5
+		dip = 5
+		mil = 6
+		leader = {	name = "Panentius Shpatar"            	type = general	fire = 4	shock = 4	manuever = 3	siege = 0
+	}
+}
