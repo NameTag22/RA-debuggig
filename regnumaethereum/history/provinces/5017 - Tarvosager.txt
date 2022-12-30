@@ -1,4 +1,4 @@
-﻿capital = "Orleanes2"
+capital = "Orleanes2"
 owner = TRV
 controller = TRV
 add_core = TRV
@@ -8,3 +8,10 @@ hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
+trade_goods = cloth
+discovered_by = ra_nordic
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

@@ -1,4 +1,4 @@
-﻿capital = "Pontevico"
+capital = "Pontevico"
 owner = BRM
 controller = BRM
 add_core = BRM
@@ -9,6 +9,7 @@ base_tax = 3
 base_production = 2
 base_manpower = 3
 trade_goods = cloth
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = ottoman

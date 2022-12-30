@@ -1,17 +1,15 @@
-#412 - Khuzestan
-
-owner = MSY
-controller = MSY
-culture = al_iraqiya_arabic
-religion = shiite
 capital = "Ahvaz"
-trade_goods = sugar
+owner = SY4
+controller = SY4
+add_core = SY4
+culture = al_iraqiya_arabic
+religion = sunni
 hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 1
+trade_goods = sugar
 is_city = yes
-add_core = MSY
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman

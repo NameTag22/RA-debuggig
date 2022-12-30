@@ -1,18 +1,17 @@
-#141 - Serbia
-
+capital = "Smederevo"
 owner = ILY
 controller = ILY
+add_core = ILY
 culture = illyrian
 religion = orthodox
-capital = "Smederevo"
-trade_goods = grain
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
+trade_goods = grain
+discovered_by = ra_nordic
 is_city = yes
 fort_15th = yes
-add_core = ILY
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

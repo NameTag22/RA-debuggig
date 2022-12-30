@@ -48,9 +48,3 @@ discovered_by = MYR
 discovered_by = NVK
 discovered_by = NHX
 discovered_by = SOL
-
-
-
-
-1647.1.1 = { discovered_by = RUS }
-

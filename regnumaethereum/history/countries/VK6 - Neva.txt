@@ -1,0 +1,17 @@
+government = tribal
+add_government_reform = tribal_kingdom
+primary_culture = finnish
+religion = finnic_rel
+technology_group = ra_nordic
+capital = 33
+
+1443.9.18 = {
+	monarch = {
+		name = "Urho II"
+		dynasty = "Furuhjelm"
+		birth_date = 1400.9.18
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}

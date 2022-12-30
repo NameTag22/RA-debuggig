@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 15
+primary_culture = atlasian
+religion = catholic
+technology_group = western
+capital = 1110
+fixed_capital = 1110 
+
+1415.1.1 = {
+	monarch = {
+		name = "Estela"
+		dynasty = "Tasmerus"
+		birth_date = 1398.1.2
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+}

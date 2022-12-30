@@ -1,22 +1,16 @@
-#2677 - Jambi
-
+capital = "Jambi"
 owner = JMB
 controller = JMB
+add_core = JMB
 culture = sumatran
-religion = sunni
-capital = "Jambi"
-trade_goods = incense
+religion = hinduism
 hre = no
-base_tax = 3 
+base_tax = 3
 base_production = 3
 base_manpower = 3
+trade_goods = incense
 is_city = yes
-add_core = JMB
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
-
-1405.1.1 = { discovered_by = MNG }
-1509.1.1 = { discovered_by = POR }
-

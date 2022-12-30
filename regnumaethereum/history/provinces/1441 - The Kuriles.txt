@@ -46,9 +46,3 @@ discovered_by = CHV
 discovered_by = KMC
 discovered_by = NVK
 discovered_by = NHX
-
-
-
-
-1646.1.1 = { discovered_by = RUS }
-

@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = ra_lombard
+add_accepted_culture = ra_burgundian
+government_rank = 2
+religion = catholic
+technology_group = western
+capital = 58
+
+1443.9.18 = {
+	monarch = {
+		name = "Jakusz"
+		dynasty = "Earendel"
+		birth_date = 1423.9.18
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+}

@@ -1,23 +1,16 @@
-#882 - Mescalero
-
+capital = "Mescalero"
 owner = MSC
 controller = MSC
 add_core = MSC
-is_city = yes
 culture = mescalero
 religion = totemism
-capital = "Mescalero" 
-trade_goods = wool
-hre = no 
+hre = no
 base_tax = 1
-base_production = 1 
-base_manpower = 1 
-native_size = 10 
-native_ferocity = 2 
-native_hostileness = 6 
-
-
-
+base_production = 1
+base_manpower = 1
+trade_goods = wool
 discovered_by = north_american
-
-1541.1.1 = { discovered_by = SPA } # Francisco Vásquez de Coronado
+is_city = yes
+native_size = 10
+native_ferocity = 2
+native_hostileness = 6

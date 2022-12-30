@@ -1,20 +1,16 @@
-#2738 - Te Tau Ihu
-
-latent_trade_goods = {
-	coal
-}
-add_core = WAI
+capital = "Pikimai"
 owner = WAI
 controller = WAI
-is_city = yes
+add_core = WAI
 culture = maori
 religion = animism
 hre = no
-capital = "Pikimai"
-trade_goods = iron
-base_tax = 2 
+base_tax = 2
 base_production = 1
 base_manpower = 1
+trade_goods = iron
 discovered_by = polynesian_tech
-
-1642.1.1 = { discovered_by = NED } # Abel Tasman
+latent_trade_goods = {
+	coal 
+}
+is_city = yes

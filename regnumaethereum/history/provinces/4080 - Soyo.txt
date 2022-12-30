@@ -1,22 +1,17 @@
+capital = "Soyo"
 owner = KON
 controller = KON
-add_core = KON
-add_core = SYO
 culture = kongolese
-religion = shamanism #Fetishism
-capital = "Soyo"
-trade_goods = slaves
+religion = shamanism
 hre = no
 base_tax = 4
 base_production = 3
 base_manpower = 4
+trade_goods = slaves
+add_core = KON
+add_core = KON
+add_core = SYO
 add_local_autonomy = 25
 is_city = yes
 discovered_by = central_african
 discovered_by = sub_saharan
-
-1483.1.1 = { discovered_by = POR } # Diogo Cão
-1590.1.1 = {
-	owner = SYO
-	controller = SYO
-}

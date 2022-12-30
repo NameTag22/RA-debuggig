@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = boihemen
+religion = catholic
+technology_group = western
+capital = 4237
+government_rank = 1
+
+1443.9.18 = {
+	monarch = {
+		name = "Cunincpert"
+		dynasty = "von Sommerchenberg"
+		birth_date = 1403.9.18
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}

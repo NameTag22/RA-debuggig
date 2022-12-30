@@ -1,5 +1,4 @@
-#4178 - Pontic Mountains
-
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

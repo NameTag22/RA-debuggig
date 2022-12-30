@@ -1,18 +1,17 @@
-#1951 - Hunyad
-
-owner = AKD
-controller = AKD 
-culture = visasian #Transylvanian Saxons
-religion = orthodox
 capital = "Sibiu"
-trade_goods = cloth
+owner = AKD
+controller = AKD
+add_core = AKD
+culture = visasian
+religion = orthodox
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
+trade_goods = cloth
+discovered_by = ra_nordic
 is_city = yes
-fort_15th = yes #Fortified Region
-add_core = AKD
+fort_15th = yes
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

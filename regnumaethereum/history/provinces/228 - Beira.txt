@@ -1,4 +1,4 @@
-﻿capital = "Viseu"
+capital = "Viseu"
 owner = BRD
 controller = BRD
 add_core = BRD
@@ -9,6 +9,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 trade_goods = wine
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = ottoman

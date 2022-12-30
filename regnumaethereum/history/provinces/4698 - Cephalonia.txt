@@ -1,20 +1,18 @@
+capital = "Agios Georgios"
 owner = CPH
 controller = CPH
+add_core = CPH
 culture = peloponnesian
 religion = orthodox
-capital = "Agios Georgios"
-trade_goods = wine
 hre = no
-base_tax = 2 
+base_tax = 2
 base_production = 1
 base_manpower = 2
+trade_goods = wine
+discovered_by = ra_nordic
 is_city = yes
-add_core = CPH
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
-discovered_by = ottoman discovered_by = ra_byzantine
-
+discovered_by = ottoman
+discovered_by = ra_byzantine

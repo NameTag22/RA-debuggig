@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = aramaic
+religion = nestorian
+technology_group = ottoman
+capital = 405
+
+1440.1.1 = {
+	monarch = {
+		name = "Ninos"
+		dynasty = "Isin"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}

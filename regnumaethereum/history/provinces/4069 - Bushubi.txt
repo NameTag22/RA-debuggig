@@ -1,21 +1,13 @@
-#Bushubi
-
+capital = "Bushubi"
 owner = UBH
 controller = UBH
 add_core = UBH
 culture = rwandan
-religion = shamanism #Fetishism
-capital = "Bushubi"
-trade_goods = grain
+religion = shamanism
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 3
-is_city = yes
+trade_goods = grain
 discovered_by = central_african
-
-1750.1.1 = { #Bugesera divided between Rwanda and Burundi
-	owner = BUU
-	controller = BUU
-	add_core = BUU
-}
+is_city = yes

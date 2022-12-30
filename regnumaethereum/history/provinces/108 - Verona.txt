@@ -1,17 +1,16 @@
-#108 - Verona
-
-owner = TRO		# From 1426
+capital = "Verona"
+owner = TRO
 controller = TRO
-culture = venetian 
-religion = catholic 
-hre = yes 
-base_tax = 5
-base_production = 5  
-trade_goods = grain
-base_manpower = 3   
-capital = "Verona" 
-is_city = yes 
 add_core = TRO
+culture = venetian
+religion = catholic
+hre = yes
+base_tax = 5
+base_production = 5
+base_manpower = 3
+trade_goods = grain
+discovered_by = ra_nordic
+is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

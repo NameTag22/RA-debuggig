@@ -1,0 +1,27 @@
+government = monarchy
+add_government_reform = katastasi
+primary_culture = cyrenaican
+religion = orthodox
+technology_group = ottoman
+capital = 356
+fixed_capital = 356
+
+1440.9.7 = {
+	monarch_consort = {
+		name = "Poulcheria"
+		dynasty = "Maniatotis"
+		regent = yes
+		female = yes
+		adm = 1
+		dip = 5
+		mil = 0
+	}
+	heir = {
+		name = "Spyro"
+		dynasty = "Maniatotis"
+		birth_date = 1432.11.11
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}

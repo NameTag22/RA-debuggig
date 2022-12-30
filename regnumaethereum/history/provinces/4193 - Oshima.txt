@@ -1,19 +1,15 @@
-#4193 - Oshima
-
-culture = togoku
-religion = shinto
 capital = "Katsuyama"
-trade_goods = fish
-hre = no
-base_tax = 1 
-base_production = 1
-base_manpower = 1
 owner = AKT
 controller = AKT
 add_core = AKT
+culture = togoku
+religion = shinto
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = fish
 is_city = yes
-
-
 discovered_by = JAP
 discovered_by = AMA
 discovered_by = ASA
@@ -58,9 +54,3 @@ discovered_by = ASK
 discovered_by = SOL
 discovered_by = NVK
 discovered_by = NHX
-
-1514.1.1 = { capital = "Matsumae" }
-1590.8.10 = { remove_core = AKT add_core = ODA owner = ODA controller = ODA }
-1603.3.24 = { remove_core = ODA add_core = TKG owner = TKG controller = TKG }
-1640.1.1 = { discovered_by = RUS } # Ivan Moskvitin
-1787.1.1 = { discovered_by = FRA }

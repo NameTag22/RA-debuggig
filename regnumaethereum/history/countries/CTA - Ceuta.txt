@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+mercantilism = 20
+primary_culture = atlasian
+religion = catholic
+technology_group = western
+capital = 1751
+fixed_capital = 1751 
+
+1415.1.1 = {
+	monarch = {
+		name = "Itavi"
+		dynasty = "Menarch"
+		birth_date = 1410.1.2
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+}

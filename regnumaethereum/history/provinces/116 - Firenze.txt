@@ -9,6 +9,7 @@ base_tax = 9
 base_production = 8
 base_manpower = 5
 trade_goods = wine
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = ottoman

@@ -1,21 +1,18 @@
-#2981 - Montferrat
-
+capital = "Montferrat"
 owner = TRN
 controller = TRN
+add_core = TRN
 culture = raetian
 religion = catholic
-hre = yes
-hre = yes
+hre = no
 base_tax = 5
 base_production = 5
-trade_goods = wine
 base_manpower = 2
-capital = Montferrat
+trade_goods = wine
+discovered_by = ra_nordic
+hre = yes
+hre = yes
 is_city = yes
-add_core = TRN
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

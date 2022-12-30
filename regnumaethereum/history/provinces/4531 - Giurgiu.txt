@@ -1,17 +1,16 @@
-# Giurgiu
-
+capital = "Giurgiu"
 owner = VLH
-controller = VLH  
+controller = VLH
+add_core = VLH
 culture = dacian
 religion = orthodox
-capital = "Giurgiu"
-trade_goods = livestock
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
+trade_goods = livestock
+discovered_by = ra_nordic
 is_city = yes
-add_core = VLH
 fort_15th = yes
 discovered_by = KAZ
 discovered_by = CRI

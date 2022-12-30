@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = alamannic
+religion = catholic
+technology_group = western
+capital = 1872
+government_rank = 1
+
+1443.9.18 = {
+	monarch = {
+		name = "Wilhelm Gottingen"
+		dynasty = "von Schwartzenburg"
+		birth_date = 1403.9.18
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}

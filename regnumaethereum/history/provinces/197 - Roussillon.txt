@@ -1,23 +1,20 @@
-# 197 Roussillon - Principal cities: Perpignan
-
+capital = "Perpignan"
 owner = VLE
 controller = VLE
-add_core = CAT
-capital = "Perpignan"
-is_city = yes
+add_core = VLE
 culture = ra_catelan
 religion = catholic
 hre = no
-base_tax = 3 
+base_tax = 3
 base_production = 3
-trade_goods = wine
 base_manpower = 2
-add_core = VLE
-fort_15th = yes
-
-
-
+trade_goods = wine
+discovered_by = ra_nordic
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+add_core = CAT
+add_core = VLE
+is_city = yes
+fort_15th = yes

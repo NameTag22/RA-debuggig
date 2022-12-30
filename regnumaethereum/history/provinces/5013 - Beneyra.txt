@@ -1,4 +1,4 @@
-﻿capital = "Channel Islands"
+capital = "Channel Islands"
 owner = BEY
 controller = BEY
 add_core = BEY
@@ -9,3 +9,9 @@ base_tax = 2
 base_production = 2
 base_manpower = 4
 trade_goods = fish
+discovered_by = ra_nordic
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

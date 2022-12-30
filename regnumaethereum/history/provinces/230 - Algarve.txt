@@ -1,22 +1,17 @@
-#230 - Algarve
-
-owner = ULA		#Juan II of Castille
+capital = "Faro"
+owner = ULA
 controller = ULA
 add_core = ULA
 culture = turdetan
 religion = catholic
-capital = "Faro"
-trade_goods = fish
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
-is_city = yes 
-
-
-
+trade_goods = fish
+discovered_by = ra_nordic
+is_city = yes
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-

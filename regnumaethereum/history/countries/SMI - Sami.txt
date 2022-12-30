@@ -1,0 +1,19 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = ra_nordic
+religion = finnic_rel
+primary_culture = sapmi
+capital = 18
+
+
+1443.9.18 = {
+	monarch = {
+		name = "Oiva"
+		dynasty = "Hornhei"
+		birth_date = 1400.9.18
+		adm = 6
+		dip = 6
+		mil = 0
+	}
+}

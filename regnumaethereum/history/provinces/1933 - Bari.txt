@@ -1,20 +1,16 @@
-#1933 - Bari
-
+capital = "Bari"
 owner = AUP
 controller = AUP
-culture = ra_tremarian 
-religion = catholic 
-hre = yes
-base_tax = 3 
-base_production = 3
-trade_goods = wine
-base_manpower = 2
-capital = "Bari"
-is_city = yes # Estimated 
 add_core = AUP
-
-
-
+culture = ra_tremarian
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = wine
+discovered_by = ra_nordic
+is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

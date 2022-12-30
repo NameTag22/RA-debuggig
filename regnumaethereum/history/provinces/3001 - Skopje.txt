@@ -1,4 +1,4 @@
-﻿capital = "Skopje"
+capital = "Skopje"
 owner = PLA
 controller = PLA
 add_core = PLA
@@ -9,6 +9,7 @@ base_tax = 2
 base_production = 4
 base_manpower = 2
 trade_goods = copper
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,4 +1,4 @@
-﻿capital = "Orense"
+capital = "Orense"
 owner = GLL
 controller = GLL
 add_core = GLL
@@ -9,6 +9,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 trade_goods = naval_supplies
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = ottoman

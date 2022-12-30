@@ -1,19 +1,17 @@
-#233 - Cornwall
-
+capital = "Penryn"
 owner = KEW
 controller = KEW
+add_core = KEW
 culture = kernowish
 religion = catholic
 hre = no
 base_tax = 3
 base_production = 3
-trade_goods = copper
 base_manpower = 2
-capital = "Penryn"
+trade_goods = copper
+discovered_by = ra_nordic
 is_city = yes
-add_core = KEW
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-

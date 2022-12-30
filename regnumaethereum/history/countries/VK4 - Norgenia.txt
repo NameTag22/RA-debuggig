@@ -1,0 +1,17 @@
+government = tribal
+add_government_reform = tribal_kingdom
+primary_culture = norwegian
+religion = norse_pagan_reformed
+technology_group = ra_nordic
+capital = 17
+
+1443.9.18 = {
+	monarch = {
+		name = "Ulf"
+		dynasty = "the Norgen"
+		birth_date = 1400.9.18
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+}

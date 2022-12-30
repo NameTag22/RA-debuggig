@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = ra_saxon
+religion = germanic_rel
+technology_group = ra_nordic
+capital = 45
+government_rank = 1
+
+1443.9.18 = {
+	monarch = {
+		name = "Wacho"
+		dynasty = "Saxonidr"
+		birth_date = 1403.9.18
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}

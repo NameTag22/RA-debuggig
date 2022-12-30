@@ -1,17 +1,16 @@
-#160 - Oltenia
-
+capital = "Craiova"
 owner = OLT
-controller = OLT 
+controller = OLT
+add_core = OLT
 culture = dacian
 religion = orthodox
-capital = "Craiova"
-trade_goods = copper
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
+trade_goods = copper
+discovered_by = ra_nordic
 is_city = yes
-add_core = OLT
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

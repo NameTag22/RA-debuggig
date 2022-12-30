@@ -1,20 +1,15 @@
-#1032 - Kurils
-
-culture = ainu
-religion = animism
 capital = "Kuril"
-trade_goods = fish
-hre = no
-base_tax = 1 
-base_production = 1
-base_manpower = 1
 owner = ANU
 controller = ANU
 add_core = ANU
+culture = ainu
+religion = animism
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = fish
 is_city = yes
-
-
-
 discovered_by = JAP
 discovered_by = AMA
 discovered_by = ASA
@@ -58,15 +53,3 @@ discovered_by = TTI
 discovered_by = ASK
 discovered_by = NVK
 discovered_by = NHX
-
-
-1646.1.1 = {
-	discovered_by = RUS
-	owner = TKG
-	controller = TKG
-	culture = togoku
-	religion = shinto
-	trade_goods = fish
-} # Japanese attemps at colonization
-1671.1.1 = { add_core = TKG }
-1767.1.1 = { add_core = RUS }

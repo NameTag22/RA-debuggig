@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = ra_frankish
+religion = catholic
+technology_group = western
+government_rank = 1
+capital = 85
+
+1443.9.18 = {
+	monarch = {
+		name = "Tomasz"
+		dynasty = "Frankblout"
+		birth_date = 1403.9.18
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}

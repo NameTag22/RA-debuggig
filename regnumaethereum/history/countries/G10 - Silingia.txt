@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = logian
+religion = germanic_rel
+technology_group = ra_nordic
+capital = 254
+government_rank = 1
+
+1443.9.18 = {
+	monarch = {
+		name = "Ratchis"
+		dynasty = "von Siling"
+		birth_date = 1403.9.18
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}

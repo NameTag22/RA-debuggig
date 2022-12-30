@@ -1,24 +1,16 @@
-#894 - Caddo
-
-add_core = CAD
+capital = "Caddo"
 owner = CAD
 controller = CAD
+add_core = CAD
 culture = caddo
 religion = totemism
-capital = "Caddo"
-trade_goods = cotton
 hre = no
-base_tax = 1 
+base_tax = 1
 base_production = 1
 base_manpower = 1
+trade_goods = cotton
+discovered_by = north_american
 is_city = yes
 native_size = 20
 native_ferocity = 3
 native_hostileness = 9
-
-
-
-discovered_by = north_american
-
-1542.1.1 = { discovered_by = SPA } # Hernando de Soto
-

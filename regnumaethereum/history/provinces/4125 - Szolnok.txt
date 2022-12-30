@@ -1,17 +1,15 @@
-#1953 - Szabolcs
-
+capital = "Szolnok"
 owner = BTB
-controller = BTB 
+controller = BTB
+add_core = BTB
 culture = visasian
 religion = orthodox
-capital = "Szolnok"
-trade_goods = livestock
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
-is_city = yes
-add_core = BTB
+trade_goods = livestock
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
@@ -22,3 +20,4 @@ discovered_by = GOL
 discovered_by = AST
 discovered_by = QAS
 discovered_by = ra_byzantine
+is_city = yes

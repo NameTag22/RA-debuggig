@@ -1,16 +1,15 @@
-#373 - Meath
-
+capital = "Dublin"
 owner = IRE
 controller = IRE
+add_core = IRE
 culture = ra_irish
 religion = catholic
-add_core = IRE
 hre = no
 base_tax = 3
 base_production = 3
-trade_goods = livestock
 base_manpower = 2
-capital = "Dublin"
+trade_goods = livestock
+discovered_by = ra_nordic
 is_city = yes
 discovered_by = western
 discovered_by = muslim

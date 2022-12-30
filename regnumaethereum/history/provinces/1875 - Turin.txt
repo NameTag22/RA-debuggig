@@ -1,21 +1,17 @@
-#1875 - Cuneo (can't change filename)
-
+capital = "Cuneo"
 owner = TRN
 controller = TRN
+add_core = TRN
 culture = raetian
 religion = catholic
 hre = yes
 base_tax = 4
 base_production = 4
-trade_goods = grain
 base_manpower = 4
-fort_15th = yes #Cittadellla of Alessandria
-capital = "Cuneo"
-is_city = yes		# Estimated
-add_core = TRN
-
-
-
+trade_goods = grain
+discovered_by = ra_nordic
+fort_15th = yes
+is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

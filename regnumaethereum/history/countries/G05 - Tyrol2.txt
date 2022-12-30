@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = alamannic
+religion = catholic
+technology_group = western
+government_rank = 1
+capital = 73
+
+1443.9.18 = {
+	monarch = {
+		name = "Bedrich"
+		dynasty = "von Tyrol"
+		birth_date = 1403.9.18
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

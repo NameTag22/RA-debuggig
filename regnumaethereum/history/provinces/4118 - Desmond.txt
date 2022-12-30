@@ -1,4 +1,4 @@
-﻿capital = "Cork"
+capital = "Cork"
 owner = IRE
 controller = IRE
 add_core = IRE
@@ -9,6 +9,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 1
 trade_goods = copper
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = ottoman

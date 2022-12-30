@@ -1,18 +1,16 @@
-#4370 - Cambridgeshire
-#Includes Cambridgeshire+Huntingdonshire+Bedfordshire
-
+capital = "Cambridge"
 owner = GWT
 controller = GWT
+add_core = GWT
 culture = briton
 religion = catholic
 hre = no
 base_tax = 3
 base_production = 3
-trade_goods = cloth
 base_manpower = 2
-capital = "Cambridge"
+trade_goods = cloth
+discovered_by = ra_nordic
 is_city = yes
-add_core = GWT
 seat_in_parliament = yes
 discovered_by = western
 discovered_by = muslim

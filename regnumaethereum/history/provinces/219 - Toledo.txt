@@ -1,16 +1,15 @@
-#219 - Toledo
-
-owner = SLP		#Juan II of Castille
+capital = "Toledo"
+owner = SLP
 controller = SLP
 add_core = SLP
 culture = celtiberian
 religion = catholic
 hre = no
-base_tax = 5 
+base_tax = 5
 base_production = 5
-trade_goods = iron 
 base_manpower = 4
-capital = "Toledo" 
+trade_goods = iron
+discovered_by = ra_nordic
 is_city = yes
 fort_15th = yes
 discovered_by = western

@@ -1,20 +1,15 @@
-#1193 - Menabe
-
+capital = "Morondava"
 owner = SKA
 controller = SKA
 add_core = SKA
 culture = madagasque
-religion = shamanism #Fetishism
-capital = "Morondava"
-trade_goods = slaves
+religion = shamanism
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 3
-is_city = yes
+trade_goods = slaves
 discovered_by = east_african
+is_city = yes
 extra_cost = 8
 center_of_trade = 1
-
-
-1500.8.20 = { discovered_by = POR } #Diego Dias

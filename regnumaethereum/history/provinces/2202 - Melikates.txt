@@ -1,17 +1,15 @@
-#2202 - Melikates
-
+capital = "Khankendi"
 owner = ARM
 controller = ARM
+add_core = ARM
 culture = armenian
 religion = apostolic
-capital = "Khankendi"
-trade_goods = livestock
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 3
+trade_goods = livestock
 is_city = yes
-add_core = ARM
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

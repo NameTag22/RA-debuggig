@@ -1,18 +1,18 @@
-#2310 - Tikrit
-
-owner = TIM
-controller = TIM
-culture = al_iraqiya_arabic
-religion = sunni
 capital = "Tikrit"
-trade_goods = livestock
+owner = SY3
+controller = SY3
+add_core = SY3
+culture = assyrian
+religion = nestorian
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
-is_city = yes
+trade_goods = livestock
+add_core = SY3
 add_core = IRQ
 add_core = TIM
+is_city = yes
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman

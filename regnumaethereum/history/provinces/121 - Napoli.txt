@@ -1,18 +1,17 @@
-#121 - Napoli
-
+capital = "Napoli"
 owner = CMB
 controller = CMB
-culture = ra_tremarian 
-religion = catholic 
+add_core = CMB
+culture = ra_tremarian
+religion = catholic
 hre = yes
 base_tax = 7
 base_production = 6
-trade_goods = grain 
 base_manpower = 4
-capital = "Napoli" 
-is_city = yes	# Estimated
+trade_goods = grain
+discovered_by = ra_nordic
+is_city = yes
 fort_15th = yes
-add_core = CMB
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

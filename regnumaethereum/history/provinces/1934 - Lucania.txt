@@ -1,17 +1,16 @@
-#1934 - Lucania
-
+capital = "Potenza"
 owner = CPM
 controller = CPM
-culture = ra_tremarian 
-religion = catholic 
-hre = yes
-base_tax = 2 
-base_production = 2
-trade_goods = livestock
-base_manpower = 1
-capital = "Potenza"
-is_city = yes 
 add_core = CPM
+culture = ra_tremarian
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = livestock
+discovered_by = ra_nordic
+is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

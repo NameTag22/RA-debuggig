@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = autocracy_reform 
+primary_culture = aghwan
+religion = apostolic
+government_rank = 1
+technology_group = eastern
+capital = 421
+
+1440.1.1 = {
+	monarch = {
+		name = "Avedis"
+		dynasty = "Magket"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+

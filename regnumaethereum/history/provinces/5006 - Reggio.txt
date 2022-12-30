@@ -1,4 +1,4 @@
-﻿capital = "Reggio"
+capital = "Reggio"
 owner = CLT
 controller = CLT
 add_core = CLT
@@ -9,6 +9,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 trade_goods = fish
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = ottoman

@@ -1,27 +1,17 @@
-# 4743 - Weimar
-
-owner = THU
-controller = THU
-add_core = THU
-culture = saxon
+capital = "Weimar"
+owner = G36
+controller = G36
+add_core = G36
+culture = ra_lombard
 religion = catholic
-hre = yes
+hre = no
 base_tax = 3
 base_production = 3
-trade_goods = grain
 base_manpower = 2
-capital = "Weimar"
-is_city = yes
-
-
-
+trade_goods = grain
+discovered_by = ra_nordic
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-
-1531.1.1 = { religion = protestant }
-1790.8.1 = { unrest = 5 } # Peasant revolt
-1791.1.1 = { unrest = 0 }
-1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+is_city = yes

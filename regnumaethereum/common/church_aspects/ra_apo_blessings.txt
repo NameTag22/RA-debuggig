@@ -23,7 +23,7 @@ ra_warriors_of_the_faith = {
 	is_blessing = yes
 
 	modifier = {
-		land_morale = 0.05
+		infantry_power = 0.05
 	}
 	ai_will_do = {
 		factor = 10
@@ -88,7 +88,7 @@ ra_sparks_of_fire = {
 	is_blessing = yes
 
 	modifier = {
-		siege_ability = 0.05
+		siege_ability = 0.1
 	}
 	ai_will_do = {
 		factor = 15

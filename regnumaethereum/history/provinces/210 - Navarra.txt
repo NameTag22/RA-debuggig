@@ -1,23 +1,17 @@
-#210 - Navarra
-
-owner = BSQ		#Juan I de Navarra
+capital = "Pamplona"
+owner = BSQ
 controller = BSQ
 add_core = BSQ
 culture = basque
 religion = catholic
 hre = no
-base_tax = 3 
+base_tax = 3
 base_production = 2
+base_manpower = 2
 trade_goods = iron
-base_manpower = 2 
-#fort_15th = yes #Fortifications of Pamplona and Saint-Jean-Pied-de-Port
-capital = "Pamplona" 
+discovered_by = ra_nordic
 is_city = yes
-
-
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-

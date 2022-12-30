@@ -1,17 +1,16 @@
-#1953 - Szabolcs
-
+capital = "Debrecen"
 owner = BTB
-controller = BTB 
+controller = BTB
+add_core = BTB
 culture = visasian
 religion = orthodox
-capital = "Debrecen"
-trade_goods = livestock
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
+trade_goods = livestock
+discovered_by = ra_nordic
 is_city = yes
-add_core = BTB
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

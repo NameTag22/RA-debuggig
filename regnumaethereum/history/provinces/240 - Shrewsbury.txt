@@ -1,18 +1,16 @@
-#240 - Marches
-#Shropshire, Herefordshire, Worcestershire
-
+capital = "Shrewsbury"
 owner = CYU
 controller = CYU
+add_core = CYU
 culture = cyumrish
 religion = catholic
 hre = no
 base_tax = 3
 base_production = 3
-trade_goods = wool
 base_manpower = 2
-capital = "Shrewsbury"
+trade_goods = wool
+discovered_by = ra_nordic
 is_city = yes
-add_core = CYU
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

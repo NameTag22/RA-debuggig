@@ -1,21 +1,19 @@
-#2299 - Bolu
-
-latent_trade_goods = {
-	coal
-}
-
+capital = "Bolu"
 owner = HON
 controller = HON
+add_core = HON
 culture = pontic_hellenic
 religion = orthodox
-capital = "Bolu"
-trade_goods = fish
 hre = no
 base_tax = 2
 base_production = 2
 base_manpower = 2
+trade_goods = fish
+discovered_by = ra_nordic
+latent_trade_goods = {
+	coal 
+}
 is_city = yes
-add_core = HON
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,21 +1,19 @@
-#330 - Trebizond
-
+capital = "Giresun"
 owner = CER
 controller = CER
+add_core = CER
 culture = pontic_hellenic
 religion = orthodox
-capital = "Giresun"
-trade_goods = naval_supplies
 hre = no
-base_tax = 4 
+base_tax = 4
 base_production = 3
 base_manpower = 3
+trade_goods = naval_supplies
+discovered_by = ra_nordic
 is_city = yes
-
-add_core = CER
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
-discovered_by = ottoman discovered_by = ra_byzantine
+discovered_by = ottoman
+discovered_by = ra_byzantine
 discovered_by = nomad_group
-

@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = hermian
+religion = catholic
+technology_group = western
+capital = 4718
+government_rank = 1
+
+1443.9.18 = {
+	monarch = {
+		name = "Bedrich"
+		dynasty = "von Aschaffen"
+		birth_date = 1403.9.18
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+}

@@ -1,19 +1,17 @@
-#4788 - Plasencia
-
-owner = FND		#Enrique III of Castille
+capital = "Plasencia"
+owner = FND
 controller = FND
 add_core = FND
 culture = lusitan
 religion = catholic
 hre = no
-base_tax = 2 
+base_tax = 2
 base_production = 2
-trade_goods = livestock
 base_manpower = 1
-capital = "Plasencia"
+trade_goods = livestock
+discovered_by = ra_nordic
 is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-

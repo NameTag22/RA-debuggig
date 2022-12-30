@@ -1,17 +1,16 @@
-#244 - Lancashire
-
+capital = "Lancaster"
 owner = CUM
 controller = CUM
+add_core = CUM
 culture = cumbric
 religion = catholic
 hre = no
 base_tax = 3
 base_production = 3
-trade_goods = wool
 base_manpower = 2
-capital = "Lancaster"
+trade_goods = wool
+discovered_by = ra_nordic
 is_city = yes
-add_core = CUM
 seat_in_parliament = yes
 discovered_by = western
 discovered_by = muslim

@@ -1,4 +1,4 @@
-﻿capital = "Gori"
+capital = "Gori"
 owner = GEO
 controller = GEO
 add_core = GEO

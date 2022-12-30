@@ -1,4 +1,4 @@
-﻿capital = "Calais"
+capital = "Calais"
 owner = CLE
 controller = CLE
 add_core = CLE
@@ -9,6 +9,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 trade_goods = naval_supplies
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = ottoman

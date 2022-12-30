@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = alamannic
+religion = catholic
+technology_group = western
+government_rank = 1
+capital = 4711
+
+1443.9.18 = {
+	monarch = {
+		name = "Alexander"
+		dynasty = "von Donauwornt"
+		birth_date = 1403.9.18
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}

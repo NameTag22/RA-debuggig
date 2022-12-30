@@ -1,6 +1,5 @@
-#Pontevedra
-
-owner = GLL		#Juan II of Castille
+capital = "Pontevedra"
+owner = GLL
 controller = GLL
 add_core = GLL
 culture = castrox
@@ -8,13 +7,11 @@ religion = catholic
 hre = no
 base_tax = 3
 base_production = 3
-trade_goods = fish
 base_manpower = 2
-capital = "Pontevedra" 
+trade_goods = fish
+discovered_by = ra_nordic
 is_city = yes
- # Santiago de Compostela pilgrimage
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-

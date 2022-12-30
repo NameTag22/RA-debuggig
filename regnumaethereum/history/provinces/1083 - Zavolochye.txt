@@ -1,26 +1,17 @@
-#1083 - Vetluga ( formerly Zavolochye )
-
+capital = "Yur"
 owner = MOS
 controller = MOS
-capital = "Yur"
-culture = russian
-religion = orthodox
-trade_goods = grain
+add_core = MOS
+culture = uralic
+religion = finnic_rel
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
-is_city = yes
-add_core = MOS
-
-
-
+trade_goods = grain
+discovered_by = ra_nordic
 discovered_by = eastern
 discovered_by = western
 discovered_by = GOL
 discovered_by = nomad_group
-
-1450.1.1 = { discovered_by = SIB }
-
-1503.4.1 = { owner = RUS controller = RUS add_core = RUS remove_core = MOS }
-1778.8.18 = { capital = "Vetluga" }
+is_city = yes
