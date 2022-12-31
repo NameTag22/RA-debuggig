@@ -6,18 +6,36 @@
  ageanic:0 "Aegeanic"
  peloponnesian:0 "Peloponnesian"
  mesissian:0 "Mesissian"
- propontissian:0 "Propontissian"
+ propontissian:0 "Marmaronian"
  tanatolian:0 "Anatolian"
- mesogeakian:0 "Mesogeakian"
+ mesogeakian:0 "Lydian"
  hellen:0 "Greek"
+ cyrenaica:0 "Cyrenaican"
  
  #caucasian
  anatoliakan:0 "Anatoliakan"
+ chechen:0 "Chechen"
+ ra_laz:0 "Laz"
+ aghwan:0 "Aghwan"
  
  #mesopotamian
- mesopotamian:0 "Mesopotamian"
+ mesopotamian:0 "Semetic"
  assyrian:0 "Assyrian"
  aramaic:0 "Aramaic"
+ judahite:0 "Judahite"
+ 
+ #Iranic
+ ashirat:0 "Ashirat"
+ ra_alan:0 "Alan"
+ ra_sarmatian:0 "Sarmatian"
+ 
+ #oghur
+ ungar:0 "Ungar"
+ bolgar:0 "Bolgar"
+ qhazar:0 "Qhazar"
+ avar:0 "Avar"
+ chuvash:0 "Chuvash"
+ hunnic:0 "Hunnic"
  
  #east balkanic
  eastern_balkanic:0 "Getae-Balkanic"
@@ -59,9 +77,8 @@
  kernowish:0 "Kernowish"
  cumbric:0 "Cumbric"
  briton:0 "Brittonic"
- ra_irish:0 "Irish"
+ ra_irish:0 "Eirish"
  pictish:0 "Pictish"
- ra_gael:0 "Norse-Gealic"
  goedelic:0 "Goedelic"
  manx:0 "Manx"
  
@@ -74,6 +91,7 @@
  ra_valentian:0 "Valentian"
  balearic:0 "Balearic"
  castrox:0 "Castrox"
+ atlasian:0 "Atlasian"
  
  #basque
  ra_basque:0 "Basque"
@@ -84,6 +102,7 @@
  ra_ligurian:0 "Ligurian"
  ra_tremarian:0 "Tremarian"
  ra_provencian:0 "Provencian"
+ africano:0 "Africano"
  
  #gaullish
  gaullish:0 "Gaullish"
@@ -96,4 +115,43 @@
  aremorican:0 "Aremorican"
  treverian:0 "Treverian"
  narbonentic:0 "Narbonentic"
+ outremer:0 "Outremer"
  
+ #scandinavian
+ gutnish:0 "Gutnic"
+ ra_geatic:0 "Götish"
+ ra_gael:0 "Vestan"
+ 
+ #berber
+ amazigh:0 "Amazigh"
+ libuan:0 "Libuan"
+ ra_chaoui:0 "Chaoui"
+ izwawen:0 "Izwawen"
+ tamazight:0 "Tamazight"
+ 
+ #germanic
+ angles:0 "Angles"
+ chaucian:0 "Chaucian"
+ ra_saxon:0 "Saxon"
+ ra_burgundian:0 "Burgündian"
+ rugenic:0 "Rügenic"
+ logian:0 "Logian"
+ quadian:0 "Quadian"
+ bavaron:0 "Bavaron"
+ alamannic:0 "Alammanic"
+ hermian:0 "Hermian"
+ ra_frankish:0 "Frankish"
+ ra_lombard:0 "Lombard"
+ ra_getic:0 "Getic"
+ boihemen:0 "Boihemen"
+ 
+ #slavic
+ ra_slavic:0 "Slavic"
+ wendish:0 "Wendish"
+ duleb:0 "Dulebic"
+ severian:0 "Severian"
+ polan:0 "Polan"
+ khorvat:0 "Khorvat"
+ antes:0 "Antes"
+ dwinian:0 "Dwinian"
+ ilmen:0 "Ilmen"

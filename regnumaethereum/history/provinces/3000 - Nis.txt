@@ -1,18 +1,15 @@
-# - Nis
-
+capital = "Nis"
 owner = ILY
 controller = ILY
-culture = moesian         
-add_core =MEO
+add_core = ILY
+culture = moesian
 religion = orthodox
-capital = "Nis"
-trade_goods = livestock
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 1
-is_city = yes
-add_core = ILY
+trade_goods = livestock
+discovered_by = ra_nordic
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -23,3 +20,6 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = ra_byzantine
+add_core = MEO
+add_core = ILY
+is_city = yes

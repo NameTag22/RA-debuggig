@@ -1,17 +1,16 @@
-#375 - Munster
-
+capital = "Limerick"
 owner = IRE
 controller = IRE
+add_core = IRE
 culture = ra_irish
 religion = catholic
 hre = no
 base_tax = 3
 base_production = 3
-trade_goods = fish
 base_manpower = 2
-capital = "Limerick"
+trade_goods = fish
+discovered_by = ra_nordic
 is_city = yes
-add_core = IRE
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

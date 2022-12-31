@@ -1,19 +1,16 @@
-#158 - Maros
-
-owner = ALD
-controller = ALD 
-culture = visasian #Szeklers
-religion = orthodox
 capital = "Targu Mures"
-trade_goods = wool
+owner = ALD
+controller = ALD
+add_core = ALD
+culture = visasian
+religion = orthodox
 hre = no
-base_tax = 3 
+base_tax = 3
 base_production = 3
 base_manpower = 2
+trade_goods = wool
+discovered_by = ra_nordic
 is_city = yes
-add_core = ALD
-
-
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

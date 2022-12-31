@@ -3,7 +3,7 @@ add_government_reform = feudalism_reform
 government_rank = 2
 technology_group = western
 primary_culture = belgican
-add_accepted_culture = flemish
+add_accepted_culture = frisian
 religion = catholic
 capital = 90
 

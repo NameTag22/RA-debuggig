@@ -1,0 +1,93 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 128 0 0 }
+
+revolutionary_colors = { 1 2 3 }
+
+historical_idea_groups = {
+	horde_gov_ideas
+	humanist_ideas
+	offensive_ideas
+	spy_ideas
+	administrative_ideas
+	quality_ideas
+	trade_ideas
+	economic_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	muslim_cavalry_archers
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Aderfi #0" = 10
+	"Agizul #0" = 10
+	"Amanar #0" = 10
+	"Amastan #0" = 10
+	"Amenzu #0" = 10
+	"Amessan #0" = 10
+	"Anir #0" = 10
+	"Asmun #0" = 10
+	"Badis #0" = 40
+	"Baragsen #0" = 10
+	"Ghanim #0" = 10
+	"Ighlaf #0" = 10
+	"Igider #0" = 10
+	"Izdarasen #0" = 10
+	"Jugurtha #0" = 30
+	"Makoud #0" = 10
+	"Maqrin #0" = 10
+	"Massinissa #0" = 10
+	"Muntas #0" = 10
+	"Naravas #0" = 10
+	"Navil #0" = 10
+	"Silina #0" = 10
+	"Wagguten #0" = 10
+	"Yeddes #0" = 10
+	"Yufitri #0" = 10
+	
+	"Aldjya #0" = -10
+	"Cabha #0" = -10
+	"Jidji #0" = -10
+	"Lalla #0" = -10
+	"Meghighda #0" = -10
+	"Taderfit #0" = -10
+	"Taklit #0" = -10
+	"Tasa #0" = -10
+	"Tuka #0" = -10
+}
+
+leader_names = {
+	Adid
+	Aghiles
+	Amalu
+	Basi
+	Gwasila
+	Iften
+	Isgaden
+	Maqrin
+	Rezki
+	Udad
+	Yidir
+	Yuns
+	Zigza
+	Xamida
+}
+
+ship_names = {
+	El-Ateuf "Bou Noura" "Beni Isguen" Melika Ghardaia
+	Beriane
+	Barr Muta'al Wali Batin Zahir Akhir Awwal
+	Mu'akhkhir Muqaddim Muqtadir Qadir Samad
+	Wahid Majid Wajed Qayyum Hayy Mumit Muhyi
+	Mu'id Mubdi Muhsi Hamid Waliyy Matin Qawiyy
+	Wakil Haqq Shahid Ba'ith
+}

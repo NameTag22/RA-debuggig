@@ -1,17 +1,16 @@
-#268 - Moldavia
-
+capital = "Suceava"
 owner = BOG
 controller = BOG
+add_core = BOG
 culture = dacian
 religion = orthodox
 hre = no
 base_tax = 5
 base_production = 4
-capital = "Suceava"
-is_city = yes
-trade_goods = livestock
 base_manpower = 2
-add_core = BOG
+trade_goods = livestock
+discovered_by = ra_nordic
+is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

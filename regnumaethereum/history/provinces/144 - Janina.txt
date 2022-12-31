@@ -1,23 +1,23 @@
-#144 - Epiros
-
+capital = "Ioannina"
 owner = ION
 controller = ION
+add_core = ION
 culture = mesissian
 religion = orthodox
-capital = "Ioannina"
-trade_goods = wool
 hre = no
 base_tax = 2
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = ION
+trade_goods = wool
+discovered_by = ra_nordic
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
 discovered_by = AST
 discovered_by = QAS
 discovered_by = muslim
-discovered_by = ottoman discovered_by = ra_byzantine
+discovered_by = ottoman
+discovered_by = ra_byzantine
 discovered_by = eastern
 discovered_by = western
+is_city = yes

@@ -1,6 +1,5 @@
-#1750 - Alàcant
-
-owner = VLE		#Martí I of Aragon
+capital = "Alcant"
+owner = VLE
 controller = VLE
 add_core = VLE
 culture = ra_valentian
@@ -8,13 +7,10 @@ religion = catholic
 hre = no
 base_tax = 3
 base_production = 3
+base_manpower = 3
 trade_goods = wine
-base_manpower = 3 
-capital = "Alàcant" 
+discovered_by = ra_nordic
 is_city = yes
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

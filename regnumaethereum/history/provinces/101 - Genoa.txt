@@ -1,17 +1,16 @@
-#101 - Liguria
-
+capital = "Genova"
 owner = GEN
 controller = GEN
 add_core = GEN
 culture = ra_ligurian
 religion = catholic
 hre = yes
-base_tax = 10 
+base_tax = 10
 base_production = 10
-trade_goods = paper
 base_manpower = 5
+trade_goods = paper
+discovered_by = ra_nordic
 fort_15th = yes
-capital = "Genova"
 is_city = yes
 discovered_by = western
 discovered_by = eastern

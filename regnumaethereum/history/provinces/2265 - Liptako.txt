@@ -1,18 +1,15 @@
-# 2265 - Liptako
-
+capital = "Dori"
 owner = YAT
 controller = YAT
 add_core = YAT
-add_core = ZND
-is_city = yes
 culture = mossi
-religion = shamanism #Fetishism
-capital = "Dori"
-trade_goods = livestock
+religion = shamanism
 hre = no
-base_tax = 1 
+base_tax = 1
 base_production = 1
 base_manpower = 1
+trade_goods = livestock
 discovered_by = sub_saharan
-
-#1540.1.1 = { owner = YAT controller = YAT } #Yatenga established as distinct kingdom
+add_core = YAT
+add_core = ZND
+is_city = yes

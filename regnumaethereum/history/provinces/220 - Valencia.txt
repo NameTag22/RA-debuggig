@@ -1,21 +1,20 @@
-#220 - València
-
-owner = VLE	#Alfons V of Aragon
+capital = "Valncia"
+owner = VLE
 controller = VLE
 add_core = VLE
 culture = ra_valentian
 religion = catholic
 hre = no
-base_tax = 7 
+base_tax = 7
 base_production = 5
-trade_goods = cloth
 base_manpower = 5
-fort_15th = yes
-capital = "València" 
-is_city = yes
+trade_goods = cloth
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+fort_15th = yes
+is_city = yes
 extra_cost = 16
 center_of_trade = 2

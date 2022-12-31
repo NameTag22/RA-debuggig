@@ -1,17 +1,15 @@
-#2203 - Kahketi
-
-owner = GEO
-controller = GEO
-culture = georgian
-religion = orthodox
 capital = "Telavi"
-trade_goods = wine
+owner = ARM
+controller = ARM
+add_core = ARM
+culture = georgian
+religion = apostolic
 hre = no
-base_tax = 3 
+base_tax = 3
 base_production = 3
 base_manpower = 3
+trade_goods = wine
 is_city = yes
-add_core = GEO
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

@@ -1,17 +1,16 @@
-#109 - Mantua
- 
+capital = "Mantova"
 owner = MAN
 controller = MAN
 add_core = MAN
-culture = venetian 
-religion = catholic 
-hre = yes 
-base_tax = 8 
+culture = venetian
+religion = catholic
+hre = yes
+base_tax = 8
 base_production = 7
+base_manpower = 3
 trade_goods = livestock
-base_manpower = 3    
+discovered_by = ra_nordic
 fort_15th = yes
-capital = "Mantova" 
 is_city = yes
 discovered_by = western
 discovered_by = eastern

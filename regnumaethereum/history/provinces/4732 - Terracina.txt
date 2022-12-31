@@ -1,4 +1,4 @@
-﻿capital = "Terracina"
+capital = "Terracina"
 owner = PAP
 controller = PAP
 add_core = PAP
@@ -9,6 +9,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 trade_goods = fish
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = ottoman

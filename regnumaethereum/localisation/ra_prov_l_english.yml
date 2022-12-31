@@ -71,14 +71,26 @@
  PROV5010:0 "Pontevico"
  PROV5011:0 "Belluno"
  PROV5012:0 "Codigoro"
- 
- 
- 
+ PROV5013:0 "Beneyra"
+ PROV5014:0 "Chyrastu"
+ PROV5015:0 "Uxello"
+ PROV5016:0 "Petricollia"
+ PROV5017:0 "Tarvosager"
+ PROV5018:0 "Eportia"
+ PROV5019:0 "Parvusdunum"
+ PROV5020:0 "Dubiaex"
+ PROV5021:0 "Merunda"
+ PROV5022:0 "Caterugia"
+ PROV5023:0 "Vindastu"
+ PROV5024:0 "Maturbs"
+ PROV5025:0 "Cipucert"
+ PROV5026:0 "Arelation"
+ PROV5027:0 "Galunda"
  
  #area names
  crete_area:0 "Crete"
- eastern_pontus_area:0 "Eastern Pontus"
- western_pontus_area:0 "Western Pontus"
+ eastern_pontus_area:0 "Pontus"
+ western_pontus_area:0 "Bithynia"
  west_thrace_area:0 "Western Thrace"
  east_thrace_area:0 "Eastern Thrace"
  south_macedonia_area:0 "South Macedonia"
@@ -89,7 +101,7 @@
  east_wallachia_area:0 "Valahia"
  cyprus_area:0 "Cyprus"
  banat_area:0 "Visasupa"
- pannoni_plains_area:0 "Dinaskena "
+ pannoni_plains_area:0 "Dinaskena"
  
  
  

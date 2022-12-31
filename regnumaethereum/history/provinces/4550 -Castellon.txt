@@ -1,6 +1,5 @@
-#1750 - Castellon
-
-owner = VLE		#Martí I of Aragon
+capital = "Castellon"
+owner = VLE
 controller = VLE
 add_core = VLE
 culture = ra_valentian
@@ -8,15 +7,11 @@ religion = catholic
 hre = no
 base_tax = 4
 base_production = 4
+base_manpower = 2
 trade_goods = wine
-base_manpower = 2 
-capital = "Castellon" 
+discovered_by = ra_nordic
 is_city = yes
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-

@@ -4,8 +4,8 @@ government_rank = 1
 technology_group = western
 primary_culture = sequani
 religion = catholic
-capital = 1413
-
+capital = 193
+elector = yes
 
 1440.1.1 = {
 	monarch = {

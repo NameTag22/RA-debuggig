@@ -1,21 +1,14 @@
-# - Touggourt
-
-owner = TGT
-controller = TGT
-culture = algerian
-religion = sunni
 capital = "Touggourt"
-trade_goods = spices
+owner = MSN
+controller = MSN
+add_core = MSN
+culture = ra_chaoui
+religion = amastani
 hre = no
-base_tax = 1 
+base_tax = 1
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = TGT
-
-
-
+trade_goods = spices
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western
-

@@ -1,0 +1,95 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = muslimgfx
+
+color = {196 82 43 }
+revolutionary_colors = { 10 0 15 }
+
+historical_idea_groups = {
+	economic_ideas
+	offensive_ideas
+	exploration_ideas
+	defensive_ideas	
+	administrative_ideas	
+	maritime_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Erishum #0" = 10
+	"Ikunum #0" = 10
+	"Sargon #0" = 10
+	"Puzur-Ashur #0" = 10
+	"Naram-Suen #0" = 10
+	"Shamshi-Adad #0" = 10
+	"Ishme-Dagan #0" = 10
+	"Mut-Ashkur #0" = 10
+	"Asinum #0" = 10
+	"Bel-bani #0" = 10
+	"Libaya #0" = 10
+	"Sharma-Adad #0" = 10
+	"Iptar-Sin #0" = 10
+	"Bazaya #0" = 10
+	"Lullaya #0" = 10
+	"Shu-Ninua #0" = 10
+	"Ashur-nirari #0" = 10
+	"Adad-nirari #0" = 10
+	"Shalmaneser #0" = 10
+	"Tukulti-Ninurta #0" = 10
+	"Ashur-Dan #0" = 10
+	"Tiglath-Pileser #0" = 10
+	"Sennacherib #0" = 10
+	"Esarhaddon #0" = 10
+	"Ashurbanipal #0" = 10
+	"Ashur-uballit #0" = 10
+
+	"Tashmetum-sharrat #0" = -1
+	"Ashur-hamat #0" = -1
+}
+
+leader_names = {
+	Tartan
+	Ashur
+	Hadad
+	Dan
+	Adad
+	Nusku
+	Esharra
+	Kudulli-usur
+	Enlil
+	Nasir
+	Shaduni
+}
+
+ship_names = {
+	Ashur
+	Nineveh
+	Nahiru
+	Hadad
+	Calah
+	Arbela
+	Arrapakha
+	Nisibis
+	"Dur Sharrukm"
+	Gozan
+	Haran
+	Tushpa
+	Musasir
+}
+
+

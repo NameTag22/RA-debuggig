@@ -1,21 +1,13 @@
-#Katsekera
-
+capital = "Katsekera"
 owner = MRA
 controller = MRA
 add_core = MRA
 culture = nyasa
-religion = shamanism #Fetishism
-capital = "Katsekera"
-is_city = yes
-base_manpower = 2
-trade_goods = ivory
+religion = shamanism
 hre = no
 base_tax = 2
 base_production = 3
+base_manpower = 2
+trade_goods = ivory
 discovered_by = central_african
-
-1735.1.1 = {
-	owner = MKU
-	controller = MKU
-	add_core = MKU
-}
+is_city = yes

@@ -1,16 +1,15 @@
-# 4751 - Cilli
+capital = "Celje"
 owner = PAO
 controller = PAO
 add_core = PAO
 culture = dalmatian
 religion = catholic
+hre = no
 base_tax = 3
 base_production = 4
-trade_goods = wine
 base_manpower = 2
-capital = "Celje"
-is_city = yes
-hre = no
+trade_goods = wine
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
@@ -21,3 +20,4 @@ discovered_by = GOL
 discovered_by = AST
 discovered_by = QAS
 discovered_by = ra_byzantine
+is_city = yes

@@ -1,4 +1,4 @@
-﻿capital = "Belluno"
+capital = "Belluno"
 owner = VEN
 controller = VEN
 add_core = VEN
@@ -9,6 +9,7 @@ base_tax = 6
 base_production = 4
 base_manpower = 3
 trade_goods = iron
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = ottoman

@@ -1,4 +1,4 @@
-﻿capital = "Roma"
+capital = "Roma"
 owner = PAP
 controller = PAP
 add_core = PAP
@@ -9,6 +9,7 @@ base_tax = 9
 base_production = 11
 base_manpower = 8
 trade_goods = paper
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = ottoman

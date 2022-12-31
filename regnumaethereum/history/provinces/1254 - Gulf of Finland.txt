@@ -1,7 +1,3 @@
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
-
-
-
-
-

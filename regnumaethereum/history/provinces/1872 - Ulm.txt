@@ -1,26 +1,19 @@
-# 1872 - Ulm
-owner = ULM
-controller = ULM
-add_core = ULM
-culture = swabian
-religion = catholic
-base_tax = 5 
-base_production = 6
-trade_goods = cloth	#fustians
-base_manpower = 4
 capital = "Ulm"
-is_city = yes
+owner = G31
+controller = G31
+add_core = G31
+culture = alamannic
+religion = catholic
 hre = yes
+base_tax = 5
+base_production = 6
+base_manpower = 4
+trade_goods = cloth
+discovered_by = ra_nordic
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+is_city = yes
 extra_cost = 8
 center_of_trade = 1
-
-1803.1.1 = {
-	add_core = WUR
-	owner = WUR
-	controller = WUR
-}
-1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved

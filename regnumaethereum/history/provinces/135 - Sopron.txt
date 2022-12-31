@@ -1,17 +1,16 @@
-#135 - Sopron (Sopron + Vas + Moson + Zala)
-
+capital = "Sopron"
 owner = PAO
 controller = PAO
+add_core = PAO
 culture = pannonian
 religion = catholic
-capital = "Sopron"
-trade_goods = grain
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
+trade_goods = grain
+discovered_by = ra_nordic
 is_city = yes
-add_core = PAO
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

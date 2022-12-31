@@ -1,15 +1,13 @@
-# No previous file for Yao
-
+capital = "Yao"
 owner = YAO
 controller = YAO
 add_core = YAO
-culture = bilala 
-religion = sunni
-capital = "Yao"
-trade_goods = grain
+culture = bilala
+religion = shamanism
 hre = no
-base_tax = 3 
+base_tax = 3
 base_production = 3
-is_city = yes
 base_manpower = 1
+trade_goods = grain
 discovered_by = sub_saharan
+is_city = yes

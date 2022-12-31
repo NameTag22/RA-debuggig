@@ -1,9 +1,9 @@
-﻿capital = "Tadmuriyah"
-owner = FAD
-controller = FAD
-add_core = FAD
-culture = al_suryah_arabic
-religion = sunni
+capital = "Tadmuriyah"
+owner = SY0
+controller = SY0
+add_core = SY0
+culture = aramaic
+religion = nestorian
 hre = no
 base_tax = 1
 base_production = 1

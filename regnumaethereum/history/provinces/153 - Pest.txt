@@ -1,17 +1,16 @@
-#153 - Pest (Pest + Pilis + Esztergom + Kalocsa + most of Kiskunság + Parts of Nógrád )
-
+capital = "Buda"
 owner = BTB
-controller = BTB 
+controller = BTB
+add_core = BTB
 culture = visasian
 religion = orthodox
-capital = "Buda"
-trade_goods = grain
 hre = no
 base_tax = 5
 base_production = 4
 base_manpower = 2
+trade_goods = grain
+discovered_by = ra_nordic
 is_city = yes
-add_core = BTB
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -21,6 +20,6 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+discovered_by = ra_byzantine
 extra_cost = 16
 center_of_trade = 2
-discovered_by = ra_byzantine

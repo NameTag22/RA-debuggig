@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = autocracy_reform 
+primary_culture = ra_alan
+religion = apostolic
+technology_group = eastern
+government_rank = 1
+capital = 2201
+
+1440.1.1 = {
+	monarch = {
+		name = "Bextîyar"
+		dynasty = "Alauni"
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+

@@ -5,7 +5,7 @@ primary_culture = sicilian
 religion = catholic
 technology_group = western
 capital = 125
-
+elector = yes
 1444.1.1 = {
 	monarch = { 
 		name = "Abelardo II"

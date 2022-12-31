@@ -1,0 +1,8 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = bavaron
+add_accepted_culture = alamannic
+government_rank = 3
+religion = catholic
+technology_group = western
+capital = 76

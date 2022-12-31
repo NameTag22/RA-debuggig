@@ -1,0 +1,17 @@
+government = tribal
+add_government_reform = tribal_kingdom
+primary_culture = danish
+religion = norse_pagan_reformed
+technology_group = ra_nordic
+capital = 4142
+
+1443.9.18 = {
+	monarch = {
+		name = "Adolf"
+		dynasty = "Vind"
+		birth_date = 1400.9.18
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}

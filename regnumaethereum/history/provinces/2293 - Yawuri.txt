@@ -1,25 +1,13 @@
-# No previous file for Yawuri
-
+capital = "Birnin Yawuri"
 owner = ZZZ
 controller = ZZZ
 add_core = ZZZ
-is_city = yes
-culture = hausa 
-religion = shamanism #Fetishism
-capital = "Birnin Yawuri"
-trade_goods = coffee #Kola nuts
+culture = hausa
+religion = shamanism
 hre = no
-base_tax = 1 
+base_tax = 1
 base_production = 1
 base_manpower = 1
-
-
-
+trade_goods = coffee
 discovered_by = sub_saharan
-
-
-1806.1.1 = {
-	owner = SOK
-	controller = SOK
-	add_core = SOK
-} # The Fulani Empire
+is_city = yes

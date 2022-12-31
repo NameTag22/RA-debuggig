@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = ashirat
+religion = zoroastrian
+technology_group = ottoman
+capital = 411
+
+1440.1.1 = {
+	monarch = {
+		name = "Tahmasp"
+		dynasty = "Jahanshah"
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}

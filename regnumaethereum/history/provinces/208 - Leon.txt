@@ -1,16 +1,15 @@
-#208 - León
-
-owner = ATU		#Juan II of Castille
+capital = "Len"
+owner = ATU
 controller = ATU
 add_core = ATU
 culture = castrox
 religion = catholic
 hre = no
-base_tax = 4 
+base_tax = 4
 base_production = 4
-trade_goods = livestock
 base_manpower = 2
-capital = "León"
+trade_goods = livestock
+discovered_by = ra_nordic
 is_city = yes
 discovered_by = eastern
 discovered_by = western

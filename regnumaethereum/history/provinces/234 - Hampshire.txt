@@ -1,18 +1,16 @@
-#234 - Hampshire + Wiltshire
-
+capital = "Salisbury"
 owner = DOW
 controller = DOW
+add_core = DOW
 culture = briton
 religion = catholic
 hre = no
 base_tax = 3
 base_production = 3
-trade_goods = fish
 base_manpower = 3
-capital = "Salisbury"
+trade_goods = fish
+discovered_by = ra_nordic
 is_city = yes
-add_core = DOW
-#Salisbury and Winchester Cathedrals
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

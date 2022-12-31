@@ -1,27 +1,19 @@
-#2728 - Tiwi
-
-add_core = TIW
+capital = "Tiwi"
 owner = TIW
 controller = TIW
+add_core = TIW
 culture = gunwinyguan
 religion = dreamtime
-capital = "Tiwi"
-is_city = yes
 hre = no
-trade_goods = fish
-base_manpower = 1
-base_tax = 2 
+base_tax = 2
 base_production = 2
+base_manpower = 1
+trade_goods = fish
+is_city = yes
 native_size = 5
 native_ferocity = 1
 native_hostileness = 9
 discovered_by = aboriginal_tech
-
-
-
 discovered_by = MKS
 discovered_by = TER
 discovered_by = TID
-
-1642.11.24 = { discovered_by = NED } # Abel Tasman
-

@@ -1,0 +1,17 @@
+government = tribal
+add_government_reform = tribal_kingdom
+primary_culture = karelian
+religion = finnic_rel
+technology_group = ra_nordic
+capital = 309
+
+1443.9.18 = {
+	monarch = {
+		name = "Nuyanza"
+		dynasty = "Njáves"
+		birth_date = 1400.9.18
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+}

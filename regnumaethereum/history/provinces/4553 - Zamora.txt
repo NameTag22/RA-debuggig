@@ -1,4 +1,4 @@
-﻿capital = "Zamora"
+capital = "Zamora"
 owner = ATU
 controller = ATU
 add_core = ATU
@@ -9,6 +9,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 trade_goods = livestock
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = ottoman

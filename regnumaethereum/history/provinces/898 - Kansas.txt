@@ -1,19 +1,12 @@
-#898 - Kansas
-
-culture = pawnee #Old plains people
-religion = totemism
 capital = "Kansas"
-trade_goods = unknown
+culture = pawnee
+religion = totemism
 hre = no
-base_tax = 1 
+base_tax = 1
 base_production = 1
 base_manpower = 1
+trade_goods = unknown
+discovered_by = north_american
 native_size = 30
 native_ferocity = 3
 native_hostileness = 9
-
-
-
-discovered_by = north_american
-
-1541.1.1 = { discovered_by = SPA } # Francisco Vásquez de Coronado

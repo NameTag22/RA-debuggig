@@ -1,18 +1,17 @@
-#112 - Venezia
-
+capital = "Venezia"
 owner = VEN
 controller = VEN
-culture = venetian 
-religion = catholic 
-hre = yes 
-base_tax = 8
-base_production = 10 
-trade_goods = glass
-base_manpower = 5 
-capital = "Venezia" 
-is_city = yes	# Estimated 
-shipyard = yes
 add_core = VEN
+culture = venetian
+religion = catholic
+hre = yes
+base_tax = 8
+base_production = 10
+base_manpower = 5
+trade_goods = glass
+discovered_by = ra_nordic
+is_city = yes
+shipyard = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,10 +1,10 @@
 ﻿l_english:
  #religion 
  
+ european_pagan:0 "European Pagan"
  #apostolic
  apostolic:0 "Apostolic"
  apostolic_religion_desc:0 "WIP"
- syriac:0 "Syriac"
  stavros: "Starvos"
  khach: "Khach"
  
@@ -99,9 +99,9 @@
  
  
  #nestorian
- nestorian:0 "Nestorian"
+ nestorian:0 "Syriac"
  nestorian_religion_desc:0 "WIP"
- old_nestorian:0 "Syriac"
+ old_nestorian:0 "Oriental"
  
  NESTORIAN_ASPECT_LONG:0 "Aspect of Faith"
  NESTORIAN_ASPECT_SHORT:0 "aspect"
@@ -114,6 +114,17 @@
  nestorian_rebels_name: "$RELIGION$ Zealots"
  nestorian_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
  nestorian_rebels_army: "$RELIGION$ Army"
+ 
+ ra_icon_nestorius:0 "Mor Nestorius"
+ ra_icon_nestorius_desc:0 "WIP"
+ ra_icon_ibas:0 "Ibas of Edessa"
+ ra_icon_ibas_desc:0 "WIP"
+ ra_icon_ephrem:0 "Ephrem of Nisibis"
+ ra_icon_ephrem_desc:0 "WIP"
+ ra_icon_theodore:0 "Theodore of Antioch"
+ ra_icon_theodore_desc:0 "WIP"
+ ra_icon_eugenios:0 "Awgin of Clysma"
+ ra_icon_eugenios_desc:0 "WIP"
  
  #zunism
  zunism:0 "Zunism"
@@ -201,3 +212,54 @@
  jainism_rebels_name: "$RELIGION$ Zealots"
  jainism_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
  jainism_rebels_army: "$RELIGION$ Army"
+ 
+ #suomenusko
+ finnic_rel:0 "Suomenusko"
+ finnic_rel_religion_desc:0 "WIP"
+ old_finnic:0 "Old Suomenusko"
+ 
+ MANI_REL_ASPECT_LONG:0 "Aspect of Faith"
+ MANI_REL_ASPECT_SHORT:0 "aspect"
+ jainism_aspect_long:0 "Aspect of Faith"
+ jainism_aspect_short:0 "aspect"
+ 
+ finnic_rel_rebels_demand: "Convert $COUNTRYNAME$"
+ finnic_rel_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ finnic_rel_rebels_title: "Religious"
+ finnic_rel_rebels_name: "$RELIGION$ Zealots"
+ finnic_rel_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ finnic_rel_rebels_army: "$RELIGION$ Army"
+ 
+ #germanic
+ germanic_rel:0 "Germanic"
+ germanic_rel_religion_desc:0 "WIP"
+ old_germanic:0 "Old Germanic"
+ 
+ 
+ germanic_rel_rebels_demand: "Convert $COUNTRYNAME$"
+ germanic_rel_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ germanic_rel_rebels_title: "Religious"
+ germanic_rel_rebels_name: "$RELIGION$ Zealots"
+ germanic_rel_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ germanic_rel_rebels_army: "$RELIGION$ Army"
+ 
+ ra_wodan:0 "Wodan"
+ ra_dorr:0 "Dorr"
+ ra_tiwz:0 "Tiwz"
+ ra_frawjo:0 "Frawjo"
+ ra_balderz:0 "Baldrez"
+ ra_luki:0 "Lüki"
+ 
+ #amastani
+ amastani:0 "Amastani"
+ amastani_religion_desc:0 "WIP"
+ ikenite:0 "Ikenite"
+ izemrasen:0 "Izemrasen"
+ 
+ 
+ amastani_rebels_demand: "Convert $COUNTRYNAME$"
+ amastani_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ amastani_rebels_title: "Religious"
+ amastani_rebels_name: "$RELIGION$ Zealots"
+ amastani_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ amastani_rebels_army: "$RELIGION$ Army"

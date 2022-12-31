@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = gutnish
+religion = norse_pagan_reformed
+technology_group = ra_nordic
+capital = 3
+
+1443.9.18 = {
+	monarch = {
+		name = "Sörkver"
+		dynasty = "Raflin"
+		birth_date = 1400.9.18
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+}

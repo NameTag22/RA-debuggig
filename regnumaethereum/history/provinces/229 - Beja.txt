@@ -1,18 +1,16 @@
-#229 - Baixo Alentejo
-
-owner = ULA		#Juan II of Castille
+capital = "Beja"
+owner = ULA
 controller = ULA
 add_core = ULA
 culture = turdetan
-capital = "Beja"
 religion = catholic
-trade_goods = livestock
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 3
+trade_goods = livestock
+discovered_by = ra_nordic
 is_city = yes
-
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

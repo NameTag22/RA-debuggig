@@ -1,20 +1,16 @@
-#4530 - Birlad
-
+capital = "Birlad"
 owner = BOG
 controller = BOG
+add_core = BOG
 culture = dacian
 religion = orthodox
-capital = "Birlad"
-trade_goods = wine
 hre = no
 base_tax = 2
 base_production = 1
 base_manpower = 1
+trade_goods = wine
+discovered_by = ra_nordic
 is_city = yes
-add_core = BOG
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

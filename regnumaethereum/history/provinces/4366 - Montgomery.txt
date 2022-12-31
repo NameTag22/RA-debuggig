@@ -1,4 +1,4 @@
-﻿capital = "Montgomery"
+capital = "Montgomery"
 owner = CYU
 controller = CYU
 add_core = CYU
@@ -9,6 +9,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 trade_goods = iron
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = ottoman

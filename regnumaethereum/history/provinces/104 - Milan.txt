@@ -1,18 +1,17 @@
-#104 - Milano
-
+capital = "Milano"
 owner = MLO
 controller = MLO
+add_core = MLO
 culture = raetian
 religion = catholic
 hre = yes
 base_tax = 8
 base_production = 7
-trade_goods = cloth
 base_manpower = 6
-fort_15th = yes #Sforza Castle
-capital = "Milano"
-is_city = yes	# Estimated
-add_core = MLO
+trade_goods = cloth
+discovered_by = ra_nordic
+fort_15th = yes
+is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

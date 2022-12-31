@@ -1,17 +1,16 @@
-#1827 - Raska
-
+capital = "Trgoviste"
 owner = ILY
 controller = ILY
+add_core = ILY
 culture = ra_albanian
 religion = orthodox
-capital = "Trgoviste"
-trade_goods = livestock
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 1
+trade_goods = livestock
+discovered_by = ra_nordic
 is_city = yes
-add_core = ILY
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

@@ -1,20 +1,16 @@
-#111 - Friuli
-
+capital = "Udine"
 owner = VEN
 controller = VEN
-culture = venetian 
-religion = catholic 
-hre = yes 
-base_tax = 5
-base_production = 5    
-trade_goods = wine
-base_manpower = 2    
-capital = "Udine" 
-is_city = yes # Estimated
 add_core = VEN
-
-
-
+culture = venetian
+religion = catholic
+hre = yes
+base_tax = 5
+base_production = 5
+base_manpower = 2
+trade_goods = wine
+discovered_by = ra_nordic
+is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

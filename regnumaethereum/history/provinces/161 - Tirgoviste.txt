@@ -1,17 +1,15 @@
-#161 - Tîrgoviste
-
+capital = "Trgoviste"
 owner = VLH
 controller = VLH
+add_core = VLH
 culture = dacian
 religion = orthodox
-capital = "Tîrgoviste"
-trade_goods = livestock
 hre = no
 base_tax = 5
 base_production = 5
 base_manpower = 3
-is_city = yes
-add_core = VLH
+trade_goods = livestock
+discovered_by = ra_nordic
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -22,5 +20,6 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = ra_byzantine
+is_city = yes
 extra_cost = 8
 center_of_trade = 1

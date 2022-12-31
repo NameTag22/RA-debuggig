@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = aramaic
+add_accepted_culture = anatolikan
+religion = nestorian
+technology_group = ottoman
+capital = 2308
+
+1440.1.1 = {
+	monarch = {
+		name = "Monobaz"
+		dynasty = "Ephremid"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}

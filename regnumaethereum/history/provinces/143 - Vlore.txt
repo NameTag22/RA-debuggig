@@ -1,17 +1,16 @@
-#143 - Vlorë - Southern Albania
-
+capital = "Vlor"
 owner = ALB
 controller = ALB
+add_core = ALB
 culture = ra_albanian
 religion = orthodox
-capital = "Vlorë"
-trade_goods = wool #or salt
 hre = no
 base_tax = 2
 base_production = 1
 base_manpower = 1
+trade_goods = wool
+discovered_by = ra_nordic
 is_city = yes
-add_core = ALB
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

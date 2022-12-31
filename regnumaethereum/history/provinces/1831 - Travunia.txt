@@ -1,17 +1,16 @@
-#1831 - Travunia # now Herzegovina
-
+capital = "Herceg Novi"
 owner = ILY
 controller = ILY
+add_core = ILY
 culture = illyrian
 religion = orthodox
-capital = "Herceg Novi"
-trade_goods = wool
 hre = no
-base_tax = 2 
+base_tax = 2
 base_production = 3
 base_manpower = 2
+trade_goods = wool
+discovered_by = ra_nordic
 is_city = yes
-add_core = ILY
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

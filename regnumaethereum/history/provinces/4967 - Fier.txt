@@ -1,4 +1,4 @@
-﻿capital = "Fieri"
+capital = "Fieri"
 owner = ALB
 controller = ALB
 add_core = ALB
@@ -9,6 +9,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 trade_goods = salt
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = ottoman

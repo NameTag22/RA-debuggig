@@ -1,6 +1,5 @@
-#1748 - La Mancha
-
-owner = VLE		#Enrique III of Castille
+capital = "Jan"
+owner = VLE
 controller = VLE
 add_core = VLE
 culture = turdetan
@@ -8,9 +7,9 @@ religion = catholic
 hre = no
 base_tax = 3
 base_production = 4
-trade_goods = livestock 
 base_manpower = 2
-capital = "Jaén"
+trade_goods = livestock
+discovered_by = ra_nordic
 is_city = yes
 discovered_by = western
 discovered_by = eastern

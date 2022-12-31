@@ -1,17 +1,16 @@
-#4364 - Inner Hebrides
-
+capital = "Skye"
 owner = HJR
 controller = HJR
+add_core = HJR
 culture = ra_gael
 religion = norse_pagan_reformed
 hre = no
-base_tax = 1 
+base_tax = 1
 base_production = 1
-trade_goods = grain
 base_manpower = 1
-capital = "Skye"
+trade_goods = grain
+discovered_by = ra_nordic
 is_city = yes
-add_core = HJR
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

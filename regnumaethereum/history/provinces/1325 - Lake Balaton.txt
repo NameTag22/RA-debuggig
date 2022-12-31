@@ -1,6 +1,4 @@
-
-
-
+discovered_by = ra_nordic
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -10,4 +8,3 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-

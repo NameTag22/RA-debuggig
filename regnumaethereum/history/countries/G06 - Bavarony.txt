@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = bavaron
+religion = catholic
+technology_group = western
+capital = 76
+government_rank = 1
+elector = yes
+
+1443.9.18 = {
+	monarch = {
+		name = "Richard"
+		dynasty = "Bavaronswert"
+		birth_date = 1403.9.18
+		adm = 5
+		dip = 6
+		mil = 3
+	}
+}

@@ -1,17 +1,16 @@
-#4787 - Ribatejo
-
+capital = "Santarm"
 owner = BRD
 controller = BRD
+add_core = BRD
 culture = lusitan
 religion = catholic
-capital = "Santarém"
-trade_goods = grain
 hre = no
-base_tax = 4 
+base_tax = 4
 base_production = 3
 base_manpower = 3
+trade_goods = grain
+discovered_by = ra_nordic
 is_city = yes
-add_core = BRD
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

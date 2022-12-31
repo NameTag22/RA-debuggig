@@ -1,24 +1,18 @@
-#620 - Siak
-
+capital = "Siak"
 owner = SAK
 controller = SAK
+add_core = SAK
 culture = sumatran
-religion = sunni
-capital = "Siak"
-trade_goods = chinaware
+religion = hinduism
 hre = no
 base_tax = 5
 base_production = 5
 base_manpower = 3
+trade_goods = chinaware
 is_city = yes
-add_core = SAK
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
-
-1405.1.1 = { discovered_by = MNG }
-1509.1.1 = { discovered_by = POR }
-

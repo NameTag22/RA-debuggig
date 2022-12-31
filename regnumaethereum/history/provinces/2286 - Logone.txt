@@ -1,26 +1,15 @@
-# No previous file for Logone
-
+capital = "Logone"
 owner = YAO
 controller = YAO
+culture = kanuri
+religion = shamanism
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = ivory
+discovered_by = sub_saharan
+add_core = YAO
 add_core = YAO
 add_core = KBO
-culture = kanuri 
-religion = shamanism #Fetishism
-capital = "Logone"
-trade_goods = ivory
-hre = no
-base_tax = 2 
-base_production = 2
 is_city = yes
-base_manpower = 1
-
-
-
-discovered_by = sub_saharan
-
-
-1505.1.1 = {
-	owner = KBO
-	controller = KBO
-	add_core = KBO 
-} #Idris Katakarmabe retakes Kanem

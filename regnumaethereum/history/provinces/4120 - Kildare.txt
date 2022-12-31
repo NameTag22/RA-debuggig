@@ -1,17 +1,16 @@
-#4120 - Kildare
-
+capital = "Naas"
 owner = IRE
 controller = IRE
+add_core = IRE
 culture = ra_irish
 religion = catholic
 hre = no
 base_tax = 3
 base_production = 3
-trade_goods = grain
 base_manpower = 3
-capital = "Naas"
+trade_goods = grain
+discovered_by = ra_nordic
 is_city = yes
-add_core = IRE
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

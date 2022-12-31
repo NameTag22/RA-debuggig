@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = assyrian
+religion = nestorian
+technology_group = ottoman
+capital = 410
+
+1440.1.1 = {
+	monarch = {
+		name = "Monobaz"
+		dynasty = "Amorite"
+		adm = 0
+		dip = 6
+		mil = 6
+	}
+}

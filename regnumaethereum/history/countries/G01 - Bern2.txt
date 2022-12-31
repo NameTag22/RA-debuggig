@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = helvetian
+religion = catholic
+technology_group = western
+government_rank = 1
+capital = 165
+
+1443.9.18 = {
+	monarch = {
+		name = "Khris"
+		dynasty = "von Bern"
+		birth_date = 1403.9.18
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+}

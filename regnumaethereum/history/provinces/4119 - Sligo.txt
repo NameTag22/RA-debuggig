@@ -1,17 +1,16 @@
-#4119 - Sligo
-
+capital = "Sligo"
 owner = IRE
 controller = IRE
+add_core = IRE
 culture = ra_irish
 religion = catholic
 hre = no
 base_tax = 3
 base_production = 3
-trade_goods = naval_supplies
 base_manpower = 2
-capital = "Sligo"
+trade_goods = naval_supplies
+discovered_by = ra_nordic
 is_city = yes
-add_core = IRE
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

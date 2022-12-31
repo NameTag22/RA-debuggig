@@ -1,20 +1,16 @@
-#159 - Silistria
-
+capital = "Silistra"
 owner = SLT
 controller = SLT
+add_core = SLT
 culture = thracian
 religion = orthodox
-capital = "Silistra"
-trade_goods = fish
 hre = no
 base_tax = 4
 base_production = 3
 base_manpower = 3
+trade_goods = fish
+discovered_by = ra_nordic
 is_city = yes
-add_core = SLT
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

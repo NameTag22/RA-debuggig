@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 15
+primary_culture = atlasian
+religion = catholic
+technology_group = western
+capital = 2469
+fixed_capital = 2469 
+
+1415.1.1 = {
+	monarch = {
+		name = "Zantus"
+		dynasty = "Iltabo"
+		birth_date = 1392.1.2
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}

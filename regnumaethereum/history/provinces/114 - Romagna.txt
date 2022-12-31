@@ -1,19 +1,16 @@
-#114 - Romagna
-
+capital = "Ravenna"
 owner = RMG
 controller = RMG
-culture = umbrian 
-religion = catholic 
-hre = yes 
+add_core = RMG
+culture = umbrian
+religion = catholic
+hre = yes
 base_tax = 4
 base_production = 5
-trade_goods = salt
 base_manpower = 2
-capital = "Ravenna"
+trade_goods = salt
+discovered_by = ra_nordic
 is_city = yes
-add_core = RMG
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

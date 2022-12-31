@@ -32,13 +32,23 @@
  PAP:0 "Pontifical States"
  PAP_ADJ:0 "Pontifical"
  
- IRE:0 "Eireland"
+ IRE:0 "Eirland"
  IRE_ADJ:0 "Eirish"
  
+ SYR:0 "Amath"
+ SYR_ADJ:0 "Amathan"
  
  
  #tech for some reason
- ottoman:0 "Hellenic"
+ ottoman:0 "Helleno-Persian"          
+ 
+ #culture
+ norwegian:0 "Norgenian"
+ danish:0 "Jutish"
+ finnish:0 "Suomish"
+ irish:0 "Eirish"
+ 
+ 
  
  
  

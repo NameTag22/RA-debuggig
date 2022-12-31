@@ -1,17 +1,16 @@
-#1954 - Torontál
-
+capital = "Nagybecskerek"
 owner = BNT
 controller = BNT
+add_core = BNT
 culture = visasian
 religion = orthodox
-capital = "Nagybecskerek"
-trade_goods = livestock
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
+trade_goods = livestock
+discovered_by = ra_nordic
 is_city = yes
-add_core = BNT
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

@@ -1,17 +1,16 @@
-# 4734 - Avellino
-
+capital = "Avellino"
 owner = CPM
 controller = CPM
-culture = ra_tremarian 
-religion = catholic 
+add_core = CPM
+culture = ra_tremarian
+religion = catholic
 hre = yes
 base_tax = 4
 base_production = 4
-trade_goods = grain 
 base_manpower = 3
-capital = "Avellino" 
-is_city = yes	# Estimated
-add_core = CPM
+trade_goods = grain
+discovered_by = ra_nordic
+is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
