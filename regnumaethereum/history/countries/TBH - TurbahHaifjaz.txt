@@ -1,0 +1,20 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+primary_culture = hejazi_culture
+religion = sunni
+technology_group = muslim
+capital = 2332
+fixed_capital = 2332
+religious_school = maliki_school
+
+1444.1.1 = {
+	monarch = {
+		name = "Zadwar Oeid"
+		dynasty = "Haifjazi"
+		birth_date = 1421.3.25
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+}

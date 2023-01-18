@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 1
+primary_culture = omani_culture
+religion = shiite
+technology_group = muslim
+capital = 400
+religious_school = jafari_school
+
+1444.1.1 = {
+	monarch = {
+		name = "Salam Kasir II"
+		dynasty = "Nabhan"
+		birth_date = 1400.9.30
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}

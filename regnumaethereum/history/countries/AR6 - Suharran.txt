@@ -1,0 +1,30 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+primary_culture = gulf_arabic
+religion = kharijite
+technology_group = muslim
+capital = 399
+fixed_capital = 399
+
+1444.1.1 = {
+	monarch = {
+		name = "Mal'laik IV"
+		dynasty = "Al-Uzdan"
+		birth_date = 1389.1.30
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+1444.3.1 = {
+	heir = {
+		name = "Eillaid III"
+		monarch_name = "Eillaid III"
+		dynasty = "Al-Uzdan"
+		birth_date = 1412.10.23
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}

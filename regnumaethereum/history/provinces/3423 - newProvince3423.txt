@@ -1,0 +1,6 @@
+capital = "newProvince3423"
+religion = kharijite
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1

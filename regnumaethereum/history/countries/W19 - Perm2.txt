@@ -1,0 +1,18 @@
+government = tribal
+add_government_reform = steppe_horde_legacy
+government_rank = 1
+primary_culture = ra_permian
+religion = finnic_rel
+technology_group = ra_nordic
+capital = 305
+
+1440.1.1 = {
+	monarch = {
+		name = "Rurik"
+		dynasty = "Permbat"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+

@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = judahite
+religion = jewish
+technology_group = ottoman
+capital = 379
+
+1444.1.1 = {
+	monarch = {
+		name = "Natronai"
+		dynasty = "Yhudah"
+		birth_date = 1402.2.15
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}

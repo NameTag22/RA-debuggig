@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = dwinian
+religion = slavic_rel
+technology_group = ra_nordic
+capital = 275
+
+1440.1.1 = {
+	monarch = {
+		name = "Kazimieras"
+		dynasty = "Gostautas"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+

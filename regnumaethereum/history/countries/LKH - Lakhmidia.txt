@@ -1,0 +1,18 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+primary_culture = bedouin_arabic
+religion = nestorian
+technology_group = muslim
+capital = 5030
+
+1444.1.1 = {
+	monarch = {
+		name = "al-Nu'man II"
+		dynasty = "Banu Lakhm"
+		birth_date = 1400.2.20
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+}

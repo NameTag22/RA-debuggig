@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = ilmen
+religion = slavic_rel
+technology_group = ra_nordic
+capital = 1752
+
+1440.1.1 = {
+	monarch = {
+		name = "Zvonimir"
+		dynasty = "Dukasin"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+

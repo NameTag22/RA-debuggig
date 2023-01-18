@@ -1,0 +1,30 @@
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 2
+primary_culture = yemeni_culture
+religion = sunni
+technology_group = muslim
+capital = 4279
+religious_school = shafii_school
+
+1444.1.1 = {
+	monarch = {
+		name = "Djazmund III"
+		dynasty = "Banu Kharf"
+		birth_date = 1397.9.30
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+1444.3.1 = {
+	heir = {
+		name = "Almun'ruii"
+		monarch_name = "Almun'ruii I"
+		dynasty = "Banu Kharf"
+		birth_date = 1426.12.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}

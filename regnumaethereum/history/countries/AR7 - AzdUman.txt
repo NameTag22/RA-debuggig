@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 2
+primary_culture = omani_culture
+religion = shiite
+technology_group = muslim
+capital = 403
+religious_school = zaidi_school
+
+1444.1.1 = {
+	monarch = {
+		name = "Khuza'a III"
+		dynasty = "Azdan"
+		birth_date = 1420.5.08
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}

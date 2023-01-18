@@ -1,0 +1,19 @@
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+primary_culture = gulf_arabic
+religion = sunni
+religious_school = shafii_school
+technology_group = muslim
+capital = 395
+
+1444.1.1 = {
+	monarch = {
+		name = "Onarhani Ali"
+		dynasty = "Zaifari"
+		birth_date = 1375.3.14
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}

@@ -1,0 +1,81 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = shiite
+primary_culture = hejazi_culture
+capital = 384	# Medina
+fixed_capital = 384
+religious_school = zaidi_school
+historical_rival = CLF
+
+1427.10.1 = {
+	monarch = {
+		name = "Mani bin Ali"
+		dynasty = "Husaynid"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+	heir = {
+		name = "Umyan bin Mani"
+		monarch_name = "Umyan bin Mani"
+		dynasty = "Husaynid"
+		birth_date = 1410.1.1
+		death_date = 1451.7.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1435.12.1 = {
+	monarch = {
+		name = "Umyan bin Mani"
+		dynasty = "Husaynid"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1439.1.1 = {
+	monarch = {
+		name = "Sulayman bin Ghurayr"
+		dynasty = "Husaynid"
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}
+
+1442.9.1 = {
+	monarch = {
+		name = "Haydara bin Dawghan"
+		dynasty = "Husaynid"
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+}
+
+1443.2.1 = {
+	monarch = {
+		name = "Yunus bin Kabsh"
+		dynasty = "Husaynid"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1443.5.1 = {
+	monarch = {
+		name = "Daygham bin Khasram"
+		dynasty = "Husaynid"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}

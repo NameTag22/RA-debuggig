@@ -1,0 +1,128 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 51 112 185 }
+revolutionary_colors = { 51 112 185 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Abba #0" = 10
+	"Abbaye #0" = 10
+	"Acha #0" = 10
+	"Aharon #0" = 10
+	"Alechsandri #0" = 10
+	"Amram #0" = 10
+	"Asher #0" = 10 
+	"Avraham #0" = 10
+	"Azariah #0" = 10
+	"Baruch #0" = 10
+	"Binyamin #0" = 10
+	"Chanan #0" = 10 
+	"Chananel #0" = 10
+	"Chanoch #0" = 10
+	"Chushiel #0" = 10
+	"Daniel #0" = 10
+	"David #0" = 10
+	"Efrayim #0" = 10
+	"Elazar #0" = 10
+	"Elchanan #0" = 10
+	"Elyakim #0" = 10
+	"Gershom #0" = 10
+	"Giat #0" = 10
+	"Giza #0" = 10
+	"Hillel #0" = 10
+	"Isaac #0" = 10
+	"Kalonymos #0" = 10
+	"Levi #0" = 10
+	"Machir #0" = 10
+	"Mar #0" = 10
+	"Menechem #0" = 10
+	"Meshulam #0" = 10
+	"Mordechai #0" = 10
+	"Moshe #0" = 10
+	"Nachshon #0" = 10
+	"Natan #0" = 10
+	"Nechemiah #0" = 10
+	"Nissim #0" = 10
+	"Peter #0" = 10
+	"Ravi #0" = 10
+	"Rivai #0" = 10
+	"Sechok #0" = 10
+	"Shalom #0" = 10
+	"Shemaryah #0" = 10
+	"Shimon #0" = 10
+	"Shmuel #0" = 10
+	"Sorgo #0" = 10
+	"Tamar #0" = 10
+	"Tzadok #0" = 10
+	"Tzemach #0" = 10
+	"Yaakov #0" = 10
+	"Yechiel #0" = 10
+	"Yehudah #0" = 10
+	"Yehoshua #0" = 10
+	"Yehudah #0" = 10
+	"Ma'nu #0" = 10
+	"Ezad #0" = 10
+	"Izates #0" = 10
+	"Habel #0" = 10
+	"Hiran #0" = 10
+	"Yosef #0" = 10
+	"Zelekman #0" = 10
+	"Maz'ur #0" = -1
+}
+
+leader_names = {
+	Abba Abbaye Acha Achai Achunai Aharon Alechsandri Ammi Amram Amunah Ashi Asher Avomai Avraham Azariah Baboi Baruch
+	Bibai Binyamin Boaz Bustenai Chanan Chananel Chaninai Chanoch Chaim Chayim Chelbo Chisdai Chiyya Chizkiyah Chofni Chushiel
+	Daniel David Dimi Dodai Dudai Efrayim Eina Elazar Elchanan Eldad Eliezer Elyakim Gedalyah Gershom Ghayyat Giat Giza Hillel 
+	Hila Isaac Ivomai Kafnai Kahana Kalonymos Levi Kiyomi Machir Malcha Mar Mari Matiyahu Meir Menechem Menashe Mesharsheya Meshulam 
+	Mevasser Mishael Mordechai Moshe Nachman Nachshon Nasan Natan Natroi Natronai Nechemiah Nehilai Nesanel Nissim Paltoi Pirkoi 
+	Peter Rava Ravai Ravi Ravya Reuven Rivai Saadiah Sechok Shabsai Shalom Shanoi Shemaryah Sherira Sheshna Shila Shimon Shinoi 
+	Shlomo Shmuel Sorgo Sulam Tachlifa Tamar Tzadok Tzemach Uri Yaakov Yachya Yechiel Yehudah Yehudai Yehoshua Yeshayah Yehudah 
+	Ma'nu Abgar Bakru Sanatruk Parthamaspates Paqor Aryu Abdu Fradhasht Wa'il Ezad Sumaqa Saphul Piqa Gebar'u Maz'ur
+	Izates Bazeus Monobaz Meharaspes Narsai Shahrat Aphraates
+	Erishum
+	Ahadabuhi
+	Hiran
+	Abedhmiha
+	Ashur
+	Lullaya
+	Adad-Nirari
+	Sennacherib
+	Essarhaddon
+	Izates
+	Shu-Ninua
+	Bazeus
+}
+
+ship_names = {
+	"Al-Armah" "Ad-Dahna" "Jabal Tuwayo"
+	"Nafüd Qunayfidahah" "Nafüd Shuqayyiqah"
+	"Al-Bayad" "Nafüd Ad-Dahy" "Nafüd As-Sirrah"
+	"Ar-Riyad" "Ad-Dilam" Shaqra
+}

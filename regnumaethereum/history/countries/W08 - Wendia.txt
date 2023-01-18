@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = wendish
+religion = slavic_rel
+technology_group = ra_nordic
+capital = 256
+
+1440.1.1 = {
+	monarch = {
+		name = "Drzislav"
+		dynasty = "Shishman"
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+

@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+primary_culture = gulf_arabic
+religion = shiite
+religious_school = jafari_school
+technology_group = muslim
+capital = 397
+
+1444.1.1 = {
+	monarch = {
+		name = "Hilmudar Un'wad"
+		dynasty = "Hanfiv"
+		birth_date = 1396.7.28
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}

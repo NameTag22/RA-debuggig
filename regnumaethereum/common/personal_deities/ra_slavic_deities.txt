@@ -1,0 +1,156 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new dieties, make sure they are uniquely named.
+
+ra_perun =
+{
+	shock_damage = 0.05
+	global_regiment_cost = -0.1
+	
+	allow = { religion = slavic_rel }
+	sprite = 19
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_balanced
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_capitalist
+		}
+	}
+}
+
+ra_veles =
+{
+	advisor_pool = 1
+	manpower_recovery_speed = 0.1
+	
+	allow = { religion = slavic_rel }
+	sprite = 20
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			personality = ai_militarist
+		}	
+		modifier = {
+			factor = 2
+			personality = ai_capitalist
+		}
+	}
+}
+
+
+
+ra_khors =
+{
+	development_cost = -0.05
+	production_efficiency = 0.1
+	
+	allow = { religion = slavic_rel }
+	sprite = 21
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			NOT = { num_of_cities = 5 }
+		}
+		modifier = {
+			factor = 2
+			NOT = { num_of_cities = 10 }
+		}
+		modifier = {
+			factor = 0.5
+			num_of_cities = 30
+		}
+		modifier = {
+			factor = 0.5
+			personality = ai_militarist
+		}	
+		modifier = {
+			factor = 2
+			personality = ai_capitalist
+		}			
+	}
+}
+
+ra_svarog =
+{
+	fire_damage_received = -0.05
+	siege_ability = 0.1
+	
+	allow = { religion = slavic_rel }
+	sprite = 22
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 0.5
+			personality = ai_capitalist
+		}	
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_diplomat
+		}		
+	}
+}
+
+
+ra_stribog =
+{
+	diplomats = 1
+	movement_speed = 0.1
+	
+	allow = { religion = slavic_rel }
+	sprite = 23
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_diplomat
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_capitalist
+		}		
+	}
+}
+
+ra_mokosha =
+{
+	accept_vassalization_reasons = 5
+	heir_chance = 0.5
+	female_advisor_chance = 0.5
+	
+	allow = { religion = slavic_rel }
+	sprite = 24
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_balanced
+		}	
+		modifier = {
+			factor = 2
+			personality = ai_diplomat
+		}		
+		modifier = {
+			factor = 2
+			personality = ai_capitalist
+		}	
+	}
+}

@@ -1,0 +1,21 @@
+government = tribal
+add_government_reform = steppe_horde_legacy
+government_rank = 1
+primary_culture = muron
+add_accepted_culture = mari
+add_accepted_culture = meshchera
+add_accepted_culture = mordvinian
+religion = finnic_rel
+technology_group = ra_nordic
+capital = 308
+
+1440.1.1 = {
+	monarch = {
+		name = "Lauri"
+		dynasty = "Sukbat"
+		adm = 6
+		dip = 2
+		mil = 0
+	}
+}
+

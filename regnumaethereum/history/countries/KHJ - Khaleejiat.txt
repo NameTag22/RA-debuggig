@@ -1,0 +1,18 @@
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 2
+primary_culture = gulf_arabic
+religion = kharijite
+technology_group = muslim
+capital = 2347
+
+1444.1.1 = {
+	monarch = {
+		name = "Malbuduragkh VIII"
+		dynasty = "Hif'in-naan"
+		birth_date = 1379.6.14
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}

@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = prussian
+religion = baltic_rel
+technology_group = ra_nordic
+capital = 42
+
+1440.1.1 = {
+	monarch = {
+		name = "Aishno"
+		dynasty = "Korybut"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+

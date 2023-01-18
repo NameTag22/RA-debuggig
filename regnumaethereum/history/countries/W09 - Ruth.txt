@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = eastern
+religion = orthodox
+primary_culture = antes
+capital = 280	# Kiev
+
+1440.1.1 = {
+	monarch = {
+		name = "Jaroslaw"
+		dynasty = "Sokolovic"
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}

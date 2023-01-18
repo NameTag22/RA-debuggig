@@ -1,0 +1,18 @@
+government = tribal
+add_government_reform = steppe_horde_legacy
+government_rank = 1
+primary_culture = bolgar
+religion = tengri_pagan_reformed
+technology_group = nomad_group
+capital = 2423
+
+1440.1.1 = {
+	monarch = {
+		name = "Vokil"
+		dynasty = "Samur"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+

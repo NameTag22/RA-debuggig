@@ -1,0 +1,18 @@
+government = tribal
+add_government_reform = steppe_horde_legacy
+government_rank = 1
+primary_culture = vespic
+religion = finnic_rel
+technology_group = ra_nordic
+capital = 4261
+
+1440.1.1 = {
+	monarch = {
+		name = "Sviatopolk"
+		dynasty = "Vespibat"
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+}
+

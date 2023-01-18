@@ -1,0 +1,20 @@
+government = theocracy
+add_government_reform = caliphate_reform
+government_rank = 3
+technology_group = muslim
+primary_culture = hejazi_culture
+religion = sunni
+religious_school = maliki_school
+capital = 385	# Mecca
+fixed_capital = 385
+
+1444.1.1 = {
+	monarch = {
+		name = "Maddanhudin Abi"
+		dynasty = "Jarbashid"
+		birth_date = 1413.5.28
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}

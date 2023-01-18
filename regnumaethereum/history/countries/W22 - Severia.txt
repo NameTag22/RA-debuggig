@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = severian
+religion = slavic_rel
+technology_group = ra_nordic
+capital = 293
+
+1440.1.1 = {
+	monarch = {
+		name = "Zdravko"
+		dynasty = "Vítkovec"
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+}
+

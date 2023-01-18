@@ -1,0 +1,18 @@
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+primary_culture = gulf_arabic
+religion = arabic_rel
+technology_group = muslim
+capital = 404
+
+1444.1.1 = {
+	monarch = {
+		name = "Hirmur II"
+		dynasty = "Tul'a Yasuf"
+		birth_date = 1404.4.14
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
