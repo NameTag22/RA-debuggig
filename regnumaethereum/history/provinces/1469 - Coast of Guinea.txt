@@ -1,2 +1,3 @@
-discovered_by = MAL
-discovered_by = JOL
+discovered_by = ra_african
+discovered_by = mal
+discovered_by = jol

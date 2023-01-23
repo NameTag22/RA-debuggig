@@ -1,6 +1,7 @@
 capital = "Baraba"
 owner = SHY
 controller = SHY
+add_core = SHY
 culture = kirgiz
 religion = tengri_pagan_reformed
 hre = no

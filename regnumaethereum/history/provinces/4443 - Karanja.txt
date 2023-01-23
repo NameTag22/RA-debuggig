@@ -1,6 +1,7 @@
 capital = "Karanja"
 owner = BAH
 controller = BAH
+add_core = BAH
 culture = marathi
 religion = hinduism
 hre = no

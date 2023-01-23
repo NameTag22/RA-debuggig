@@ -1,6 +1,7 @@
 capital = "Daming"
 owner = MNG
 controller = MNG
+add_core = MNG
 culture = chihan
 religion = confucianism
 hre = no

@@ -1,8 +1,9 @@
-discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
+discovered_by = nomad_group
+discovered_by = ra_nordic
+discovered_by = kaz
+discovered_by = cri
+discovered_by = gol
+discovered_by = ast
+discovered_by = qas

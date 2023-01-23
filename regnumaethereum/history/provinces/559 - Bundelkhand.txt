@@ -1,6 +1,7 @@
 capital = "Jhansi"
 owner = KLP
 controller = KLP
+add_core = KLP
 culture = vindhyan
 religion = hinduism
 hre = no

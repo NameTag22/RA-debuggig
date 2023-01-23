@@ -3418,6 +3418,8 @@ province;red;green;blue;x;x
 3417;219;32;227;UnusedLand227;x
 3418;219;32;228;UnusedLand228;x
 3419;219;32;229;UnusedLand229;x
+3420;140;173;29;newProvince3420;x
+3421;134;162;120;newProvince3421;x
 4020;239;204;149;Comoros;x
 4021;244;97;32;Antankara;x
 4022;217;166;43;Iboina;x
@@ -4427,3 +4429,15 @@ province;red;green;blue;x;x
 5026;223;221;156;Arelation;x
 5027;120;141;135;yyy;x
 5028;83;119;0;Bably;x
+5029;216;191;139;Madyan;x
+5030;160;238;147;Rafha;x
+5031;244;242;215;Ad-Dahna;x
+5032;177;100;67;Umluj;x
+5033;120;234;45;Khaybar;x
+5034;251;248;202;Tathleeth;x
+5035;193;88;70;Abha;x
+5036;112;57;172;Al-Hudaydah;x
+5037;44;192;185;Kindamawt;x
+5038;153;128;38;Zufar;x
+5039;79;179;13;Al-Juwairiya;x
+5040;181;155;140;Al-Udayd;x

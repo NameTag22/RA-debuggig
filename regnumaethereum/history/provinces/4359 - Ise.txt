@@ -1,6 +1,7 @@
 capital = "Kiriyama"
 owner = KTB
 controller = KTB
+add_core = KTB
 culture = japanese
 religion = shinto
 hre = no

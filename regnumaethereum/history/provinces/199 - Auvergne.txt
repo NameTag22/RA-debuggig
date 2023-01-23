@@ -9,12 +9,13 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 trade_goods = iron
-discovered_by = ra_nordic
-is_city = yes
-discovered_by = eastern
 discovered_by = western
-discovered_by = muslim
+discovered_by = eastern
 discovered_by = ottoman
+discovered_by = muslim
+discovered_by = ra_nordic
+discovered_by = ra_african
+is_city = yes
 latent_trade_goods = {
 	coal 
 }

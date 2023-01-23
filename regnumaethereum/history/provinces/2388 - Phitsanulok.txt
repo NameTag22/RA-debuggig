@@ -1,6 +1,7 @@
 capital = "Phitsanulok"
 owner = SUK
 controller = SUK
+add_core = SUK
 culture = central_thai
 religion = buddhism
 hre = no

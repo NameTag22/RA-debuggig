@@ -1,6 +1,7 @@
 capital = "Rajapur"
 owner = BAH
 controller = BAH
+add_core = BAH
 culture = marathi
 religion = sunni
 hre = no

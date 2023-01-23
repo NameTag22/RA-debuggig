@@ -1,6 +1,7 @@
 capital = "Mudgal"
 owner = VIJ
 controller = VIJ
+add_core = VIJ
 culture = kannada
 religion = hinduism
 hre = no

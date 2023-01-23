@@ -1,6 +1,11 @@
 capital = "Cambray"
 owner = BLF
 controller = BLF
+add_core = BLF
+add_core = BLF
+add_core = BLF
+add_core = BUR
+add_core = HAI
 culture = belgican
 religion = catholic
 hre = no
@@ -8,15 +13,12 @@ base_tax = 5
 base_production = 5
 base_manpower = 2
 trade_goods = grain
-add_core = BLF
-add_core = BLF
-add_core = BUR
-add_core = HAI
-discovered_by = ra_nordic
-discovered_by = eastern
 discovered_by = western
-discovered_by = muslim
+discovered_by = eastern
 discovered_by = ottoman
+discovered_by = muslim
+discovered_by = ra_nordic
+discovered_by = ra_african
 latent_trade_goods = {
 	coal 
 }

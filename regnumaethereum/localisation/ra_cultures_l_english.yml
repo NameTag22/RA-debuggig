@@ -36,6 +36,7 @@
  avar:0 "Avar"
  chuvash:0 "Chuvash"
  hunnic:0 "Hunnic"
+ oghur:0 "Onughur"
  
  #east balkanic
  eastern_balkanic:0 "Getae-Balkanic"
@@ -87,7 +88,7 @@
  celtiberian:0 "Celtiberian"
  lusitan:0 "Lusitan"
  turdetan:0 "Turdetan"
- ra_catelan:0 "Catelan"
+ ra_catelan:0 "Barcinonian"
  ra_valentian:0 "Valentian"
  balearic:0 "Balearic"
  castrox:0 "Castrox"
@@ -151,7 +152,24 @@
  duleb:0 "Dulebic"
  severian:0 "Severian"
  polan:0 "Polan"
- khorvat:0 "Khorvat"
+ khorvat:0 "Khrovat"
  antes:0 "Antes"
  dwinian:0 "Dwinian"
  ilmen:0 "Ilmen"
+ 
+ #baltic
+ curonian:0 "Curonian"
+ 
+ #finnic
+ ingrian:0 "Ingrian"
+ vespic:0 "Vespic"
+ volga:0 "Volganish"
+ mordvinian:0 "Mordvinian"
+ ra_permian:0 "Permian"
+ meshchera:0 "Meshchera"
+ muron:0 "Muron"
+ mari:0 "Mari"
+ 
+ #nilotic
+ nilotic:0 "Nilotic"
+ ra_egyptian:0 "Egyptian"

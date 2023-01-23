@@ -1,6 +1,7 @@
 capital = "Hengyang"
 owner = MNG
 controller = MNG
+add_core = MNG
 culture = xiang
 religion = animism
 hre = no

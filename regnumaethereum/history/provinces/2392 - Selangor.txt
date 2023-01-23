@@ -1,6 +1,7 @@
 capital = "Kelang"
 owner = MLC
 controller = MLC
+add_core = MLC
 culture = malayan
 religion = sunni
 hre = no

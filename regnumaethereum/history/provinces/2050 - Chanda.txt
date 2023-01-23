@@ -1,6 +1,7 @@
 capital = "Ballarsah"
 owner = CHD
 controller = CHD
+add_core = CHD
 culture = gondi
 religion = hinduism
 hre = no

@@ -925,7 +925,7 @@ trans_jordan_area = {
 }
 
 tabuk_area = {
-	383 2328 4268 4269 
+	383 2328 4268 4269 5029 5032 
 }
 
 medina_area = {
@@ -963,7 +963,7 @@ qasim_area = {
 }
 
 nafud_area = {
-	393 2338 4272 4985 4986 
+	393 2338 4272 4985 4986 5030 
 }
 
 bahrain_area = {

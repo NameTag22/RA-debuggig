@@ -1,6 +1,7 @@
 ﻿l_english:
  #tech
  ra_nordic:0 "Nordic"
+ ra_african:0 "North African"
  
  #unit names and desc
  ra_byzantine_spearmen:0 "Akontistís Infantry"

@@ -1,6 +1,7 @@
 capital = "Makwanpur"
 owner = KTU
 controller = KTU
+add_core = KTU
 culture = nepali
 religion = hinduism
 hre = no

@@ -1,6 +1,7 @@
 capital = "Kotoko"
 owner = YAO
 controller = YAO
+add_core = YAO
 culture = kanuri
 religion = shamanism
 hre = no

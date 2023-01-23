@@ -1,6 +1,7 @@
 capital = "Heraklion"
 owner = VEN
 controller = VEN
+add_core = VEN
 culture = greek
 religion = orthodox
 hre = no

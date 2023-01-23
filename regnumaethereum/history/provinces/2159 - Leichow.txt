@@ -1,6 +1,7 @@
 capital = "Leichow"
 owner = MNG
 controller = MNG
+add_core = MNG
 culture = chimin
 religion = confucianism
 hre = no

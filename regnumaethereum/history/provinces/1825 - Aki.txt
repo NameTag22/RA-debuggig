@@ -1,6 +1,7 @@
 capital = "Tomo"
 owner = HSK
 controller = HSK
+add_core = HSK
 culture = japanese
 religion = shinto
 hre = no

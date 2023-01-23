@@ -1,6 +1,7 @@
 capital = "Ningxia"
 owner = MNG
 controller = MNG
+add_core = MNG
 culture = mongol
 religion = confucianism
 hre = no

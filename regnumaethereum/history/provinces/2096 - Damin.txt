@@ -1,6 +1,7 @@
 capital = "Deogarh"
 owner = BNG
 controller = BNG
+add_core = BNG
 culture = jharkhandi
 religion = hinduism
 hre = no

@@ -1,6 +1,7 @@
 capital = "Wairagarh"
 owner = BAH
 controller = BAH
+add_core = BAH
 culture = gondi
 religion = hinduism
 hre = no

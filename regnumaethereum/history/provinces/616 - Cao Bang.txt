@@ -1,6 +1,7 @@
 capital = "Cao Bang"
 owner = DAI
 controller = DAI
+add_core = DAI
 culture = zhuang
 religion = mahayana
 hre = no

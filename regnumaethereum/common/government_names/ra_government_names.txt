@@ -134,3 +134,33 @@ doukato = {
 		culture_group = hellenic
 	}
 }
+
+caliphate_reform = {
+	rank = {
+		3 = RA_CALIPHATE
+	}
+	ruler_male = {
+		3 = RA_CALIPH
+	}
+	ruler_female = {
+		3 = KHALIPHA
+	}
+	
+	consort_male = {
+		3 = CONSORT
+	}
+	consort_female = {
+		3 = CONSORT
+	}
+	
+	heir_male = {
+		3 = HEIR
+	}
+	heir_female = {
+		3 = HEIR_FEM
+	}
+
+	trigger = {
+		tag = CLF
+	}
+}

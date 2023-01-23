@@ -1,6 +1,7 @@
 capital = "Chakla"
 owner = BNG
 controller = BNG
+add_core = BNG
 culture = chin
 religion = hinduism
 hre = no

@@ -1,6 +1,7 @@
 capital = "Nagnes"
 owner = KAT
 controller = KAT
+add_core = KAT
 culture = saurashtri
 religion = sunni
 hre = no

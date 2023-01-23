@@ -1,6 +1,7 @@
 capital = "Panipat"
 owner = MUL
 controller = MUL
+add_core = MUL
 culture = kanauji
 religion = nestorian
 hre = no

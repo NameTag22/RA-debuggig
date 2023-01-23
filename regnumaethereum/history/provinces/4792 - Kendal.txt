@@ -1,6 +1,7 @@
 capital = "Kendal"
 owner = MAJ
 controller = MAJ
+add_core = MAJ
 culture = javanese
 religion = hinduism
 hre = no

@@ -1,6 +1,7 @@
 capital = "Lahore"
 owner = SRH
 controller = SRH
+add_core = SRH
 culture = panjabi
 religion = hinduism
 hre = no

@@ -1,6 +1,7 @@
 capital = "Mahoba"
 owner = BND
 controller = BND
+add_core = BND
 culture = vindhyan
 religion = hinduism
 hre = no

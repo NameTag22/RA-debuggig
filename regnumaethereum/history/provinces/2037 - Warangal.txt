@@ -1,6 +1,7 @@
 capital = "Warangal"
 owner = BAH
 controller = BAH
+add_core = BAH
 culture = telegu
 religion = hinduism
 hre = no

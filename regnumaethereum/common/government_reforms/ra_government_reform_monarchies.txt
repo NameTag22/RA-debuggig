@@ -116,7 +116,7 @@ doukato = {
 		governing_capacity = -100
 	}
 	custom_attributes = {
-		locked_government_type = yes
+		locked_government_type = no
 	}
 }
 
@@ -146,6 +146,38 @@ megali_katastasi = {
 		siege_ability = 0.10
 		global_tax_modifier = 0.05
 		prestige_from_land = 0.15
+		
+	}
+	custom_attributes = {
+		locked_government_type = yes
+	}
+}
+
+caliphate_reform = {
+	icon = "muslim"
+	allow_normal_conversion = no
+	potential = {
+		tag = CLF
+		religion_group = muslim
+	}
+	legacy_equivalent = caliphate_reform_legacy
+	fixed_rank = 3
+	maintain_dynasty = yes
+	valid_for_nation_designer = no
+	nation_designer_cost = 0
+	lock_level_when_selected = yes
+	nation_designer_trigger = {
+		religion_group = muslim
+		religion = sunni
+	}
+	modifiers = {
+		cb_on_religious_enemies = yes
+		global_manpower_modifier = 0.2
+		devotion = 0.25
+		warscore_cost_vs_other_religion = -0.1
+		relation_with_same_religion = 20
+		relation_with_heathens = -10
+		relation_with_heretics = -20
 		
 	}
 	custom_attributes = {

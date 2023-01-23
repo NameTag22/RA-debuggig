@@ -1,6 +1,7 @@
 capital = "Tsurphu"
 owner = UTS
 controller = UTS
+add_core = UTS
 culture = tibetan
 religion = vajrayana
 hre = no

@@ -1,8 +1,14 @@
 capital = "Khaybar"
+owner = MDA
+controller = MDA
+add_core = MDA
+culture = bedouin_arabic
+religion = jewish
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
+trade_goods = livestock
 discovered_by = western
 discovered_by = eastern
 discovered_by = ottoman

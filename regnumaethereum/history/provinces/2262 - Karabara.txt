@@ -10,4 +10,5 @@ base_production = 3
 base_manpower = 1
 trade_goods = fish
 discovered_by = sub_saharan
+discovered_by = ra_african
 is_city = yes

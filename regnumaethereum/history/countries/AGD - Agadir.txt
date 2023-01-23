@@ -4,7 +4,7 @@ government_rank = 1
 mercantilism = 15
 primary_culture = atlasian
 religion = catholic
-technology_group = western
+technology_group = ra_african
 capital = 1110
 fixed_capital = 1110 
 

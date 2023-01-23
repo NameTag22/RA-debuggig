@@ -1,6 +1,7 @@
 capital = "Josutu"
 owner = KRC
 controller = KRC
+add_core = KRC
 culture = chahar
 religion = vajrayana
 hre = no

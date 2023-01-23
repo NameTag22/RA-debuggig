@@ -1,6 +1,7 @@
 capital = "Peshawar"
 owner = AFG
 controller = AFG
+add_core = AFG
 culture = afghani
 religion = buddhism
 hre = no

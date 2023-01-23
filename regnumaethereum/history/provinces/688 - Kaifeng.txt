@@ -1,6 +1,7 @@
 capital = "Kaifeng"
 owner = MNG
 controller = MNG
+add_core = MNG
 culture = zhongyuan
 religion = confucianism
 hre = no

@@ -1,6 +1,7 @@
 capital = "Chongqing"
 owner = MNG
 controller = MNG
+add_core = MNG
 culture = sichuanese
 religion = confucianism
 hre = no

@@ -1,6 +1,7 @@
 capital = "Chittagong"
 owner = BNG
 controller = BNG
+add_core = BNG
 culture = bengali
 religion = sunni
 hre = no

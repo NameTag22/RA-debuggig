@@ -1,6 +1,7 @@
 capital = "Golconda"
 owner = GOC
 controller = GOC
+add_core = GOC
 culture = telegu
 religion = hinduism
 hre = no

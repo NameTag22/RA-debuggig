@@ -1,6 +1,7 @@
 capital = "Sip Et"
 owner = LXA
 controller = LXA
+add_core = LXA
 culture = lao
 religion = buddhism
 hre = no

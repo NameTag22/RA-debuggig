@@ -759,6 +759,7 @@ theocracy = {
 				militarized_crusader_order_reform
 				merchant_theocracy_reform
 				reformer_state_reform
+				caliphate_reform
 			}
 		}
 		internal_vs_external_mission = {

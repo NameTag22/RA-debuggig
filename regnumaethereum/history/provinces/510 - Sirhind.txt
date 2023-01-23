@@ -1,6 +1,7 @@
 capital = "Sirhind"
 owner = SRH
 controller = SRH
+add_core = SRH
 culture = panjabi
 religion = nestorian
 hre = no

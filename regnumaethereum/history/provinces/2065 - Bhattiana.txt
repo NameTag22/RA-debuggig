@@ -1,6 +1,7 @@
 capital = "Hisar"
 owner = MUL
 controller = MUL
+add_core = MUL
 culture = rajput
 religion = nestorian
 hre = no

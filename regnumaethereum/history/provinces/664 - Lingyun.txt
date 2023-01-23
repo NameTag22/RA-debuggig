@@ -1,6 +1,7 @@
 capital = "Lingyun"
 owner = MNG
 controller = MNG
+add_core = MNG
 culture = zhuang
 religion = confucianism
 hre = no

@@ -1,6 +1,7 @@
 capital = "Sorko"
 owner = ZZZ
 controller = ZZZ
+add_core = ZZZ
 culture = hausa
 religion = shamanism
 hre = no

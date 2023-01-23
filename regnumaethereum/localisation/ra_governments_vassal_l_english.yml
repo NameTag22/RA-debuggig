@@ -7,6 +7,8 @@
  doukato_desc:0 " "
  megali_katastasi:0 "Megali Katastasi State"
  megali_katastasi_desc:0 " "
+ caliphate_reform:0 "Caliphate"
+ caliphate_reform_desc:0 " "
  
  #royal titles
  KATASTASI:0 "Katastasi"
@@ -17,6 +19,9 @@
  VASILOPOULA:0 "Vasılopoula"
  BASILEIA:0 "Basileia"
  BASILEUS:0 "Basileus"
+ RA_CALIPHATE:0 "Islamic Caliphate"
+ RA_CALIPH:0 "Caliph"
+ KHALIPHA:0 "Khalipha"
  
  #subject type
  katastasi_vassal_title:0 "Katastasi"

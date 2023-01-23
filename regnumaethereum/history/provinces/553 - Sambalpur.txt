@@ -1,6 +1,7 @@
 capital = "Sambalpur"
 owner = PTT
 controller = PTT
+add_core = PTT
 culture = garjati
 religion = hinduism
 hre = no

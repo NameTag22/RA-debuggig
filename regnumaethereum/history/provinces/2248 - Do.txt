@@ -10,6 +10,7 @@ base_production = 4
 base_manpower = 1
 trade_goods = livestock
 discovered_by = sub_saharan
+discovered_by = ra_african
 is_city = yes
 native_size = 40
 native_ferocity = 4

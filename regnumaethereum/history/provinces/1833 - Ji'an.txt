@@ -1,6 +1,7 @@
 capital = "Ji'an"
 owner = MNG
 controller = MNG
+add_core = MNG
 culture = gan
 religion = confucianism
 hre = no

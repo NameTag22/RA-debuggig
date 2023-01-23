@@ -1,6 +1,7 @@
 capital = "Surguja"
 owner = NGP
 controller = NGP
+add_core = NGP
 culture = jharkhandi
 religion = hinduism
 hre = no

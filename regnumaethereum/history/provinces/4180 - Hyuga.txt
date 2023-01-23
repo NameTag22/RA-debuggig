@@ -1,6 +1,7 @@
 capital = "Obi"
 owner = ITO
 controller = ITO
+add_core = ITO
 culture = kyushuan
 religion = shinto
 hre = no

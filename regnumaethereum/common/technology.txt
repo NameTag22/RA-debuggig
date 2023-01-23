@@ -251,9 +251,24 @@ groups = {
 	ra_nordic = {
 		start_level = 3
 		start_cost_modifier = 0.45
-		nation_designer_trigger = {
-			has_reform = steppe_horde
+		nation_designer_cost = {
+			trigger = {
+				capital_scope = {
+					OR = {
+						continent = new_world
+						continent = north_america
+						continent = south_america
+						continent = oceania
+					}
+				}
+			}
+			value = 75
 		}
+	}
+	
+	ra_african = {
+		start_level = 3
+		start_cost_modifier = 0.35
 		nation_designer_cost = {
 			trigger = {
 				capital_scope = {

@@ -1,4 +1,4 @@
-﻿capital = "Liege"
+capital = "Liege"
 owner = G18
 controller = G18
 add_core = G18
@@ -9,11 +9,11 @@ base_tax = 6
 base_production = 6
 base_manpower = 3
 trade_goods = glass
+fort_15th = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = ottoman
 discovered_by = muslim
+discovered_by = ra_nordic
+discovered_by = ra_african
 is_city = yes
-fort_15th = yes
-
-

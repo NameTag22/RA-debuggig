@@ -11,6 +11,7 @@ base_manpower = 1
 trade_goods = livestock
 discovered_by = sub_saharan
 add_core = WGD
+add_core = WGD
 add_core = TEN
 is_city = yes
 native_size = 40

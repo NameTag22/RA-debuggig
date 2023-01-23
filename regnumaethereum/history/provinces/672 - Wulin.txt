@@ -1,6 +1,7 @@
 capital = "Wulin"
 owner = MNG
 controller = MNG
+add_core = MNG
 culture = xiang
 religion = confucianism
 hre = no

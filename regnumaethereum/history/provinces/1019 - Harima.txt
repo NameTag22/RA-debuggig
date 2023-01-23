@@ -1,6 +1,7 @@
 capital = "Himeji"
 owner = YMN
 controller = YMN
+add_core = YMN
 culture = japanese
 religion = shinto
 hre = no

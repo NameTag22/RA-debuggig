@@ -1,6 +1,7 @@
 capital = "Kiyosu"
 owner = ODA
 controller = ODA
+add_core = ODA
 culture = togoku
 religion = shinto
 hre = no

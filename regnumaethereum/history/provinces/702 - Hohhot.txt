@@ -1,6 +1,7 @@
 capital = "Hohhot"
 owner = MNG
 controller = MNG
+add_core = MNG
 culture = mongol
 religion = vajrayana
 hre = no

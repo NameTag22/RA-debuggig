@@ -1,6 +1,7 @@
 capital = "Umung"
 owner = MNG
 controller = MNG
+add_core = MNG
 culture = yi
 religion = animism
 hre = no

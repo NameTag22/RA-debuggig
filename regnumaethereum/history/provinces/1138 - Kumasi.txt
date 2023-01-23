@@ -1,5 +1,4 @@
 capital = "Akyem Kotoko"
-add_core = ASH
 culture = aka
 religion = shamanism
 hre = no

@@ -1,6 +1,7 @@
 capital = "Midnapore"
 owner = ORI
 controller = ORI
+add_core = ORI
 culture = bengali
 religion = hinduism
 hre = no

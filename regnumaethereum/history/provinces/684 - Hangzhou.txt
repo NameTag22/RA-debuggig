@@ -1,6 +1,7 @@
 capital = "Hangzhou"
 owner = MNG
 controller = MNG
+add_core = MNG
 culture = wu
 religion = confucianism
 hre = no

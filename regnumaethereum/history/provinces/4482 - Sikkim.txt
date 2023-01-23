@@ -1,6 +1,7 @@
 capital = "Yuksom"
 owner = LWA
 controller = LWA
+add_core = LWA
 culture = nepali
 religion = vajrayana
 hre = no

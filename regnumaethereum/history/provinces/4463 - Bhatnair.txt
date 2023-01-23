@@ -1,6 +1,7 @@
 capital = "Bhatnair"
 owner = SRH
 controller = SRH
+add_core = SRH
 culture = rajput
 religion = hinduism
 hre = no

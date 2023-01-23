@@ -1,6 +1,7 @@
 capital = "Ngoyo"
 owner = KON
 controller = KON
+add_core = KON
 culture = kongolese
 religion = shamanism
 hre = no

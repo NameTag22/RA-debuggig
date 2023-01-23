@@ -1,6 +1,7 @@
 capital = "Vizianagaram"
 owner = ORI
 controller = ORI
+add_core = ORI
 culture = telegu
 religion = hinduism
 hre = no

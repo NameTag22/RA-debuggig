@@ -1,6 +1,7 @@
 capital = "Etawah"
 owner = DLH
 controller = DLH
+add_core = DLH
 culture = kanauji
 religion = hinduism
 hre = no

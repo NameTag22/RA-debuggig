@@ -1,6 +1,7 @@
 capital = "Ha Tinh"
 owner = DAI
 controller = DAI
+add_core = DAI
 culture = vietnamese
 religion = mahayana
 hre = no

@@ -1,6 +1,7 @@
 capital = "Masulipatnam"
 owner = YOR
 controller = YOR
+add_core = YOR
 culture = telegu
 religion = hinduism
 hre = no

@@ -1,6 +1,7 @@
 capital = "Bannu"
 owner = MUL
 controller = MUL
+add_core = MUL
 culture = panjabi
 religion = buddhism
 hre = no

@@ -1,6 +1,7 @@
 capital = "Bhutan"
 owner = PHA
 controller = PHA
+add_core = PHA
 culture = tibetan
 religion = vajrayana
 hre = no

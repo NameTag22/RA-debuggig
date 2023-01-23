@@ -1,6 +1,7 @@
 capital = "Gingee"
 owner = VIJ
 controller = VIJ
+add_core = VIJ
 culture = tamil
 religion = hinduism
 hre = no

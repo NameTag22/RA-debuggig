@@ -11,5 +11,6 @@ base_manpower = 1
 trade_goods = livestock
 discovered_by = sub_saharan
 add_core = YAT
+add_core = YAT
 add_core = ZND
 is_city = yes

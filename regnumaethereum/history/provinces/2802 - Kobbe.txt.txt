@@ -1,5 +1,4 @@
 capital = "Kobbe"
-add_core = DAR
 culture = tunjur
 religion = shamanism
 hre = no

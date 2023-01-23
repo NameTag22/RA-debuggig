@@ -115,15 +115,15 @@
  nestorian_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
  nestorian_rebels_army: "$RELIGION$ Army"
  
- ra_icon_nestorius:0 "Mor Nestorius"
+ ra_icon_nestorius:0 "Icon of Mor Nestorius"
  ra_icon_nestorius_desc:0 "WIP"
- ra_icon_ibas:0 "Ibas of Edessa"
+ ra_icon_ibas:0 "Icon of Ibas of Edessa"
  ra_icon_ibas_desc:0 "WIP"
- ra_icon_ephrem:0 "Ephrem of Nisibis"
+ ra_icon_ephrem:0 "Icon of Ephrem of Nisibis"
  ra_icon_ephrem_desc:0 "WIP"
- ra_icon_theodore:0 "Theodore of Antioch"
+ ra_icon_theodore:0 "Icon of Theodore of Antioch"
  ra_icon_theodore_desc:0 "WIP"
- ra_icon_eugenios:0 "Awgin of Clysma"
+ ra_icon_eugenios:0 "Icon of Awgin of Clysma"
  ra_icon_eugenios_desc:0 "WIP"
  
  #zunism
@@ -148,10 +148,10 @@
  baltic_rel_religion_desc:0 "WIP"
  old_baltic:0 "Old Romuva"
  
- BALTIC_REL_ASPECT_LONG:0 "Aspect of Faith"
- BALTIC_REL_ASPECT_SHORT:0 "aspect"
- baltic_rel_aspect_long:0 "Aspect of Faith"
- baltic_rel_aspect_short:0 "aspect"
+ BALTIC_ASPECTS_LONG:0 "Aspect of Faith"
+ BALTIC_ASPECTS_SHORT:0 "aspect"
+ baltic_aspects_long:0 "Aspect of Faith"
+ baltic_aspects_short:0 "aspect"
  
  baltic_rel_rebels_demand: "Convert $COUNTRYNAME$"
  baltic_rel_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
@@ -159,10 +159,21 @@
  baltic_rel_rebels_name: "$RELIGION$ Zealots"
  baltic_rel_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
  baltic_rel_rebels_army: "$RELIGION$ Army"
- 
+ ra_baltic1:0 "Blessing of Dievas"
+ ra_baltic2:0 "Blessing of Zemyna"
+ ra_baltic3:0 "Blessing of Gabija"
+ ra_baltic4:0 "Blessing of Bangpütys"
+ ra_baltic5:0 "Blessing of Perkünas"
+ ra_baltic6:0 "Blessing of Saule"
+ ra_baltic7:0 "Hospitality of Laume"
+ ra_baltic8:0 "Visions of Laima"
+ ra_baltic9:0 "Myth of Jürate and Kastytis"
+ ra_baltic10:0 "Luck of Aitvaras"
+ ra_baltic11:0 "House Dausos"
+
  
  #slavic_rel
- slavic_rel:0 "Rodnevery"
+ slavic_rel:0 "Slavic"
  slavic_rel_religion_desc:0 "WIP"
  old_slavic:0 "Old Slavic"
  
@@ -177,6 +188,20 @@
  slavic_rel_rebels_name: "$RELIGION$ Zealots"
  slavic_rel_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
  slavic_rel_rebels_army: "$RELIGION$ Army"
+ 
+ ra_perun: "Perun"
+ ra_veles: "Veles"
+ ra_khors: "Khors"
+ ra_svarog: "Svarog"
+ ra_stribog: "Stribog"
+ ra_mokosha: "Mokosha"
+ 
+ ra_perun_desc: "WIP"
+ ra_veles_desc: "WIP"
+ ra_khors_desc: "WIP"
+ ra_svarog_desc: "WIP"
+ ra_stribog_desc: "WIP"
+ ra_mokosha_desc: "WIP"
  
  
  #mani_rel
@@ -218,10 +243,10 @@
  finnic_rel_religion_desc:0 "WIP"
  old_finnic:0 "Old Suomenusko"
  
- MANI_REL_ASPECT_LONG:0 "Aspect of Faith"
- MANI_REL_ASPECT_SHORT:0 "aspect"
- jainism_aspect_long:0 "Aspect of Faith"
- jainism_aspect_short:0 "aspect"
+ MANI_REL_ASPECTs_LONG:0 "Aspect of Faith"
+ MANI_REL_ASPECTs_SHORT:0 "aspect"
+ jainism_aspects_long:0 "Aspect of Faith"
+ jainism_aspects_short:0 "aspect"
  
  finnic_rel_rebels_demand: "Convert $COUNTRYNAME$"
  finnic_rel_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
@@ -263,3 +288,37 @@
  amastani_rebels_name: "$RELIGION$ Zealots"
  amastani_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
  amastani_rebels_army: "$RELIGION$ Army"
+ 
+ #arabic
+ arabic_rel:0 "Arabic"
+ arabic_rel_religion_desc:0 "WIP"
+ old_arabic:0 "Old Arabic"
+ 
+ arabic_ASPECTS_LONG:0 "Aspect of Faith"
+ arabic_REL_ASPECTS_SHORT:0 "aspect"
+ arabic_aspects_long:0 "Aspect of Faith"
+ arabic_aspects_short:0 "aspect"
+ 
+ arabic_rel_rebels_demand: "Convert $COUNTRYNAME$"
+ arabic_rel_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ arabic_rel_rebels_title: "Religious"
+ arabic_rel_rebels_name: "$RELIGION$ Zealots"
+ arabic_rel_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ arabic_rel_rebels_army: "$RELIGION$ Army"
+ 
+ #kharijite
+ kharijite:0 "Kharijite"
+ kharijite_religion_desc:0 "WIP"
+ kharistic:0 "Kharistic"
+ 
+ kharijite_ASPECTS_LONG:0 "Aspect of Faith"
+ kharijite_ASPECTS_SHORT:0 "aspect"
+ kharijite_aspects_long:0 "Aspect of Faith"
+ kharijite_aspects_short:0 "aspect"
+ 
+ kharijite_rebels_demand: "Convert $COUNTRYNAME$"
+ kharijite_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ kharijite_rebels_title: "Religious"
+ kharijite_rebels_name: "$RELIGION$ Zealots"
+ kharijite_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ kharijite_rebels_army: "$RELIGION$ Army"

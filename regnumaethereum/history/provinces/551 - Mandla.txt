@@ -1,6 +1,7 @@
 capital = "Mandla"
 owner = GDW
 controller = GDW
+add_core = GDW
 culture = gondi
 religion = hinduism
 hre = no

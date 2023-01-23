@@ -1,6 +1,7 @@
 capital = "Takefu"
 owner = SBA
 controller = SBA
+add_core = SBA
 culture = japanese
 religion = shinto
 hre = no

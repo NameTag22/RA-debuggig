@@ -1,6 +1,7 @@
 capital = "Luang Namtha"
 owner = LXA
 controller = LXA
+add_core = LXA
 culture = lao
 religion = animism
 hre = no

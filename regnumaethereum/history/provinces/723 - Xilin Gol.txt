@@ -1,6 +1,7 @@
 capital = "Xilin Gol"
 owner = KHA
 controller = KHA
+add_core = KHA
 culture = mongol
 religion = vajrayana
 hre = no

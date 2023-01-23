@@ -1,6 +1,7 @@
 capital = "Indrapura"
 owner = CHA
 controller = CHA
+add_core = CHA
 culture = cham
 religion = hinduism
 hre = no

@@ -1,6 +1,7 @@
 capital = "Bechbaliq"
 owner = CHG
 controller = CHG
+add_core = CHG
 culture = uyghur
 religion = tengri_pagan_reformed
 hre = no

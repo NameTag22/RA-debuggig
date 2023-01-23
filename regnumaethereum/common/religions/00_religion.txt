@@ -1821,6 +1821,26 @@ muslim = {
 		uses_piety = yes				# Uses piety mechanics
 	}
 	
+	kharijite = {
+		color = { 26 122 76 }
+		icon = 43
+		country = {
+			heir_chance = 1.0
+			warscore_cost_vs_other_religion = -0.1
+		}
+		country_as_secondary = {
+			administrative_efficiency = 0.25
+			advisor_cost = -0.1
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		
+		heretic = { KHARISTIC }
+		
+		uses_piety = yes				# Uses piety mechanics
+	}
+	
 	harmonized_modifier = harmonized_muslim
 	
 	crusade_name = JIHAD
@@ -2804,6 +2824,36 @@ pagan = {
 		fetishist_cult = yes
 		heretic = { WAGYLKOOP MOORAMOORA GINGARRURNDE }
 	}
+	arabic_rel = {
+		icon = 42
+		color = { 94 58 9 }
+		country = {
+			build_cost = -0.1
+			merchants = 1
+		}
+		country_as_secondary = {
+			build_cost = -0.1
+			merchants = 1
+		}
+		province = {
+			local_missionary_strength = 0.03
+		}
+		
+		uses_anglican_power = yes				
+		
+		aspects = {
+			arabic_rel_1
+			arabic_rel_2
+			arabic_rel_3
+			arabic_rel_4
+			arabic_rel_5
+			arabic_rel_6
+			arabic_rel_7
+		}
+		aspects_name = ARABIC_ASPECTS
+		
+		heretic = { OLD_ARABIC }	
+	}
 	
 	
 	crusade_name = CRUSADE
@@ -3019,29 +3069,39 @@ zoroastrian_group = {
 			land_forcelimit_modifier = 0.1
 		}
 		heretic = { OLD_SLAVIC }
-		holy_sites = {  }
-		
-		blessings = {
-			
-		}
+		personal_deity = yes
 	}
 	
 	baltic_rel = {
 		color = { 27 84 28 }
 		icon = 37
 		country = {
-			shock_damage_received = -0.05
+			defensiveness = 0.1
 			naval_forcelimit_modifier = 0.1
 		}
 		province = {
 			local_missionary_strength = 0.02
 		}
 		country_as_secondary = {
-			shock_damage = 0.05
+			defensiveness = 0.1
 			naval_forcelimit_modifier = 0.1
 		}
 		heretic = { OLD_BALTIC }
-		personal_deity = yes
+		uses_church_power = yes	
+		aspects = {
+			ra_baltic1
+			ra_baltic2
+			ra_baltic3
+			ra_baltic4
+			ra_baltic5
+			ra_baltic6
+			ra_baltic7
+			ra_baltic8
+			ra_baltic9
+			ra_baltic10
+			ra_baltic11
+		}
+		aspects_name = BALTIC_ASPECTS
 	}
 	
 	norse_pagan_reformed = {

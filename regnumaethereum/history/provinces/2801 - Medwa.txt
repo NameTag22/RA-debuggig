@@ -1,5 +1,4 @@
 capital = "Medowa"
-add_core = DAR
 culture = tunjur
 religion = shamanism
 hre = no

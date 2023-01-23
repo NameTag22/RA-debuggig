@@ -1,6 +1,7 @@
 capital = "Tara"
 owner = SHY
 controller = SHY
+add_core = SHY
 culture = siberian
 religion = tengri_pagan_reformed
 hre = no

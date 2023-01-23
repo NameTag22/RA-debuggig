@@ -1,6 +1,7 @@
 capital = "Vah"
 owner = SHY
 controller = SHY
+add_core = SHY
 culture = ostyaki
 religion = tengri_pagan_reformed
 hre = no

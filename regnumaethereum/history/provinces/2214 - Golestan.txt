@@ -1,6 +1,7 @@
 capital = "Asatarabad"
 owner = KHO
 controller = KHO
+add_core = KHO
 culture = mazandarani
 religion = zoroastrian
 hre = no

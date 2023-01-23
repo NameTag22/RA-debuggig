@@ -1,6 +1,7 @@
 capital = "Hoboksar"
 owner = OIR
 controller = OIR
+add_core = OIR
 culture = oirats
 religion = tengri_pagan_reformed
 hre = no

@@ -1,6 +1,7 @@
 capital = "Wuding"
 owner = MNG
 controller = MNG
+add_core = MNG
 culture = shandong_culture
 religion = confucianism
 hre = no

@@ -1,6 +1,7 @@
 capital = "Udayagiri"
 owner = VIJ
 controller = VIJ
+add_core = VIJ
 culture = telegu
 religion = hinduism
 hre = no

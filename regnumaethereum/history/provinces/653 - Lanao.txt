@@ -1,6 +1,7 @@
 capital = "Marawi"
 owner = MGD
 controller = MGD
+add_core = MGD
 culture = filipino
 religion = animism
 hre = no

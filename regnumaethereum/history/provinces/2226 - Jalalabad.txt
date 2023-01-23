@@ -1,6 +1,7 @@
 capital = "Jalalabad"
 owner = AFG
 controller = AFG
+add_core = AFG
 culture = afghani
 religion = zunism
 hre = no

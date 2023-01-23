@@ -1,6 +1,7 @@
 capital = "Devarakonda"
 owner = TLG
 controller = TLG
+add_core = TLG
 culture = telegu
 religion = hinduism
 hre = no

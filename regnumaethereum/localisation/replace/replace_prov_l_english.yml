@@ -26,8 +26,8 @@
  
  
  #countries
- CAT:0 "Catelonia"
- CAT_ADJ:0 "Catelonian"
+ CAT:0 "Barcinonia"
+ CAT_ADJ:0 "Barcinonian"
  
  PAP:0 "Pontifical States"
  PAP_ADJ:0 "Pontifical"
@@ -47,7 +47,10 @@
  danish:0 "Jutish"
  finnish:0 "Suomish"
  irish:0 "Eirish"
- 
+ prussian:0 "Pruthenian"
+ latvian:0 "Latgalian"
+ lithuanian:0 "Litavunian"
+ estonian:0 "Eestic"
  
  
  

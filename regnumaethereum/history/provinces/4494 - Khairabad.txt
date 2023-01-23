@@ -1,6 +1,7 @@
 capital = "Khairabad"
 owner = JNP
 controller = JNP
+add_core = JNP
 culture = avadhi
 religion = hinduism
 hre = no

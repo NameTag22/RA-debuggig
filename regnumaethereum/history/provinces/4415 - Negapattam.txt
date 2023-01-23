@@ -1,6 +1,7 @@
 capital = "Negapatam"
 owner = VIJ
 controller = VIJ
+add_core = VIJ
 culture = tamil
 religion = sunni
 hre = no

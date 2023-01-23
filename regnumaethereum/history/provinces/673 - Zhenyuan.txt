@@ -1,6 +1,7 @@
 capital = "Zhenyuan"
 owner = MNG
 controller = MNG
+add_core = MNG
 culture = miao
 religion = animism
 hre = no

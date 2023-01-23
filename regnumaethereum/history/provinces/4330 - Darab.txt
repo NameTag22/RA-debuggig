@@ -1,6 +1,7 @@
 capital = "Darab"
 owner = FRS
 controller = FRS
+add_core = FRS
 culture = persian
 religion = zoroastrian
 hre = no

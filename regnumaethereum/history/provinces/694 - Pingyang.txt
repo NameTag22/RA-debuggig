@@ -1,6 +1,7 @@
 capital = "Pingyang"
 owner = MNG
 controller = MNG
+add_core = MNG
 culture = jin
 religion = confucianism
 hre = no
