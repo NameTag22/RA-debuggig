@@ -66,7 +66,7 @@ monarchy = {
 				theosskia
 				katastasi
 				doukato
-				megali_katstasi
+				megali_katastasi
 			}
 		}
 		hereditary_vs_nobility = {
@@ -243,10 +243,9 @@ monarchy = {
 		solomonic_empire_legacy
 		musa_rule_legacy
 		mossi_federal_kingdom_legacy
-		#RA
-		doukato_legacy
-		katastasi_legacy
 		theosskia_legacy
+		katastasi_legacy
+		doukato_legacy
 		megali_katastasi_legacy
 	}
 
@@ -303,7 +302,7 @@ monarchy = {
 		parliamentary_reform
 		theosskia
 		katastasi
-		doukatos
+		doukato
 	}
 
 	#Military
@@ -743,6 +742,7 @@ theocracy = {
 		theocratic_government
 		monastic_order_government
 		holy_state_legacy
+		caliphate_reform_legacy
 	}
 	reform_levels = {
 		theocratic_leadership = {
@@ -759,6 +759,7 @@ theocracy = {
 				militarized_crusader_order_reform
 				merchant_theocracy_reform
 				reformer_state_reform
+				#RA
 				caliphate_reform
 			}
 		}
